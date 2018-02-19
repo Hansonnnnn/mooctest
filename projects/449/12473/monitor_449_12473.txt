@@ -1,0 +1,453 @@
+Part	2016-06-26-21-41-52	MoocTest	activated
+Part	2016-06-26-21-42-20	MoocTest	deactivated
+Part	2016-06-26-21-42-20	Package Explorer	activated
+Part	2016-06-26-21-42-24	N_QUEENTest.java	opened
+Part	2016-06-26-21-42-24	N_QUEENTest.java	broughtToTop
+Part	2016-06-26-21-42-24	Package Explorer	deactivated
+CaretPosition	2016-06-26-21-42-24	N_QUEENTest.java	33
+Part	2016-06-26-21-42-24	N_QUEENTest.java	activated
+CaretPosition	2016-06-26-21-42-25	N_QUEENTest.java	33
+Part	2016-06-26-21-42-58	N_QUEENTest.java	deactivated
+Part	2016-06-26-21-42-58	Package Explorer	activated
+Part	2016-06-26-21-43-02	N_QUEEN.java	opened
+Part	2016-06-26-21-43-02	N_QUEEN.java	broughtToTop
+Part	2016-06-26-21-43-02	Package Explorer	deactivated
+CaretPosition	2016-06-26-21-43-02	N_QUEEN.java	1
+Part	2016-06-26-21-43-02	N_QUEEN.java	activated
+Part	2016-06-26-21-43-16	N_QUEEN.java	deactivated
+Part	2016-06-26-21-43-16	Package Explorer	activated
+Part	2016-06-26-21-43-16	CheckStrategy.java	opened
+Part	2016-06-26-21-43-16	CheckStrategy.java	broughtToTop
+Part	2016-06-26-21-43-16	Package Explorer	deactivated
+CaretPosition	2016-06-26-21-43-16	CheckStrategy.java	1
+Part	2016-06-26-21-43-16	CheckStrategy.java	activated
+CaretPosition	2016-06-26-21-43-16	CheckStrategy.java	1
+CaretPosition	2016-06-26-21-43-25	CheckStrategy.java	8
+CaretPosition	2016-06-26-21-43-31	CheckStrategy.java	8
+CaretPosition	2016-06-26-21-43-32	CheckStrategy.java	8
+Part	2016-06-26-21-43-34	Test01.java	opened
+Part	2016-06-26-21-43-34	CheckStrategy.java	deactivated
+CaretPosition	2016-06-26-21-43-34	Test01.java	25
+Part	2016-06-26-21-43-34	Test01.java	activated
+Part	2016-06-26-21-43-34	Test01.java	broughtToTop
+CaretPosition	2016-06-26-21-43-35	Test01.java	25
+CaretPosition	2016-06-26-21-43-36	Test01.java	29
+CaretPosition	2016-06-26-21-43-38	Test01.java	30
+CaretPosition	2016-06-26-21-43-40	Test01.java	276
+CaretPosition	2016-06-26-21-43-42	Test01.java	276
+CaretPosition	2016-06-26-21-43-45	Test01.java	10
+CaretPosition	2016-06-26-21-43-46	Test01.java	11
+CaretPosition	2016-06-26-21-44-00	Test01.java	11
+CaretPosition	2016-06-26-21-44-01	Test01.java	11
+CaretPosition	2016-06-26-21-44-03	Test01.java	12
+CaretPosition	2016-06-26-21-44-06	Test01.java	12
+CaretPosition	2016-06-26-21-44-08	Test01.java	12
+FileChange	2016-06-26-21-44-09	/Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/Test01.java	[InsertDelta, position: 10, lines: [	private int x;, 	private int y;]]	[InsertDelta, position: 29, lines: [	public boolean checkStrategy(int e, ArrayList<Integer> list){, 		boolean isN_QUEEN = true;, 		x = e%10;, 		y = e/10;, 		if((y == 1)&&(x == 1)){, 			isN_QUEEN = checkRightHorizontal(e,list);//向右, 			isN_QUEEN = checkRightAndDown(e,list);//向右下, 			isN_QUEEN = checkDownVertical(e, list);//向下, 		}else if((y == 1)&&(x == 8)){, 			isN_QUEEN = checkRightHorizontal(e,list);//向右, 			isN_QUEEN = checkRightAndUp(e, list);//向右上, 			isN_QUEEN = checkUpVertical(e, list);//向上, 		}else if((y == 8)&&(x == 1)){, 			isN_QUEEN = checkLeftHorizontal(e,list);//向左, 			isN_QUEEN = checkLeftAndDown(e, list);//向左下, 			isN_QUEEN = checkDownVertical(e, list);//向下, 		}else if((y == 8)&&(x == 8)){, 			isN_QUEEN = checkLeftHorizontal(e,list);//向左, 			isN_QUEEN = checkUpVertical(e, list);//向上, 			isN_QUEEN = checkLeftAndUp(e, list);//向左上, 		}else if(x == 1){, 			isN_QUEEN = checkDownVertical(e,list);//向下, 			isN_QUEEN = checkRightHorizontal(e, list);//向右, 			isN_QUEEN = checkLeftHorizontal(e, list);//向左, 			isN_QUEEN = checkLeftAndDown(e, list);//向左下, 			isN_QUEEN = checkRightAndDown(e, list);//向右下, 		}else if(x == 8){, 			isN_QUEEN = checkUpVertical(e,list);//向上, 			isN_QUEEN = checkRightHorizontal(e, list);//向右, 			isN_QUEEN = checkLeftHorizontal(e, list);//向左, 			isN_QUEEN = checkLeftAndUp(e, list);//向左上, 			isN_QUEEN = checkRightAndUp(e, list);//向右上, 		}else if(y == 1){, 			isN_QUEEN = checkRightHorizontal(e,list);//向右, 			isN_QUEEN = checkUpVertical(e, list);//向上, 			isN_QUEEN = checkDownVertical(e, list);//向下, 			isN_QUEEN = checkRightAndUp(e, list);//向右上, 			isN_QUEEN = checkRightAndDown(e, list);//向右下, 		}else if(y == 8){, 			isN_QUEEN = checkLeftHorizontal(e,list);//向左, 			isN_QUEEN = checkUpVertical(e, list);//向上, 			isN_QUEEN = checkDownVertical(e, list);//向下, 			isN_QUEEN = checkLeftAndUp(e, list);//向左上, 			isN_QUEEN = checkLeftAndDown(e, list);//向左下, 		}else{, 			isN_QUEEN = checkUpVertical(e, list);//向上, 			isN_QUEEN = checkDownVertical(e, list);//向下, 			isN_QUEEN = checkLeftHorizontal(e,list);//向左, 			isN_QUEEN = checkRightHorizontal(e,list);//向右, 			isN_QUEEN = checkLeftAndUp(e, list);//向左上, 			isN_QUEEN = checkLeftAndDown(e, list);//向左下, 			isN_QUEEN = checkRightAndUp(e, list);//向右上, 			isN_QUEEN = checkRightAndDown(e, list);//向右下, 		}, 		return isN_QUEEN;, 	}]]	[InsertDelta, position: 30, lines: [	private boolean checkRightHorizontal(int e,ArrayList<Integer> list){, 		boolean isH_QUEEN = true;, 		int a = e / 10;//列, 		int b = e % 10;//行, 		int times = 5;, 		for(Integer i:list){, 			a = e / 10;, 			b = e % 10;, 			times = 5;, 			if(!isH_QUEEN){, 				break;, 			}, 			while(times > 0){, 				if((int)i == ((++a) * 10 + b)){, 					isH_QUEEN = false;, 					break;, 				}, 				times--;, 			}, 		}, 		return isH_QUEEN;, 	}, 	, , 	private boolean checkLeftHorizontal(int e,ArrayList<Integer> list){, 		boolean isH_QUEEN = true;, 		int a = e / 10;//列, 		int b = e % 10;//行, 		int times = 5;, 		for(Integer i:list){, 			a = e / 10;, 			b = e % 10;, 			times = 5;, 			if(!isH_QUEEN){, 				break;, 			}, 			while(times > 0){, 				if((int)i == ((--a) * 10 + b)){, 					isH_QUEEN = false;, 					break;, 				}times--;, 			}, 				, 		}, 		return isH_QUEEN;, 	}, 	, 	private boolean checkDownVertical(int e,ArrayList<Integer> list){, 		boolean isV_QUEEN = true;, 		int a = e / 10;//列, 		int b = e % 10;//行, 		int times = 5;, 		for(Integer i:list){, 			a = e / 10;, 			b = e % 10;, 			times = 5;, 			if(!isV_QUEEN){, 				break;, 			}, 			while(times > 0){, 				if((int)i == (a * 10 + (++b))){, 					isV_QUEEN = false;, 					break;, 				}times--;, 			}, 				, 		}, 		return isV_QUEEN;, 	}, 	, 	private boolean checkUpVertical(int e,ArrayList<Integer> list){, 		boolean isV_QUEEN = true;, 		int a = e / 10;//列, 		int b = e % 10;//行, 		int times = 5;, 		for(Integer i:list){, 			a = e / 10;, 			b = e % 10;, 			times = 5;, 			if(!isV_QUEEN){, 				break;, 			}, 			while(times > 0){, 				if((int)i == (a * 10 + (--b))){, 					isV_QUEEN = false;, 					break;, 				}times--;, 			}, 				, 		}, 		return isV_QUEEN;, 	}, 	, 	private boolean checkRightAndDown(int e,ArrayList<Integer> list){, 		boolean isRD_QUEEN = true;, 		int a = e / 10;//列, 		int b = e % 10;//行, 		int times = 5;, 		for(Integer i:list){, 			a = e / 10;, 			b = e % 10;, 			times = 5;, 			if(!isRD_QUEEN){, 				break;, 			}, 			while(times > 0){, 				if((int)i == ((++a) *10  + (++b))){, 				isRD_QUEEN = false;, 				break;, 			}, 				times--;, 			}, 			, 		}, 		return isRD_QUEEN;, 	}, 	, 	private boolean checkLeftAndDown(int e,ArrayList<Integer> list){, 		boolean isLD_QUEEN = true;, 		int a = e / 10;//列, 		int b = e % 10;//行, 		int times = 5;, 		for(Integer i:list){, 			a = e / 10;, 			b = e % 10;, 			times = 5;, 			if(!isLD_QUEEN){, 				break;, 			}, 			while(times > 0){, 				int p = (--a) *10  + (++b);, 				if((int)i == p){, 				isLD_QUEEN = false;, 				break;, 			}, 				times--;, 			}, 			, 		}, 		return isLD_QUEEN;, 	}, 	, 	private boolean checkRightAndUp(int e,ArrayList<Integer> list){, 		boolean isRU_QUEEN = true;, 		int a = e / 10;//列, 		int b = e % 10;//行, 		int times = 5;, 		for(Integer i:list){, 			a = e / 10;, 			b = e % 10;, 			times = 5;, 			if(!isRU_QUEEN){, 				break;, 			}, 			while(times > 0){, 				if((int)i == ((++a) *10  + (--b))){, 				isRU_QUEEN = false;, 				break;, 			}, 				times--;, 			}, 			, 		}, 		return isRU_QUEEN;, 	}, 	, 	private boolean checkLeftAndUp(int e,ArrayList<Integer> list){, 		boolean isLU_QUEEN = true;, 		int a = e / 10;//列, 		int b = e % 10;//行, 		int times = 5;, 		for(Integer i:list){, 			a = e / 10;, 			b = e % 10;, 			times = 5;, 			if(!isLU_QUEEN){, 				break;, 			}, 			while(times > 0){, 				if((int)i == ((--a) *10  + (--b))){, 				isLU_QUEEN = false;, 				break;, 			}, 				times--;, 			}, 			, 		}, 		return isLU_QUEEN;, 	}, , 	]]	
+CaretPosition	2016-06-26-21-44-13	Test01.java	27
+CaretPosition	2016-06-26-21-44-15	Test01.java	27
+FileChange	2016-06-26-21-44-16	/Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/Test01.java	[ChangeDelta, position: 26, lines: [		System.out.println('1' - );] to [		System.out.println('1' - '1');]]	
+CaretPosition	2016-06-26-21-44-17	Test01.java	27
+CaretPosition	2016-06-26-21-44-20	Test01.java	30
+CaretPosition	2016-06-26-21-44-24	Test01.java	31
+CaretPosition	2016-06-26-21-44-27	Test01.java	31
+CaretPosition	2016-06-26-21-44-28	Test01.java	31
+CaretPosition	2016-06-26-21-44-28	Test01.java	31
+CaretPosition	2016-06-26-21-44-29	Test01.java	31
+Part	2016-06-26-21-44-44	Test01.java	deactivated
+CaretPosition	2016-06-26-21-44-44	N_QUEEN.java	1
+Part	2016-06-26-21-44-44	N_QUEEN.java	activated
+Part	2016-06-26-21-44-44	N_QUEEN.java	broughtToTop
+CaretPosition	2016-06-26-21-45-17	N_QUEEN.java	43
+CaretPosition	2016-06-26-21-45-18	N_QUEEN.java	43
+Part	2016-06-26-21-45-21	N_QUEEN.java	deactivated
+CaretPosition	2016-06-26-21-45-21	N_QUEENTest.java	33
+Part	2016-06-26-21-45-21	N_QUEENTest.java	activated
+Part	2016-06-26-21-45-21	N_QUEENTest.java	broughtToTop
+Part	2016-06-26-21-45-22	N_QUEENTest.java	deactivated
+CaretPosition	2016-06-26-21-45-22	Test01.java	31
+Part	2016-06-26-21-45-22	Test01.java	activated
+Part	2016-06-26-21-45-22	Test01.java	broughtToTop
+CaretPosition	2016-06-26-21-45-25	Test01.java	32
+CaretPosition	2016-06-26-21-45-26	Test01.java	74
+Part	2016-06-26-21-45-30	Test01.java	deactivated
+CaretPosition	2016-06-26-21-45-30	N_QUEEN.java	43
+Part	2016-06-26-21-45-30	N_QUEEN.java	activated
+Part	2016-06-26-21-45-30	N_QUEEN.java	broughtToTop
+CaretPosition	2016-06-26-21-45-31	N_QUEEN.java	67
+CaretPosition	2016-06-26-21-45-43	N_QUEEN.java	33
+Part	2016-06-26-21-45-44	N_QUEEN.java	deactivated
+CaretPosition	2016-06-26-21-45-45	CheckStrategy.java	8
+Part	2016-06-26-21-45-45	CheckStrategy.java	activated
+Part	2016-06-26-21-45-45	CheckStrategy.java	broughtToTop
+Part	2016-06-26-21-45-45	CheckStrategy.java	deactivated
+CaretPosition	2016-06-26-21-45-45	Test01.java	74
+Part	2016-06-26-21-45-45	Test01.java	activated
+Part	2016-06-26-21-45-45	Test01.java	broughtToTop
+CaretPosition	2016-06-26-21-45-48	Test01.java	32
+CaretPosition	2016-06-26-21-45-49	Test01.java	42
+CaretPosition	2016-06-26-21-45-51	Test01.java	31
+CaretPosition	2016-06-26-21-45-55	Test01.java	31
+CaretPosition	2016-06-26-21-45-56	Test01.java	31
+CaretPosition	2016-06-26-21-45-57	Test01.java	31
+Part	2016-06-26-21-45-58	Test01.java	deactivated
+CaretPosition	2016-06-26-21-45-58	N_QUEENTest.java	33
+Part	2016-06-26-21-45-58	N_QUEENTest.java	activated
+Part	2016-06-26-21-45-58	N_QUEENTest.java	broughtToTop
+CaretPosition	2016-06-26-21-46-03	N_QUEENTest.java	15
+Part	2016-06-26-21-46-05	N_QUEENTest.java	deactivated
+CaretPosition	2016-06-26-21-46-05	Test01.java	31
+Part	2016-06-26-21-46-05	Test01.java	activated
+Part	2016-06-26-21-46-05	Test01.java	broughtToTop
+CaretPosition	2016-06-26-21-46-07	Test01.java	31
+FileChange	2016-06-26-21-46-07	/Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/Test01.java	[InsertDelta, position: 30, lines: [		System.out.println(a.isN_QUEEN("a6,b4,c7,d1,e8,f2,g5,h3"));]]	[InsertDelta, position: 31, lines: [	public boolean isN_QUEEN(String position){, 		boolean isN_QUEEN = false;, 		ArrayList<Integer> poList = new ArrayList<Integer>();, 		poList = poInt(position);, 		for(Integer e:poList){, 			CheckStrategy cs = new CheckStrategy();, 			isN_QUEEN = cs.checkStrategy((int)e,poList);, 		}, 		return isN_QUEEN;, 	}, 	private ArrayList<Integer> poInt(String position){, 		ArrayList<Integer> list = new ArrayList<Integer>();, 		int poInt = 0; , 		String[] po = position.split(",");, 		for(String s:po){, 			switch(s.charAt(0)){, 			case 'a':, 				poInt = 10 + (s.charAt(1) - '0');, 				list.add(poInt);, 				break;, 			case 'b':, 				poInt = 20 + (s.charAt(1) - '0');, 				list.add(poInt);, 				break;, 			case 'c':, 				poInt = 30 + (s.charAt(1) - '0');, 				list.add(poInt);, 				break;, 			case 'd':, 				poInt = 40 + (s.charAt(1) - '0');, 				list.add(poInt);, 				break;, 			case 'e':, 				poInt = 50 + (s.charAt(1) - '0');, 				list.add(poInt);, 				break;, 			case 'f':, 				poInt = 60 + (s.charAt(1) - '0');, 				list.add(poInt);, 				break;, 			case 'g':, 				poInt = 10 + (s.charAt(1) - '0');, 				list.add(poInt);, 				break;, 			case 'h':, 				poInt = 10 + (s.charAt(1) - '0');, 				list.add(poInt);, 				break;, 			}, 		}, 		return list;, 	}]]	
+Part	2016-06-26-21-46-12	Console (No consoles to display at this time.)	opened
+Part	2016-06-26-21-46-12	Console (<terminated> Test01 (6) [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年6月26日 下午9:46:12))	broughtToTop
+Breakpoint	2016-06-26-21-46-21	add	null	31	=homework/src<software.edu.nju.cn{Test01.java[Test01	software.edu.nju.cn.Test01	
+CaretPosition	2016-06-26-21-46-21	Test01.java	31
+Part	2016-06-26-21-46-24	Variables	opened
+Breakpoint	2016-06-26-21-46-24	change	Breakpoint:NullPointerException: caught and uncaught	null	=File/\/Library\/Java\/JavaVirtualMachines\/jdk1.8.0_65.jdk\/Contents\/Home\/jre\/lib\/rt.jar<java.lang(NullPointerException.class[NullPointerException	java.lang.NullPointerException	
+Breakpoint	2016-06-26-21-46-24	change	Breakpoint:MainFrame$loginActionListener	229	=BF/src<ui{MainFrame.java[MainFrame[loginActionListener	ui.MainFrame$loginActionListener	
+Breakpoint	2016-06-26-21-46-24	change	Line breakpoint:Test01 [line: 31] - main(String[])	31	=homework/src<software.edu.nju.cn{Test01.java[Test01	software.edu.nju.cn.Test01	
+Part	2016-06-26-21-46-24	Breakpoints	opened
+CaretPosition	2016-06-26-21-46-26	Test01.java	31
+CaretPosition	2016-06-26-21-46-28	Test01.java	34
+CaretPosition	2016-06-26-21-48-50	Test01.java	35
+CaretPosition	2016-06-26-21-48-50	Test01.java	36
+CaretPosition	2016-06-26-21-48-51	Test01.java	37
+CaretPosition	2016-06-26-21-48-52	Test01.java	38
+CaretPosition	2016-06-26-21-49-04	Test01.java	39
+CaretPosition	2016-06-26-21-49-06	Test01.java	37
+CaretPosition	2016-06-26-21-49-08	Test01.java	38
+CaretPosition	2016-06-26-21-49-08	Test01.java	39
+CaretPosition	2016-06-26-21-49-09	Test01.java	37
+CaretPosition	2016-06-26-21-49-10	Test01.java	38
+CaretPosition	2016-06-26-21-49-10	Test01.java	39
+CaretPosition	2016-06-26-21-49-11	Test01.java	37
+CaretPosition	2016-06-26-21-49-11	Test01.java	38
+CaretPosition	2016-06-26-21-49-12	Test01.java	39
+CaretPosition	2016-06-26-21-49-13	Test01.java	37
+CaretPosition	2016-06-26-21-49-14	Test01.java	38
+CaretPosition	2016-06-26-21-49-16	Test01.java	39
+CaretPosition	2016-06-26-21-49-17	Test01.java	37
+CaretPosition	2016-06-26-21-49-18	Test01.java	38
+CaretPosition	2016-06-26-21-49-19	Test01.java	39
+CaretPosition	2016-06-26-21-49-20	Test01.java	37
+CaretPosition	2016-06-26-21-49-20	Test01.java	38
+CaretPosition	2016-06-26-21-49-21	Test01.java	39
+CaretPosition	2016-06-26-21-49-22	Test01.java	37
+CaretPosition	2016-06-26-21-49-22	Test01.java	38
+CaretPosition	2016-06-26-21-49-24	Test01.java	39
+CaretPosition	2016-06-26-21-49-24	Test01.java	37
+CaretPosition	2016-06-26-21-49-25	Test01.java	41
+Breakpoint	2016-06-26-21-49-27	change	Breakpoint:NullPointerException: caught and uncaught	null	=File/\/Library\/Java\/JavaVirtualMachines\/jdk1.8.0_65.jdk\/Contents\/Home\/jre\/lib\/rt.jar<java.lang(NullPointerException.class[NullPointerException	java.lang.NullPointerException	
+Breakpoint	2016-06-26-21-49-27	change	Breakpoint:MainFrame$loginActionListener	229	=BF/src<ui{MainFrame.java[MainFrame[loginActionListener	ui.MainFrame$loginActionListener	
+Breakpoint	2016-06-26-21-49-27	change	Line breakpoint:Test01 [line: 31] - main(String[])	31	=homework/src<software.edu.nju.cn{Test01.java[Test01	software.edu.nju.cn.Test01	
+Breakpoint	2016-06-26-21-49-32	change	Breakpoint:NullPointerException: caught and uncaught	null	=File/\/Library\/Java\/JavaVirtualMachines\/jdk1.8.0_65.jdk\/Contents\/Home\/jre\/lib\/rt.jar<java.lang(NullPointerException.class[NullPointerException	java.lang.NullPointerException	
+Breakpoint	2016-06-26-21-49-32	change	Breakpoint:MainFrame$loginActionListener	229	=BF/src<ui{MainFrame.java[MainFrame[loginActionListener	ui.MainFrame$loginActionListener	
+Breakpoint	2016-06-26-21-49-32	change	Line breakpoint:Test01 [line: 31] - main(String[])	31	=homework/src<software.edu.nju.cn{Test01.java[Test01	software.edu.nju.cn.Test01	
+CaretPosition	2016-06-26-21-49-32	Test01.java	31
+CaretPosition	2016-06-26-21-49-35	Test01.java	34
+CaretPosition	2016-06-26-21-49-36	Test01.java	35
+CaretPosition	2016-06-26-21-49-37	Test01.java	37
+CaretPosition	2016-06-26-21-49-38	Test01.java	38
+CaretPosition	2016-06-26-21-49-39	Test01.java	39
+CaretPosition	2016-06-26-21-49-39	Test01.java	37
+CaretPosition	2016-06-26-21-49-40	Test01.java	38
+CaretPosition	2016-06-26-21-49-41	Test01.java	39
+CaretPosition	2016-06-26-21-49-41	Test01.java	37
+CaretPosition	2016-06-26-21-49-42	Test01.java	38
+CaretPosition	2016-06-26-21-49-43	Test01.java	39
+CaretPosition	2016-06-26-21-49-44	Test01.java	37
+CaretPosition	2016-06-26-21-49-44	Test01.java	38
+CaretPosition	2016-06-26-21-49-45	Test01.java	39
+CaretPosition	2016-06-26-21-49-45	Test01.java	37
+CaretPosition	2016-06-26-21-49-51	Test01.java	38
+Part	2016-06-26-21-49-51	Test01.java	deactivated
+Part	2016-06-26-21-49-51	Variables	activated
+Part	2016-06-26-21-50-34	Variables	deactivated
+CaretPosition	2016-06-26-21-50-34	Test01.java	38
+CaretPosition	2016-06-26-21-50-34	Test01.java	38
+Part	2016-06-26-21-50-34	Test01.java	activated
+CaretPosition	2016-06-26-21-50-35	Test01.java	74
+CaretPosition	2016-06-26-21-50-36	Test01.java	74
+CaretPosition	2016-06-26-21-50-37	Test01.java	74
+CaretPosition	2016-06-26-21-50-38	Test01.java	78
+FileChange	2016-06-26-21-50-39	/Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/Test01.java	[ChangeDelta, position: 73, lines: [				poInt = 10 + (s.charAt(1) - '0');] to [				poInt = 70 + (s.charAt(1) - '0');]]	[ChangeDelta, position: 77, lines: [				poInt = 10 + (s.charAt(1) - '0');] to [				poInt = 80 + (s.charAt(1) - '0');]]	
+Breakpoint	2016-06-26-21-50-39	change	Line breakpoint:Test01 [line: 31] - main(String[])	31	=homework/src<software.edu.nju.cn{Test01.java[Test01	software.edu.nju.cn.Test01	
+Breakpoint	2016-06-26-21-50-41	change	Line breakpoint:Test01 [line: 31] - main(String[])	31	=homework/src<software.edu.nju.cn{Test01.java[Test01	software.edu.nju.cn.Test01	
+Breakpoint	2016-06-26-21-50-42	change	Breakpoint:NullPointerException: caught and uncaught	null	=File/\/Library\/Java\/JavaVirtualMachines\/jdk1.8.0_65.jdk\/Contents\/Home\/jre\/lib\/rt.jar<java.lang(NullPointerException.class[NullPointerException	java.lang.NullPointerException	
+Breakpoint	2016-06-26-21-50-42	change	Breakpoint:MainFrame$loginActionListener	229	=BF/src<ui{MainFrame.java[MainFrame[loginActionListener	ui.MainFrame$loginActionListener	
+Breakpoint	2016-06-26-21-50-42	change	Line breakpoint:Test01 [line: 31] - main(String[])	31	=homework/src<software.edu.nju.cn{Test01.java[Test01	software.edu.nju.cn.Test01	
+Part	2016-06-26-21-50-56	N_QUEENTest.java	broughtToTop
+Part	2016-06-26-21-50-56	Test01.java	deactivated
+CaretPosition	2016-06-26-21-50-56	N_QUEENTest.java	15
+Part	2016-06-26-21-50-56	N_QUEENTest.java	activated
+CaretPosition	2016-06-26-21-50-59	N_QUEENTest.java	21
+Part	2016-06-26-21-51-00	N_QUEENTest.java	deactivated
+CaretPosition	2016-06-26-21-51-00	Test01.java	78
+Part	2016-06-26-21-51-00	Test01.java	activated
+Part	2016-06-26-21-51-00	Test01.java	broughtToTop
+CaretPosition	2016-06-26-21-51-10	Test01.java	31
+FileChange	2016-06-26-21-51-11	/Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/Test01.java	[ChangeDelta, position: 30, lines: [		System.out.println(a.isN_QUEEN("a6,b4,c7,d1,e8,f2,g5,h3"));] to [		System.out.println(a.isN_QUEEN("a4,b2,c8,d5,e7,f1,g3,h6"));]]	
+Breakpoint	2016-06-26-21-51-11	change	Line breakpoint:Test01 [line: 31] - main(String[])	31	=homework/src<software.edu.nju.cn{Test01.java[Test01	software.edu.nju.cn.Test01	
+CaretPosition	2016-06-26-21-51-12	Test01.java	31
+Part	2016-06-26-21-51-15	Test01.java	deactivated
+CaretPosition	2016-06-26-21-51-15	N_QUEENTest.java	21
+Part	2016-06-26-21-51-15	N_QUEENTest.java	activated
+Part	2016-06-26-21-51-16	N_QUEENTest.java	broughtToTop
+CaretPosition	2016-06-26-21-51-19	N_QUEENTest.java	27
+Part	2016-06-26-21-51-20	N_QUEENTest.java	deactivated
+CaretPosition	2016-06-26-21-51-20	Test01.java	31
+Part	2016-06-26-21-51-20	Test01.java	activated
+Part	2016-06-26-21-51-21	Test01.java	broughtToTop
+CaretPosition	2016-06-26-21-51-23	Test01.java	31
+CaretPosition	2016-06-26-21-51-24	Test01.java	31
+FileChange	2016-06-26-21-51-25	/Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/Test01.java	[ChangeDelta, position: 30, lines: [		System.out.println(a.isN_QUEEN("a4,b2,c8,d5,e7,f1,g3,h6"));] to [		System.out.println(a.isN_QUEEN("a1,b2,c3,d4,e5,f6,g7,h8"));]]	
+Breakpoint	2016-06-26-21-51-25	change	Line breakpoint:Test01 [line: 31] - main(String[])	31	=homework/src<software.edu.nju.cn{Test01.java[Test01	software.edu.nju.cn.Test01	
+Part	2016-06-26-21-51-28	Test01.java	deactivated
+CaretPosition	2016-06-26-21-51-28	N_QUEENTest.java	27
+Part	2016-06-26-21-51-28	N_QUEENTest.java	activated
+Part	2016-06-26-21-51-28	N_QUEENTest.java	broughtToTop
+CaretPosition	2016-06-26-21-51-33	N_QUEENTest.java	33
+Part	2016-06-26-21-51-34	N_QUEENTest.java	deactivated
+CaretPosition	2016-06-26-21-51-34	Test01.java	31
+Part	2016-06-26-21-51-34	Test01.java	activated
+Part	2016-06-26-21-51-34	Test01.java	broughtToTop
+CaretPosition	2016-06-26-21-51-37	Test01.java	31
+CaretPosition	2016-06-26-21-51-39	Test01.java	31
+FileChange	2016-06-26-21-51-39	/Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/Test01.java	[ChangeDelta, position: 30, lines: [		System.out.println(a.isN_QUEEN("a1,b2,c3,d4,e5,f6,g7,h8"));] to [		System.out.println(a.isN_QUEEN("a4,b2,c8,d5,e7,f1,g6,h3"));]]	
+Breakpoint	2016-06-26-21-51-39	change	Line breakpoint:Test01 [line: 31] - main(String[])	31	=homework/src<software.edu.nju.cn{Test01.java[Test01	software.edu.nju.cn.Test01	
+Part	2016-06-26-21-51-42	Test01.java	deactivated
+CaretPosition	2016-06-26-21-51-42	N_QUEENTest.java	33
+Part	2016-06-26-21-51-42	N_QUEENTest.java	activated
+Part	2016-06-26-21-51-42	N_QUEENTest.java	broughtToTop
+Part	2016-06-26-21-51-49	N_QUEENTest.java	deactivated
+CaretPosition	2016-06-26-21-51-49	Test01.java	31
+Part	2016-06-26-21-51-49	Test01.java	activated
+Part	2016-06-26-21-51-49	Test01.java	broughtToTop
+Part	2016-06-26-21-51-51	Test01.java	deactivated
+CaretPosition	2016-06-26-21-51-51	N_QUEENTest.java	33
+Part	2016-06-26-21-51-51	N_QUEENTest.java	activated
+Part	2016-06-26-21-51-51	N_QUEENTest.java	broughtToTop
+Part	2016-06-26-21-51-54	N_QUEENTest.java	deactivated
+CaretPosition	2016-06-26-21-51-54	Test01.java	31
+Part	2016-06-26-21-51-54	Test01.java	activated
+Part	2016-06-26-21-51-54	Test01.java	broughtToTop
+Part	2016-06-26-21-52-06	Test01.java	deactivated
+CaretPosition	2016-06-26-21-52-06	N_QUEENTest.java	33
+Part	2016-06-26-21-52-06	N_QUEENTest.java	activated
+Part	2016-06-26-21-52-06	N_QUEENTest.java	broughtToTop
+Part	2016-06-26-21-52-13	N_QUEENTest.java	deactivated
+CaretPosition	2016-06-26-21-52-13	N_QUEEN.java	33
+Part	2016-06-26-21-52-13	N_QUEEN.java	activated
+Part	2016-06-26-21-52-13	N_QUEEN.java	broughtToTop
+CaretPosition	2016-06-26-21-52-18	N_QUEEN.java	85
+CaretPosition	2016-06-26-21-52-20	N_QUEEN.java	86
+CaretPosition	2016-06-26-21-52-21	N_QUEEN.java	86
+CaretPosition	2016-06-26-21-52-25	N_QUEEN.java	86
+CaretPosition	2016-06-26-21-52-26	N_QUEEN.java	86
+CaretPosition	2016-06-26-21-52-27	N_QUEEN.java	86
+CaretPosition	2016-06-26-21-52-28	N_QUEEN.java	86
+CaretPosition	2016-06-26-21-52-30	N_QUEEN.java	86
+CaretPosition	2016-06-26-21-52-30	N_QUEEN.java	86
+CaretPosition	2016-06-26-21-52-31	N_QUEEN.java	86
+CaretPosition	2016-06-26-21-52-32	N_QUEEN.java	86
+CaretPosition	2016-06-26-21-52-34	N_QUEEN.java	86
+CaretPosition	2016-06-26-21-52-40	N_QUEEN.java	86
+CaretPosition	2016-06-26-21-52-40	N_QUEEN.java	86
+CaretPosition	2016-06-26-21-52-41	N_QUEEN.java	86
+CaretPosition	2016-06-26-21-52-51	N_QUEEN.java	86
+CaretPosition	2016-06-26-21-52-52	N_QUEEN.java	86
+CaretPosition	2016-06-26-21-52-57	N_QUEEN.java	86
+CaretPosition	2016-06-26-21-53-01	N_QUEEN.java	87
+CaretPosition	2016-06-26-21-53-02	N_QUEEN.java	87
+CaretPosition	2016-06-26-21-53-04	N_QUEEN.java	87
+CaretPosition	2016-06-26-21-53-05	N_QUEEN.java	87
+Part	2016-06-26-21-53-13	N_QUEEN.java	deactivated
+Part	2016-06-26-21-53-13	Package Explorer	activated
+Part	2016-06-26-21-53-26	Package Explorer	deactivated
+CaretPosition	2016-06-26-21-53-26	N_QUEEN.java	87
+Part	2016-06-26-21-53-26	N_QUEEN.java	activated
+CaretPosition	2016-06-26-21-53-29	N_QUEEN.java	87
+CaretPosition	2016-06-26-21-53-32	N_QUEEN.java	87
+CaretPosition	2016-06-26-21-53-33	N_QUEEN.java	87
+CaretPosition	2016-06-26-21-53-35	N_QUEEN.java	87
+CaretPosition	2016-06-26-21-53-55	N_QUEEN.java	87
+CaretPosition	2016-06-26-21-53-56	N_QUEEN.java	87
+CaretPosition	2016-06-26-21-53-58	N_QUEEN.java	87
+CaretPosition	2016-06-26-21-53-59	N_QUEEN.java	87
+CaretPosition	2016-06-26-21-54-00	N_QUEEN.java	87
+CaretPosition	2016-06-26-22-32-19	N_QUEEN.java	87
+CaretPosition	2016-06-26-22-32-20	N_QUEEN.java	88
+CaretPosition	2016-06-26-22-32-26	N_QUEEN.java	88
+CaretPosition	2016-06-26-22-32-57	N_QUEEN.java	88
+Part	2016-06-26-22-33-01	N_QUEEN.java	deactivated
+CaretPosition	2016-06-26-22-33-01	N_QUEENTest.java	33
+Part	2016-06-26-22-33-01	N_QUEENTest.java	activated
+Part	2016-06-26-22-33-01	N_QUEENTest.java	broughtToTop
+Part	2016-06-26-22-33-04	N_QUEENTest.java	deactivated
+CaretPosition	2016-06-26-22-33-04	N_QUEEN.java	88
+Part	2016-06-26-22-33-04	N_QUEEN.java	activated
+Part	2016-06-26-22-33-04	N_QUEEN.java	broughtToTop
+CaretPosition	2016-06-26-22-33-06	N_QUEEN.java	88
+CaretPosition	2016-06-26-22-33-09	N_QUEEN.java	88
+CaretPosition	2016-06-26-22-33-10	N_QUEEN.java	88
+CaretPosition	2016-06-26-22-33-17	N_QUEEN.java	88
+CaretPosition	2016-06-26-22-33-21	N_QUEEN.java	88
+CaretPosition	2016-06-26-22-33-21	N_QUEEN.java	88
+CaretPosition	2016-06-26-22-33-23	N_QUEEN.java	88
+CaretPosition	2016-06-26-22-33-29	N_QUEEN.java	88
+CaretPosition	2016-06-26-22-33-32	N_QUEEN.java	88
+CaretPosition	2016-06-26-22-33-36	N_QUEEN.java	88
+CaretPosition	2016-06-26-22-33-38	N_QUEEN.java	88
+CaretPosition	2016-06-26-22-33-49	N_QUEEN.java	88
+CaretPosition	2016-06-26-22-34-04	N_QUEEN.java	88
+CaretPosition	2016-06-26-22-34-05	N_QUEEN.java	88
+CaretPosition	2016-06-26-22-34-06	N_QUEEN.java	88
+CaretPosition	2016-06-26-22-34-11	N_QUEEN.java	88
+CaretPosition	2016-06-26-22-34-12	N_QUEEN.java	88
+CaretPosition	2016-06-26-22-34-16	N_QUEEN.java	88
+CaretPosition	2016-06-26-22-34-17	N_QUEEN.java	88
+CaretPosition	2016-06-26-22-34-18	N_QUEEN.java	88
+CaretPosition	2016-06-26-22-34-20	N_QUEEN.java	88
+CaretPosition	2016-06-26-22-34-20	N_QUEEN.java	89
+CaretPosition	2016-06-26-22-37-18	N_QUEEN.java	89
+CaretPosition	2016-06-26-22-37-21	N_QUEEN.java	89
+CaretPosition	2016-06-26-22-37-23	N_QUEEN.java	89
+CaretPosition	2016-06-26-22-37-25	N_QUEEN.java	89
+CaretPosition	2016-06-26-22-37-26	N_QUEEN.java	89
+CaretPosition	2016-06-26-22-37-27	N_QUEEN.java	89
+CaretPosition	2016-06-26-22-37-28	N_QUEEN.java	89
+CaretPosition	2016-06-26-22-37-29	N_QUEEN.java	89
+CaretPosition	2016-06-26-22-37-30	N_QUEEN.java	89
+CaretPosition	2016-06-26-22-37-31	N_QUEEN.java	89
+CaretPosition	2016-06-26-22-37-31	N_QUEEN.java	89
+CaretPosition	2016-06-26-22-37-40	N_QUEEN.java	89
+CaretPosition	2016-06-26-22-37-41	N_QUEEN.java	89
+CaretPosition	2016-06-26-22-37-43	N_QUEEN.java	89
+CaretPosition	2016-06-26-22-37-44	N_QUEEN.java	89
+CaretPosition	2016-06-26-22-37-50	N_QUEEN.java	89
+CaretPosition	2016-06-26-22-37-54	N_QUEEN.java	89
+CaretPosition	2016-06-26-22-37-55	N_QUEEN.java	89
+CaretPosition	2016-06-26-22-37-56	N_QUEEN.java	89
+CaretPosition	2016-06-26-22-37-57	N_QUEEN.java	90
+CaretPosition	2016-06-26-22-38-07	N_QUEEN.java	90
+CaretPosition	2016-06-26-22-38-08	N_QUEEN.java	90
+CaretPosition	2016-06-26-22-38-09	N_QUEEN.java	90
+CaretPosition	2016-06-26-22-38-10	N_QUEEN.java	90
+CaretPosition	2016-06-26-22-38-11	N_QUEEN.java	90
+CaretPosition	2016-06-26-22-38-12	N_QUEEN.java	90
+CaretPosition	2016-06-26-22-38-16	N_QUEEN.java	90
+CaretPosition	2016-06-26-22-38-20	N_QUEEN.java	90
+CaretPosition	2016-06-26-22-38-21	N_QUEEN.java	90
+CaretPosition	2016-06-26-22-38-26	N_QUEEN.java	90
+CaretPosition	2016-06-26-22-38-29	N_QUEEN.java	90
+CaretPosition	2016-06-26-22-38-30	N_QUEEN.java	90
+CaretPosition	2016-06-26-22-38-30	N_QUEEN.java	90
+CaretPosition	2016-06-26-22-38-31	N_QUEEN.java	91
+CaretPosition	2016-06-26-22-39-34	N_QUEEN.java	91
+CaretPosition	2016-06-26-22-39-36	N_QUEEN.java	91
+CaretPosition	2016-06-26-22-39-40	N_QUEEN.java	91
+CaretPosition	2016-06-26-22-39-43	N_QUEEN.java	91
+CaretPosition	2016-06-26-22-39-47	N_QUEEN.java	91
+CaretPosition	2016-06-26-22-39-48	N_QUEEN.java	91
+CaretPosition	2016-06-26-22-39-54	N_QUEEN.java	91
+CaretPosition	2016-06-26-22-39-58	N_QUEEN.java	91
+CaretPosition	2016-06-26-22-40-01	N_QUEEN.java	91
+CaretPosition	2016-06-26-22-40-02	N_QUEEN.java	91
+CaretPosition	2016-06-26-22-40-04	N_QUEEN.java	91
+CaretPosition	2016-06-26-22-40-06	N_QUEEN.java	92
+CaretPosition	2016-06-26-22-40-10	N_QUEEN.java	92
+CaretPosition	2016-06-26-22-40-12	N_QUEEN.java	92
+CaretPosition	2016-06-26-22-40-15	N_QUEEN.java	92
+CaretPosition	2016-06-26-22-40-17	N_QUEEN.java	92
+CaretPosition	2016-06-26-22-40-18	N_QUEEN.java	92
+CaretPosition	2016-06-26-22-40-21	N_QUEEN.java	92
+CaretPosition	2016-06-26-22-40-23	N_QUEEN.java	92
+CaretPosition	2016-06-26-22-40-24	N_QUEEN.java	92
+CaretPosition	2016-06-26-22-40-25	N_QUEEN.java	92
+CaretPosition	2016-06-26-22-40-28	N_QUEEN.java	92
+CaretPosition	2016-06-26-22-40-29	N_QUEEN.java	92
+CaretPosition	2016-06-26-22-40-30	N_QUEEN.java	92
+CaretPosition	2016-06-26-22-40-34	N_QUEEN.java	92
+FileChange	2016-06-26-22-40-34	Add /Users/xiezhenyu/mooctest/projects/449/12473/NQueens/src/.DS_Store
+FileChange	2016-06-26-22-40-34	Add /Users/xiezhenyu/mooctest/projects/449/12473/NQueens/src/CheckStrategy.java
+FileChange	2016-06-26-22-40-34	/Users/xiezhenyu/mooctest/projects/449/12473/NQueens/src/N_QUEEN.java	[InsertDelta, position: 0, lines: [import java.util.ArrayList;, ]]	[ChangeDelta, position: 31, lines: [		return false;] to [		boolean isN_QUEEN = false;, 		ArrayList<Integer> poList = new ArrayList<Integer>();, 		poList = poInt(position);, 		for(Integer e:poList){, 			CheckStrategy cs = new CheckStrategy();, 			isN_QUEEN = cs.checkStrategy((int)e,poList);, 		}, 		return isN_QUEEN;]]	[ChangeDelta, position: 33, lines: [	] to [	private ArrayList<Integer> poInt(String position){, 		ArrayList<Integer> list = new ArrayList<Integer>();, 		int poInt = 0; , 		String[] po = position.split(",");, 		for(String s:po){, 			switch(s.charAt(0)){, 			case 'a':, 				poInt = 10 + (s.charAt(1) - '0');, 				list.add(poInt);, 				break;, 			case 'b':, 				poInt = 20 + (s.charAt(1) - '0');, 				list.add(poInt);, 				break;, 			case 'c':, 				poInt = 30 + (s.charAt(1) - '0');, 				list.add(poInt);, 				break;, 			case 'd':, 				poInt = 40 + (s.charAt(1) - '0');, 				list.add(poInt);, 				break;, 			case 'e':, 				poInt = 50 + (s.charAt(1) - '0');, 				list.add(poInt);, 				break;, 			case 'f':, 				poInt = 60 + (s.charAt(1) - '0');, 				list.add(poInt);, 				break;, 			case 'g':, 				poInt = 10 + (s.charAt(1) - '0');, 				list.add(poInt);, 				break;, 			case 'h':, 				poInt = 10 + (s.charAt(1) - '0');, 				list.add(poInt);, 				break;, 			}, 		}, 		return list;, 	}]]	[InsertDelta, position: 35, lines: [		int num = (int) (Math.random() * 8);, 		String[] kind = {, 				"f1,a2,e3,b4,h5,c6,g7,d8",, 				"h6,g1,f5,e2,8d,c3,g7,a4",, 				"c8,h7,d6,g5,a4,f3,b2,e1",, 				"d1,f2,h3,b4,g5,a6,c7,e8",, 				"h4,g6,f8,e2,d7,c1,b3,a5",, 		};]]	
+CaretPosition	2016-06-26-22-40-38	N_QUEEN.java	86
+CaretPosition	2016-06-26-22-40-39	N_QUEEN.java	86
+CaretPosition	2016-06-26-22-40-40	N_QUEEN.java	86
+FileChange	2016-06-26-22-40-40	/Users/xiezhenyu/mooctest/projects/449/12473/NQueens/src/N_QUEEN.java	[ChangeDelta, position: 85, lines: [		int num = (int) (Math.random() * 8);] to [		int num = (int) (Math.random() * 5);]]	
+CaretPosition	2016-06-26-22-40-41	N_QUEEN.java	86
+CaretPosition	2016-06-26-22-40-43	N_QUEEN.java	94
+CaretPosition	2016-06-26-22-40-45	N_QUEEN.java	94
+FileChange	2016-06-26-22-40-47	/Users/xiezhenyu/mooctest/projects/449/12473/NQueens/src/N_QUEEN.java	[ChangeDelta, position: 93, lines: [		return null;] to [		return kind[num];]]	
+CaretPosition	2016-06-26-22-40-47	N_QUEEN.java	94
+CaretPosition	2016-06-26-22-40-51	N_QUEEN.java	85
+Part	2016-06-26-22-40-53	N_QUEEN.java	deactivated
+CaretPosition	2016-06-26-22-40-53	Test01.java	31
+Part	2016-06-26-22-40-53	Test01.java	activated
+Part	2016-06-26-22-40-53	Test01.java	broughtToTop
+CaretPosition	2016-06-26-22-40-56	Test01.java	31
+CaretPosition	2016-06-26-22-41-00	Test01.java	32
+CaretPosition	2016-06-26-22-41-02	Test01.java	32
+CaretPosition	2016-06-26-22-41-03	Test01.java	32
+CaretPosition	2016-06-26-22-41-06	Test01.java	33
+CaretPosition	2016-06-26-22-41-07	Test01.java	34
+CaretPosition	2016-06-26-22-41-08	Test01.java	44
+CaretPosition	2016-06-26-22-41-09	Test01.java	32
+CaretPosition	2016-06-26-22-41-11	Test01.java	32
+CaretPosition	2016-06-26-22-41-13	Test01.java	32
+CaretPosition	2016-06-26-22-41-13	Test01.java	32
+CaretPosition	2016-06-26-22-41-16	Test01.java	32
+CaretPosition	2016-06-26-22-41-18	Test01.java	32
+CaretPosition	2016-06-26-22-41-19	Test01.java	32
+CaretPosition	2016-06-26-22-41-20	Test01.java	32
+CaretPosition	2016-06-26-22-41-21	Test01.java	32
+CaretPosition	2016-06-26-22-41-24	Test01.java	32
+CaretPosition	2016-06-26-22-41-24	Test01.java	32
+CaretPosition	2016-06-26-22-41-28	Test01.java	32
+FileChange	2016-06-26-22-41-29	/Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/Test01.java	[InsertDelta, position: 31, lines: [		System.out.println(a.isN_QUEEN(a.generateN_QUEEN()));]]	[InsertDelta, position: 32, lines: [	public String generateN_QUEEN(){, 		int num = (int) (Math.random() * 5);, 		String[] kind = {, 				"f1,a2,e3,b4,h5,c6,g7,d8",, 				"h6,g1,f5,e2,8d,c3,g7,a4",, 				"c8,h7,d6,g5,a4,f3,b2,e1",, 				"d1,f2,h3,b4,g5,a6,c7,e8",, 				"h4,g6,f8,e2,d7,c1,b3,a5",, 		};, 		return kind[num];, 	}]]	
+Breakpoint	2016-06-26-22-41-29	change	Line breakpoint:Test01 [line: 31] - main(String[])	31	=homework/src<software.edu.nju.cn{Test01.java[Test01	software.edu.nju.cn.Test01	
+Part	2016-06-26-22-41-51	Test01.java	deactivated
+Part	2016-06-26-22-41-51	Package Explorer	activated
+Part	2016-06-26-22-41-57	Package Explorer	deactivated
+Part	2016-06-26-22-41-57	MoocTest	broughtToTop
+Part	2016-06-26-22-41-57	MoocTest	activated
+Part	2016-06-26-22-42-07	N_QUEEN.java	broughtToTop
+Part	2016-06-26-22-42-07	MoocTest	deactivated
+CaretPosition	2016-06-26-22-42-07	N_QUEEN.java	85
+Part	2016-06-26-22-42-07	N_QUEEN.java	activated
+CaretPosition	2016-06-26-22-42-09	N_QUEEN.java	74
+CaretPosition	2016-06-26-22-42-10	N_QUEEN.java	75
+CaretPosition	2016-06-26-22-42-12	N_QUEEN.java	78
+FileChange	2016-06-26-22-42-14	/Users/xiezhenyu/mooctest/projects/449/12473/NQueens/src/N_QUEEN.java	[ChangeDelta, position: 73, lines: [				poInt = 10 + (s.charAt(1) - '0');] to [				poInt = 70 + (s.charAt(1) - '0');]]	[ChangeDelta, position: 77, lines: [				poInt = 10 + (s.charAt(1) - '0');] to [				poInt = 80 + (s.charAt(1) - '0');]]	
+Part	2016-06-26-22-42-19	Console (<terminated> Test01 (6) [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年6月26日 下午10:42:18))	broughtToTop
+Part	2016-06-26-22-42-25	MoocTest	broughtToTop
+Part	2016-06-26-22-42-25	N_QUEEN.java	deactivated
+Part	2016-06-26-22-42-25	MoocTest	activated
+Part	2016-06-26-22-42-43	MoocTest	deactivated
+Part	2016-06-26-22-42-43	Package Explorer	activated
+Part	2016-06-26-22-42-47	CharacterMovingTest.java	opened
+Part	2016-06-26-22-42-47	CharacterMovingTest.java	broughtToTop
+Part	2016-06-26-22-42-47	Package Explorer	deactivated
+CaretPosition	2016-06-26-22-42-48	CharacterMovingTest.java	1
+Part	2016-06-26-22-42-48	CharacterMovingTest.java	activated
+CaretPosition	2016-06-26-22-42-48	CharacterMovingTest.java	1
+CaretPosition	2016-06-26-22-42-52	CharacterMovingTest.java	43
+FileChange	2016-06-26-22-42-53	/Users/xiezhenyu/mooctest/projects/449/12473/CharacterMovingSimulator/src/CharacterMovingSimulator.java	[InsertDelta, position: 0, lines: [import java.awt.Point;, import java.util.ArrayList;, ]]	[ChangeDelta, position: 11, lines: [] to [	private int time = 0;, 	private int energy;, 	private int positionS;, 	private int positionE;, 	public ArrayList<Integer> way;//��Ű������е�����·]]	[ChangeDelta, position: 14, lines: [		return 0;] to [		String positionNow = "";, 		energy = characterInitEnergy;, 		int n = map.length;, 		ArrayList<Integer> tempWay = new ArrayList<Integer>();, 		//��Ǵ���㡢�յ㡢·, 		int waydex = 0;, 		for(int i = 0; i < n; i++){, 			for(int j = 0; j < n; j++){, 				if(map[i][j].equals("s")){, 					positionS = Integer.parseInt(String.valueOf(i) + String.valueOf(j));//������ת��Ϊһ����λ��ʮ������, 				}else if(map[i][j].equals("e")){, 					positionE = Integer.parseInt(String.valueOf(i) + String.valueOf(j));, 				}else if(!map[i][j].equals("*")){, 					positionNow = String.valueOf(i) + String.valueOf(j);, 					tempWay.add(Integer.parseInt(positionNow));, 				}, 			}, 		}, 		way = new ArrayList<Integer>();, 		way.add(positionS);, 		waydex = tempWay.size();, 		for(int m = 0; m < waydex;m++){, 			for(int p = 0; p < tempWay.size();p++){, 				int a = tempWay.get(p);, 				if((a == (way.get(way.size() - 1) + 1))||(a == (way.get(way.size() - 1) - 1))||, 					(a == way.get(way.size() - 1) + 10)|| (a == way.get(way.size() - 1) - 10)){, 						way.add(a);, 						tempWay.remove(p);, 			}, 		}, 		}, 		, 		//��ʼͨ������·, 		int condition = 0;, 		for(int k = 1; k < way.size(); k++){, 			condition = Integer.parseInt(map[way.get(k)/10][way.get(k)%10]);, 			while(energy < (condition%10)){, 				time += 5;, 				energy += 3;, 			}	, 			time = time + condition/10;, 			energy -= condition%10;	, 		}, 	, 		return time;]]	
+Part	2016-06-26-22-42-58	CharacterMovingTest.java	deactivated
+Part	2016-06-26-22-42-58	MoocTest	activated
+Part	2016-06-26-22-47-12	Breakpoints	closed
+Part	2016-06-26-22-47-12	Variables	closed
+Part	2016-06-26-22-47-12	Package Explorer	closed
+Part	2016-06-26-22-47-12	Outline	closed
+Part	2016-06-26-22-47-12	Debug	closed
+Part	2016-06-26-22-47-12	Test01.java	closed
+Part	2016-06-26-22-47-12	CheckStrategy.java	closed
+Part	2016-06-26-22-47-12	N_QUEENTest.java	closed
+Part	2016-06-26-22-47-12	GameTest.java	closed
+Part	2016-06-26-22-47-12	N_QUEEN.java	closed
+Part	2016-06-26-22-47-12	CharacterMovingTest.java	closed
+Part	2016-06-26-22-47-12	Console (<terminated> Test01 (6) [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年6月26日 下午10:42:18))	closed
+Part	2016-06-26-22-47-12	MoocTest	deactivated
+Part	2016-06-26-22-47-12	MoocTest	closed

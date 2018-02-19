@@ -1,0 +1,1 @@
+{"totalNum":3,"failureNum":0,"successNum":3,"classes":[{"testCases":[{"success":"1","methodName":"testGcd3"},{"success":"1","methodName":"testGcd1"},{"success":"1","methodName":"testGcd2"}],"className":"GreatestCommonDivisorTest"}],"proName":"GreatestCommonDivisor"}

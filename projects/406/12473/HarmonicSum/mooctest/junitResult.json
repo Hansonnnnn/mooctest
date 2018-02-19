@@ -1,0 +1,1 @@
+{"totalNum":2,"failureNum":0,"successNum":2,"classes":[{"testCases":[{"success":"1","methodName":"testCalculateSumL2R"},{"success":"1","methodName":"testCalculateSumR2L"}],"className":"HarmonicSumTest"}],"proName":"HarmonicSum"}

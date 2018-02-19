@@ -1,0 +1,2068 @@
+Part	2016-04-03-23-02-14	Console (No consoles to display at this time.)	deactivated
+Part	2016-04-03-23-02-14	Package Explorer	activated
+Part	2016-04-03-23-02-19	Arithmetic.java	opened
+Part	2016-04-03-23-02-19	Arithmetic.java	broughtToTop
+Part	2016-04-03-23-02-19	Package Explorer	deactivated
+CaretPosition	2016-04-03-23-02-19	Arithmetic.java	1
+Part	2016-04-03-23-02-19	Arithmetic.java	activated
+Part	2016-04-03-23-03-08	Arithmetic.java	deactivated
+Part	2016-04-03-23-03-08	Package Explorer	activated
+Part	2016-04-03-23-03-14	Bin2Dec.java	opened
+Part	2016-04-03-23-03-14	Bin2Dec.java	broughtToTop
+Part	2016-04-03-23-03-14	Package Explorer	deactivated
+CaretPosition	2016-04-03-23-03-14	Bin2Dec.java	1
+Part	2016-04-03-23-03-14	Bin2Dec.java	activated
+CaretPosition	2016-04-03-23-03-28	Bin2Dec.java	2
+CaretPosition	2016-04-03-23-03-30	Bin2Dec.java	2
+Part	2016-04-03-23-04-16	Bin2Dec.java	deactivated
+Part	2016-04-03-23-04-16	Package Explorer	activated
+Part	2016-04-03-23-43-32	Console (No consoles to display at this time.)	closed
+Part	2016-04-03-23-43-32	Outline	closed
+Part	2016-04-03-23-43-32	Timetable.java	closed
+Part	2016-04-03-23-43-32	Arithmetic.java	closed
+Part	2016-04-03-23-43-33	Bin2Dec.java	closed
+Part	2016-04-03-23-43-33	Package Explorer	deactivated
+Part	2016-04-03-23-43-33	Package Explorer	closed
+Part	2016-04-04-10-49-10	Console (No consoles to display at this time.)	deactivated
+Part	2016-04-04-10-49-10	MoocTest	opened
+Part	2016-04-04-10-49-10	MoocTest	broughtToTop
+Part	2016-04-04-10-49-10	MoocTest	activated
+Part	2016-04-04-10-50-09	MoocTest	deactivated
+CaretPosition	2016-04-04-10-50-09	Arithmetic.java	55
+Part	2016-04-04-10-50-09	Arithmetic.java	activated
+CaretPosition	2016-04-04-10-50-10	Arithmetic.java	12
+CaretPosition	2016-04-04-10-50-30	Arithmetic.java	19
+Part	2016-04-04-10-50-47	Arithmetic.java	deactivated
+Part	2016-04-04-10-50-47	MoocTest	activated
+Part	2016-04-04-10-50-50	MoocTest	deactivated
+Part	2016-04-04-10-50-50	MoocTest	activated
+Part	2016-04-04-10-50-55	MoocTest	deactivated
+Part	2016-04-04-10-50-55	MoocTest	activated
+Part	2016-04-04-10-50-56	MoocTest	deactivated
+Part	2016-04-04-10-50-56	MoocTest	activated
+Part	2016-04-04-10-50-59	MoocTest	deactivated
+CaretPosition	2016-04-04-10-50-59	Arithmetic.java	19
+Part	2016-04-04-10-50-59	Arithmetic.java	activated
+Part	2016-04-04-10-51-07	Arithmetic.java	deactivated
+Part	2016-04-04-10-51-07	MoocTest	activated
+Part	2016-04-04-10-51-12	MoocTest	deactivated
+CaretPosition	2016-04-04-10-51-12	Arithmetic.java	19
+Part	2016-04-04-10-51-12	Arithmetic.java	activated
+Part	2016-04-04-10-51-17	Task List	opened
+Part	2016-04-04-10-51-17	Task List	broughtToTop
+Part	2016-04-04-10-51-30	Arithmetic.java	deactivated
+Part	2016-04-04-10-51-30	MoocTest	activated
+Part	2016-04-04-10-51-42	MoocTest	deactivated
+CaretPosition	2016-04-04-10-51-42	Arithmetic.java	19
+Part	2016-04-04-10-51-42	Arithmetic.java	activated
+Part	2016-04-04-10-51-45	Arithmetic.java	deactivated
+Part	2016-04-04-10-51-45	MoocTest	activated
+Part	2016-04-04-10-51-53	MoocTest	deactivated
+Part	2016-04-04-10-51-53	Outline	activated
+Part	2016-04-04-10-51-55	Outline	deactivated
+Part	2016-04-04-10-51-55	Outline	activated
+Part	2016-04-04-10-51-57	Outline	deactivated
+Part	2016-04-04-10-51-57	Outline	activated
+Part	2016-04-04-10-52-40	Outline	deactivated
+Part	2016-04-04-10-52-40	MoocTest	activated
+Part	2016-04-04-10-52-50	MoocTest	deactivated
+Part	2016-04-04-10-52-50	Outline	activated
+Part	2016-04-04-10-52-52	Outline	deactivated
+CaretPosition	2016-04-04-10-52-52	Arithmetic.java	19
+Part	2016-04-04-10-52-52	Arithmetic.java	activated
+Part	2016-04-04-10-53-08	Arithmetic.java	deactivated
+Part	2016-04-04-10-53-08	MoocTest	activated
+Part	2016-04-04-10-53-34	MoocTest	deactivated
+Part	2016-04-04-10-53-34	MoocTest	activated
+Part	2016-04-04-10-53-36	MoocTest	deactivated
+Part	2016-04-04-10-53-36	MoocTest	activated
+Part	2016-04-04-10-53-36	MoocTest	deactivated
+Part	2016-04-04-10-53-36	MoocTest	activated
+Part	2016-04-04-10-53-36	MoocTest	deactivated
+Part	2016-04-04-10-53-36	MoocTest	activated
+Part	2016-04-04-10-53-37	MoocTest	deactivated
+Part	2016-04-04-10-53-37	MoocTest	activated
+Part	2016-04-04-10-54-31	MoocTest	deactivated
+CaretPosition	2016-04-04-10-54-31	Arithmetic.java	19
+Part	2016-04-04-10-54-31	Arithmetic.java	activated
+CaretPosition	2016-04-04-10-54-33	Arithmetic.java	23
+Part	2016-04-04-10-54-34	Test.java	broughtToTop
+Part	2016-04-04-10-54-34	Arithmetic.java	deactivated
+CaretPosition	2016-04-04-10-54-34	Test.java	8
+Part	2016-04-04-10-54-34	Test.java	activated
+CaretPosition	2016-04-04-10-54-37	Test.java	8
+CaretPosition	2016-04-04-10-54-39	Test.java	8
+CaretPosition	2016-04-04-10-54-41	Test.java	7
+CaretPosition	2016-04-04-10-54-44	Test.java	7
+CaretPosition	2016-04-04-10-54-45	Test.java	7
+CaretPosition	2016-04-04-10-54-47	Test.java	7
+CaretPosition	2016-04-04-10-54-48	Test.java	7
+CaretPosition	2016-04-04-10-54-48	Test.java	7
+CaretPosition	2016-04-04-10-54-50	Test.java	7
+CaretPosition	2016-04-04-10-54-53	Test.java	8
+CaretPosition	2016-04-04-10-54-54	Test.java	8
+CaretPosition	2016-04-04-10-54-55	Test.java	8
+CaretPosition	2016-04-04-10-55-01	Test.java	8
+Part	2016-04-04-10-59-33	Bin2Dec.java	broughtToTop
+Part	2016-04-04-10-59-33	Test.java	deactivated
+CaretPosition	2016-04-04-10-59-33	Bin2Dec.java	2
+Part	2016-04-04-10-59-33	Bin2Dec.java	activated
+Part	2016-04-04-10-59-34	Bin2Dec.java	deactivated
+Part	2016-04-04-10-59-34	Arithmetic.java	broughtToTop
+CaretPosition	2016-04-04-10-59-34	Arithmetic.java	23
+Part	2016-04-04-10-59-34	Arithmetic.java	activated
+CaretPosition	2016-04-04-10-59-41	Arithmetic.java	23
+CaretPosition	2016-04-04-10-59-41	Arithmetic.java	23
+CaretPosition	2016-04-04-10-59-43	Arithmetic.java	23
+CaretPosition	2016-04-04-10-59-45	Arithmetic.java	23
+CaretPosition	2016-04-04-10-59-47	Arithmetic.java	23
+CaretPosition	2016-04-04-10-59-49	Arithmetic.java	23
+CaretPosition	2016-04-04-10-59-51	Arithmetic.java	23
+CaretPosition	2016-04-04-10-59-53	Arithmetic.java	23
+CaretPosition	2016-04-04-10-59-55	Arithmetic.java	23
+CaretPosition	2016-04-04-10-59-57	Arithmetic.java	23
+CaretPosition	2016-04-04-11-00-11	Arithmetic.java	23
+CaretPosition	2016-04-04-11-00-12	Arithmetic.java	22
+CaretPosition	2016-04-04-11-00-14	Arithmetic.java	22
+CaretPosition	2016-04-04-11-00-16	Arithmetic.java	22
+CaretPosition	2016-04-04-11-00-18	Arithmetic.java	23
+CaretPosition	2016-04-04-11-00-23	Arithmetic.java	23
+CaretPosition	2016-04-04-11-00-25	Arithmetic.java	23
+CaretPosition	2016-04-04-11-00-26	Arithmetic.java	23
+CaretPosition	2016-04-04-11-00-29	Arithmetic.java	23
+CaretPosition	2016-04-04-11-00-33	Arithmetic.java	24
+CaretPosition	2016-04-04-11-00-34	Arithmetic.java	24
+CaretPosition	2016-04-04-11-00-35	Arithmetic.java	24
+CaretPosition	2016-04-04-11-00-36	Arithmetic.java	24
+CaretPosition	2016-04-04-11-00-39	Arithmetic.java	25
+FileChange	2016-04-04-11-00-43	/Users/xiezhenyu/mooctest/projects/363/12473/Arithmetic/src/Arithmetic.java	[InsertDelta, position: 0, lines: [import java.util.Scanner;, ]]	[InsertDelta, position: 12, lines: [	int commandLine1 = 0;, 	int commandLine2 = 0;, 	String commandLine3 = null;, 	String[] sign = {'+','-','*','/'};, 	]]	[InsertDelta, position: 13, lines: [		Scanner sc = new Scanner(System.in);, 		String[] list = sc.nextLine().split(" ");, 		commandLine1 = Integer.parseInt(list[0]);, 		commandLine2 = Integer.parseInt(list[1]);, 		commandLine3 = list[2];, 		, 		int result = 0;, 		, 		if((commandLine1 >= -2^31)&&(commandLine1 <= (2^31-1), 				&&(commandLine2 >= -2^31)&&(commandLine2 <= (2^31-1), 				){, 			, 		switch(commandLine3 == sign[3]){, 		case sign[0]:, 			result = commandLine1 + commandLine2;, 			System.out.println(commandLine1 "+" commandLine2 "=" result);, 			break;, 		case sign[1]:, 			result = commandLine1 - commandLine2;, 			System.out.println(commandLine1 "-" commandLine2 "=" result);, 			break;, 		case sign[2]:, 			result = commandLine1 * commandLine2;, 			System.out.println(commandLine1 "*" commandLine2 "=" result);, 			break;, 		case sign[3]:, 			if(commandLine2 == 0){, 				System.out.println("除数不能为0")；, 			}, 			else{, 				result = commandLine1 / commandLine2;, 				System.out.println(commandLine1 "/" commandLine2 "=" result);, 			}, 			break;, 		default:, 			System.out.println("Wrong");, 			break;, 			, 		}, 		, 		}, 		else{, 			System.out.println("Wrong");, 		}]]	
+Part	2016-04-04-11-00-52	Arithmetic.java	deactivated
+Part	2016-04-04-11-00-52	MoocTest	activated
+Part	2016-04-04-11-01-36	MoocTest	deactivated
+CaretPosition	2016-04-04-11-01-36	Arithmetic.java	25
+Part	2016-04-04-11-01-36	Arithmetic.java	activated
+CaretPosition	2016-04-04-11-01-37	Arithmetic.java	69
+CaretPosition	2016-04-04-11-01-40	Arithmetic.java	1
+Part	2016-04-04-11-01-43	Test.java	broughtToTop
+Part	2016-04-04-11-01-43	Arithmetic.java	deactivated
+CaretPosition	2016-04-04-11-01-43	Test.java	8
+Part	2016-04-04-11-01-43	Test.java	activated
+CaretPosition	2016-04-04-11-01-45	Test.java	10
+CaretPosition	2016-04-04-11-01-47	Test.java	6
+CaretPosition	2016-04-04-11-01-48	Test.java	6
+CaretPosition	2016-04-04-11-01-49	Test.java	6
+CaretPosition	2016-04-04-11-01-50	Test.java	6
+CaretPosition	2016-04-04-11-01-52	Test.java	76
+FileChange	2016-04-04-11-01-55	Add /Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/.DS_Store
+FileChange	2016-04-04-11-01-55	Add /Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/homework1.java
+FileChange	2016-04-04-11-01-55	Add /Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/Test.java
+CaretPosition	2016-04-04-11-01-59	Test.java	8
+CaretPosition	2016-04-04-11-02-01	Test.java	8
+CaretPosition	2016-04-04-11-02-02	Test.java	7
+FileChange	2016-04-04-11-02-07	/Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/Test.java	[DeleteDelta, position: 7, lines: [		import java.util.Scanner;]]	
+CaretPosition	2016-04-04-11-02-19	Test.java	26
+CaretPosition	2016-04-04-11-02-22	Test.java	25
+CaretPosition	2016-04-04-11-02-23	Test.java	24
+CaretPosition	2016-04-04-11-02-26	Test.java	20
+CaretPosition	2016-04-04-11-02-28	Test.java	19
+CaretPosition	2016-04-04-11-02-30	Test.java	18
+CaretPosition	2016-04-04-11-02-34	Test.java	19
+CaretPosition	2016-04-04-11-02-35	Test.java	19
+CaretPosition	2016-04-04-11-02-35	Test.java	18
+CaretPosition	2016-04-04-11-02-37	Test.java	18
+CaretPosition	2016-04-04-11-02-39	Test.java	18
+CaretPosition	2016-04-04-11-02-42	Test.java	18
+CaretPosition	2016-04-04-11-02-43	Test.java	18
+CaretPosition	2016-04-04-11-02-44	Test.java	18
+FileChange	2016-04-04-11-02-46	/Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/Test.java	[ChangeDelta, position: 17, lines: [		 */, , 		public class Arithmetic {] to [         */	]]	[DeleteDelta, position: 24, lines: [			, 			public static String arithmetic(String s) {]]	
+CaretPosition	2016-04-04-11-03-03	Test.java	35
+CaretPosition	2016-04-04-11-03-10	Test.java	35
+Part	2016-04-04-11-03-11	Arithmetic.java	broughtToTop
+Part	2016-04-04-11-03-11	Test.java	deactivated
+CaretPosition	2016-04-04-11-03-11	Arithmetic.java	1
+Part	2016-04-04-11-03-11	Arithmetic.java	activated
+CaretPosition	2016-04-04-11-03-12	Arithmetic.java	14
+CaretPosition	2016-04-04-11-03-16	Arithmetic.java	33
+CaretPosition	2016-04-04-11-03-17	Arithmetic.java	33
+FileChange	2016-04-04-11-03-18	/Users/xiezhenyu/mooctest/projects/363/12473/Arithmetic/src/Arithmetic.java	[ChangeDelta, position: 32, lines: [		switch(commandLine3 == sign[3]){] to [		switch(commandLine3){]]	
+Part	2016-04-04-11-03-19	Test.java	broughtToTop
+Part	2016-04-04-11-03-20	Arithmetic.java	deactivated
+CaretPosition	2016-04-04-11-03-20	Test.java	35
+Part	2016-04-04-11-03-20	Test.java	activated
+FileChange	2016-04-04-11-03-22	/Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/Test.java	[ChangeDelta, position: 34, lines: [				switch(commandLine3 == sign[3]){] to [				switch(commandLine3){]]	
+CaretPosition	2016-04-04-11-03-23	Test.java	35
+CaretPosition	2016-04-04-11-03-32	Test.java	73
+FileChange	2016-04-04-11-03-35	/Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/Test.java	[DeleteDelta, position: 70, lines: [		}]]	[DeleteDelta, position: 72, lines: [	}, ]]	
+CaretPosition	2016-04-04-11-03-35	Test.java	70
+CaretPosition	2016-04-04-11-03-45	Test.java	33
+CaretPosition	2016-04-04-11-03-47	Test.java	32
+FileChange	2016-04-04-11-03-47	/Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/Test.java	[ChangeDelta, position: 31, lines: [						&&(commandLine2 >= -2^31)&&(commandLine2 <= (2^31-1), 						){] to [						&&(commandLine2 >= -2^31)&&(commandLine2 <= (2^31-1){]]	
+CaretPosition	2016-04-04-11-03-58	Test.java	31
+CaretPosition	2016-04-04-11-04-03	Test.java	31
+CaretPosition	2016-04-04-11-04-06	Test.java	31
+FileChange	2016-04-04-11-04-07	/Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/Test.java	[ChangeDelta, position: 30, lines: [				if((commandLine1 >= -2^31)&&(commandLine1 <= (2^31-1)] to [				if((commandLine1 >= -2^31)&&(commandLine1 <= (2^31-1))]]	
+CaretPosition	2016-04-04-11-04-12	Test.java	32
+CaretPosition	2016-04-04-11-04-14	Test.java	32
+FileChange	2016-04-04-11-04-16	/Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/Test.java	[ChangeDelta, position: 31, lines: [						&&(commandLine2 >= -2^31)&&(commandLine2 <= (2^31-1){] to [						&&(commandLine2 >= -2^31)&&(commandLine2 <= (2^31-1)){]]	
+CaretPosition	2016-04-04-11-04-25	Test.java	32
+FileChange	2016-04-04-11-04-26	/Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/Test.java	[ChangeDelta, position: 31, lines: [						&&(commandLine2 >= -2^31)&&(commandLine2 <= (2^31-1)){] to [						&&(commandLine2 >= -2^31)&&(commandLine2 <= (2^31-1))){]]	
+CaretPosition	2016-04-04-11-04-38	Test.java	19
+CaretPosition	2016-04-04-11-04-41	Test.java	18
+CaretPosition	2016-04-04-11-04-45	Test.java	9
+CaretPosition	2016-04-04-11-04-46	Test.java	9
+CaretPosition	2016-04-04-11-04-48	Test.java	6
+CaretPosition	2016-04-04-11-04-50	Test.java	6
+CaretPosition	2016-04-04-11-04-51	Test.java	8
+FileChange	2016-04-04-11-04-52	/Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/Test.java	[ChangeDelta, position: 5, lines: [] to [	int commandLine1 = 0;, 	int commandLine2 = 0;, 	String commandLine3 = null;]]	[ChangeDelta, position: 8, lines: [		/*, 		 * Write a program called Arithmetic that takes three command-line arguments: , 		 * two integers followed by an arithmetic operator (+, -, * or /), 		 * if the expression's form is not right,output "wrong", 		 *  , 		 * input:, 		 * "3 2 +", 		 * output:, 		 * "3+2=5",          */	, 			int commandLine1 = 0;, 			int commandLine2 = 0;, 			String commandLine3 = null;] to [		]]	
+CaretPosition	2016-04-04-11-05-07	Test.java	6
+CaretPosition	2016-04-04-11-05-09	Test.java	6
+CaretPosition	2016-04-04-11-05-10	Test.java	8
+CaretPosition	2016-04-04-11-05-11	Test.java	9
+CaretPosition	2016-04-04-11-05-12	Test.java	9
+CaretPosition	2016-04-04-11-05-13	Test.java	11
+FileChange	2016-04-04-11-05-14	/Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/Test.java	[ChangeDelta, position: 5, lines: [	int commandLine1 = 0;, 	int commandLine2 = 0;, 	String commandLine3 = null;] to []]	[ChangeDelta, position: 10, lines: [		] to [		int commandLine1 = 0;, 		int commandLine2 = 0;, 		String commandLine3 = null;]]	
+CaretPosition	2016-04-04-11-05-25	Test.java	12
+CaretPosition	2016-04-04-11-05-27	Test.java	12
+CaretPosition	2016-04-04-11-05-27	Test.java	12
+CaretPosition	2016-04-04-11-05-29	Test.java	12
+CaretPosition	2016-04-04-11-05-32	Test.java	12
+CaretPosition	2016-04-04-11-05-33	Test.java	12
+CaretPosition	2016-04-04-11-05-35	Test.java	12
+CaretPosition	2016-04-04-11-05-36	Test.java	12
+CaretPosition	2016-04-04-11-05-37	Test.java	12
+CaretPosition	2016-04-04-11-05-39	Test.java	12
+CaretPosition	2016-04-04-11-05-39	Test.java	12
+CaretPosition	2016-04-04-11-05-41	Test.java	12
+CaretPosition	2016-04-04-11-05-43	Test.java	12
+CaretPosition	2016-04-04-11-05-44	Test.java	12
+CaretPosition	2016-04-04-11-05-45	Test.java	12
+CaretPosition	2016-04-04-11-05-46	Test.java	12
+CaretPosition	2016-04-04-11-05-47	Test.java	12
+FileChange	2016-04-04-11-05-48	/Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/Test.java	[ChangeDelta, position: 11, lines: [			String[] sign = {'+','-','*','/'};] to [			String[] sign = {"+","-","*","/"};]]	
+CaretPosition	2016-04-04-11-05-49	Test.java	12
+CaretPosition	2016-04-04-11-05-54	Test.java	12
+Part	2016-04-04-11-05-55	Arithmetic.java	broughtToTop
+Part	2016-04-04-11-05-55	Test.java	deactivated
+CaretPosition	2016-04-04-11-05-55	Arithmetic.java	33
+Part	2016-04-04-11-05-55	Arithmetic.java	activated
+CaretPosition	2016-04-04-11-06-02	Arithmetic.java	18
+CaretPosition	2016-04-04-11-06-03	Arithmetic.java	18
+CaretPosition	2016-04-04-11-06-05	Arithmetic.java	18
+FileChange	2016-04-04-11-06-06	/Users/xiezhenyu/mooctest/projects/363/12473/Arithmetic/src/Arithmetic.java	[ChangeDelta, position: 17, lines: [	String[] sign = {'+','-','*','/'};] to [	String[] sign = {"+","-","*","/"};]]	
+Part	2016-04-04-11-06-08	Test.java	broughtToTop
+Part	2016-04-04-11-06-08	Arithmetic.java	deactivated
+CaretPosition	2016-04-04-11-06-08	Test.java	12
+Part	2016-04-04-11-06-08	Test.java	activated
+CaretPosition	2016-04-04-11-06-30	Test.java	21
+CaretPosition	2016-04-04-11-06-33	Test.java	21
+CaretPosition	2016-04-04-11-06-46	Test.java	26
+CaretPosition	2016-04-04-11-07-20	Test.java	27
+CaretPosition	2016-04-04-11-07-40	Test.java	27
+CaretPosition	2016-04-04-11-07-41	Test.java	27
+FileChange	2016-04-04-11-07-42	/Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/Test.java	[ChangeDelta, position: 26, lines: [					System.out.println(commandLine1 "+" commandLine2 "=" result);] to [					System.out.println(commandLine1"+" commandLine2 "=" result);]]	
+CaretPosition	2016-04-04-11-07-46	Test.java	27
+CaretPosition	2016-04-04-11-07-48	Test.java	27
+CaretPosition	2016-04-04-11-07-51	Test.java	27
+FileChange	2016-04-04-11-07-51	/Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/Test.java	[ChangeDelta, position: 26, lines: [					System.out.println(commandLine1"+" commandLine2 "=" result);] to [					System.out.println();]]	
+CaretPosition	2016-04-04-11-07-55	Test.java	27
+FileChange	2016-04-04-11-07-56	/Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/Test.java	[ChangeDelta, position: 26, lines: [					System.out.println();] to [					System.out.println(commandLine1"+" commandLine2 "=" result);]]	
+CaretPosition	2016-04-04-11-08-02	Test.java	27
+CaretPosition	2016-04-04-11-08-06	Test.java	27
+CaretPosition	2016-04-04-11-08-07	Test.java	27
+CaretPosition	2016-04-04-11-08-08	Test.java	27
+CaretPosition	2016-04-04-11-08-08	Test.java	27
+FileChange	2016-04-04-11-08-08	/Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/Test.java	[ChangeDelta, position: 26, lines: [					System.out.println(commandLine1"+" commandLine2 "=" result);] to [					System.out.println(commandLine1"+"commandLine2"="result);]]	
+CaretPosition	2016-04-04-11-08-23	Test.java	27
+CaretPosition	2016-04-04-11-08-25	Test.java	27
+CaretPosition	2016-04-04-11-08-28	Test.java	27
+CaretPosition	2016-04-04-11-08-30	Test.java	27
+CaretPosition	2016-04-04-11-08-31	Test.java	27
+CaretPosition	2016-04-04-11-08-32	Test.java	27
+CaretPosition	2016-04-04-11-08-33	Test.java	27
+CaretPosition	2016-04-04-11-08-35	Test.java	27
+CaretPosition	2016-04-04-11-08-35	Test.java	27
+FileChange	2016-04-04-11-08-36	/Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/Test.java	[ChangeDelta, position: 26, lines: [					System.out.println(commandLine1"+"commandLine2"="result);] to [					System.out.println(commandLine1+"+"+commandLine2+"="+result);]]	
+Part	2016-04-04-11-08-39	Arithmetic.java	broughtToTop
+Part	2016-04-04-11-08-39	Test.java	deactivated
+CaretPosition	2016-04-04-11-08-39	Arithmetic.java	18
+Part	2016-04-04-11-08-39	Arithmetic.java	activated
+CaretPosition	2016-04-04-11-08-46	Arithmetic.java	36
+CaretPosition	2016-04-04-11-08-47	Arithmetic.java	36
+CaretPosition	2016-04-04-11-08-50	Arithmetic.java	36
+CaretPosition	2016-04-04-11-08-52	Arithmetic.java	36
+CaretPosition	2016-04-04-11-08-54	Arithmetic.java	36
+CaretPosition	2016-04-04-11-08-56	Arithmetic.java	36
+CaretPosition	2016-04-04-11-08-58	Arithmetic.java	36
+CaretPosition	2016-04-04-11-09-00	Arithmetic.java	36
+CaretPosition	2016-04-04-11-09-04	Arithmetic.java	40
+CaretPosition	2016-04-04-11-09-05	Arithmetic.java	40
+CaretPosition	2016-04-04-11-09-06	Arithmetic.java	40
+CaretPosition	2016-04-04-11-09-07	Arithmetic.java	40
+CaretPosition	2016-04-04-11-09-11	Arithmetic.java	40
+CaretPosition	2016-04-04-11-09-13	Arithmetic.java	40
+CaretPosition	2016-04-04-11-09-14	Arithmetic.java	40
+CaretPosition	2016-04-04-11-09-15	Arithmetic.java	40
+CaretPosition	2016-04-04-11-09-15	Arithmetic.java	40
+FileChange	2016-04-04-11-09-16	/Users/xiezhenyu/mooctest/projects/363/12473/Arithmetic/src/Arithmetic.java	[ChangeDelta, position: 35, lines: [			System.out.println(commandLine1 "+" commandLine2 "=" result);] to [			System.out.println(commandLine1+"+"+commandLine2+"="+result);]]	[ChangeDelta, position: 39, lines: [			System.out.println(commandLine1 "-" commandLine2 "=" result);] to [			System.out.println(commandLine1+"-"+commandLine2+"="+result);]]	
+CaretPosition	2016-04-04-11-09-19	Arithmetic.java	44
+CaretPosition	2016-04-04-11-09-20	Arithmetic.java	44
+CaretPosition	2016-04-04-11-09-21	Arithmetic.java	44
+CaretPosition	2016-04-04-11-09-22	Arithmetic.java	44
+CaretPosition	2016-04-04-11-09-27	Arithmetic.java	44
+CaretPosition	2016-04-04-11-09-32	Arithmetic.java	52
+CaretPosition	2016-04-04-11-09-33	Arithmetic.java	52
+CaretPosition	2016-04-04-11-09-34	Arithmetic.java	52
+CaretPosition	2016-04-04-11-09-35	Arithmetic.java	52
+CaretPosition	2016-04-04-11-09-40	Arithmetic.java	52
+FileChange	2016-04-04-11-09-42	/Users/xiezhenyu/mooctest/projects/363/12473/Arithmetic/src/Arithmetic.java	[ChangeDelta, position: 43, lines: [			System.out.println(commandLine1 "*" commandLine2 "=" result);] to [			System.out.println(commandLine1+"*"+commandLine2+"="+result);]]	[ChangeDelta, position: 51, lines: [				System.out.println(commandLine1 "/" commandLine2 "=" result);] to [				System.out.println(commandLine1+"/"+commandLine2+"="+result);]]	
+Part	2016-04-04-11-09-49	Test.java	broughtToTop
+Part	2016-04-04-11-09-49	Arithmetic.java	deactivated
+CaretPosition	2016-04-04-11-09-49	Test.java	27
+Part	2016-04-04-11-09-49	Test.java	activated
+Part	2016-04-04-11-09-54	Arithmetic.java	broughtToTop
+Part	2016-04-04-11-09-54	Test.java	deactivated
+CaretPosition	2016-04-04-11-09-54	Arithmetic.java	52
+Part	2016-04-04-11-09-54	Arithmetic.java	activated
+CaretPosition	2016-04-04-11-10-00	Arithmetic.java	33
+CaretPosition	2016-04-04-11-10-04	Arithmetic.java	33
+CaretPosition	2016-04-04-11-10-05	Arithmetic.java	33
+CaretPosition	2016-04-04-11-10-07	Arithmetic.java	33
+Part	2016-04-04-11-10-21	Test.java	broughtToTop
+Part	2016-04-04-11-10-21	Arithmetic.java	deactivated
+CaretPosition	2016-04-04-11-10-21	Test.java	27
+Part	2016-04-04-11-10-21	Test.java	activated
+CaretPosition	2016-04-04-11-10-26	Test.java	24
+CaretPosition	2016-04-04-11-10-29	Test.java	24
+CaretPosition	2016-04-04-11-10-30	Test.java	24
+CaretPosition	2016-04-04-11-10-31	Test.java	24
+CaretPosition	2016-04-04-11-10-32	Test.java	50
+FileChange	2016-04-04-11-10-33	/Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/Test.java	[ChangeDelta, position: 23, lines: [				switch(commandLine3){, 				case sign[0]:, 					result = commandLine1 + commandLine2;, 					System.out.println(commandLine1+"+"+commandLine2+"="+result);, 					break;, 				case sign[1]:, 					result = commandLine1 - commandLine2;, 					System.out.println(commandLine1 "-" commandLine2 "=" result);, 					break;, 				case sign[2]:, 					result = commandLine1 * commandLine2;, 					System.out.println(commandLine1 "*" commandLine2 "=" result);, 					break;, 				case sign[3]:, 					if(commandLine2 == 0){, 						System.out.println("除数不能为0")；] to [					switch(commandLine3){, 					case sign[0]:, 						result = commandLine1 + commandLine2;, 						System.out.println(commandLine1+"+"+commandLine2+"="+result);, 						break;, 					case sign[1]:, 						result = commandLine1 - commandLine2;, 						System.out.println(commandLine1+"-"+commandLine2+"="+result);, 						break;, 					case sign[2]:, 						result = commandLine1 * commandLine2;, 						System.out.println(commandLine1+"*"+commandLine2+"="+result);, 						break;, 					case sign[3]:, 						if(commandLine2 == 0){, 							System.out.println("除数不能为0")；, 						}, 						else{, 							result = commandLine1 / commandLine2;, 							System.out.println(commandLine1+"/"+commandLine2+"="+result);, 						}, 						break;, 					default:, 						System.out.println("Wrong");, 						break;, 						]]	[DeleteDelta, position: 40, lines: [					else{, 						result = commandLine1 / commandLine2;, 						System.out.println(commandLine1 "/" commandLine2 "=" result);, 					}, 					break;, 				default:, 					System.out.println("Wrong");, 					break;, 					]]	[DeleteDelta, position: 50, lines: [				, 				}]]	
+CaretPosition	2016-04-04-11-10-38	Test.java	39
+CaretPosition	2016-04-04-11-10-40	Test.java	39
+CaretPosition	2016-04-04-11-10-41	Test.java	39
+FileChange	2016-04-04-11-10-42	/Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/Test.java	[ChangeDelta, position: 38, lines: [							System.out.println("除数不能为0")；] to [							System.out.println("除数不能为0");]]	
+CaretPosition	2016-04-04-11-10-47	Test.java	55
+FileChange	2016-04-04-11-10-48	/Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/Test.java	[ChangeDelta, position: 54, lines: [				return "";] to [				]]	
+CaretPosition	2016-04-04-11-10-49	Test.java	55
+CaretPosition	2016-04-04-11-11-35	Test.java	21
+CaretPosition	2016-04-04-11-11-40	Test.java	21
+CaretPosition	2016-04-04-11-11-43	Test.java	21
+CaretPosition	2016-04-04-11-11-44	Test.java	21
+CaretPosition	2016-04-04-11-11-46	Test.java	22
+CaretPosition	2016-04-04-11-11-47	Test.java	22
+CaretPosition	2016-04-04-11-11-49	Test.java	22
+CaretPosition	2016-04-04-11-11-50	Test.java	22
+FileChange	2016-04-04-11-11-50	/Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/Test.java	[ChangeDelta, position: 20, lines: [				if((commandLine1 >= -2^31)&&(commandLine1 <= (2^31-1)), 						&&(commandLine2 >= -2^31)&&(commandLine2 <= (2^31-1))){] to [				if((commandLine1 >= (-2^31))&&(commandLine1 <= (2^31-1)), 						&&(commandLine2 >= (-2^31))&&(commandLine2 <= (2^31-1))){]]	
+CaretPosition	2016-04-04-11-12-03	Test.java	25
+CaretPosition	2016-04-04-11-12-13	Test.java	25
+CaretPosition	2016-04-04-11-12-16	Test.java	25
+CaretPosition	2016-04-04-11-12-17	Test.java	25
+CaretPosition	2016-04-04-11-12-18	Test.java	25
+CaretPosition	2016-04-04-11-12-19	Test.java	25
+CaretPosition	2016-04-04-11-12-22	Test.java	29
+CaretPosition	2016-04-04-11-12-24	Test.java	29
+CaretPosition	2016-04-04-11-12-24	Test.java	29
+CaretPosition	2016-04-04-11-12-25	Test.java	29
+CaretPosition	2016-04-04-11-12-28	Test.java	33
+CaretPosition	2016-04-04-11-12-29	Test.java	33
+CaretPosition	2016-04-04-11-12-32	Test.java	33
+CaretPosition	2016-04-04-11-12-35	Test.java	37
+CaretPosition	2016-04-04-11-12-36	Test.java	37
+CaretPosition	2016-04-04-11-12-39	Test.java	37
+CaretPosition	2016-04-04-11-12-40	Test.java	37
+CaretPosition	2016-04-04-11-12-41	Test.java	37
+FileChange	2016-04-04-11-12-42	/Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/Test.java	[ChangeDelta, position: 24, lines: [					case sign[0]:] to [					case "+":]]	[ChangeDelta, position: 28, lines: [					case sign[1]:] to [					case "-":]]	[ChangeDelta, position: 32, lines: [					case sign[2]:] to [					case "*":]]	[ChangeDelta, position: 36, lines: [					case sign[3]:] to [					case "/":]]	
+CaretPosition	2016-04-04-11-12-49	Test.java	24
+Part	2016-04-04-11-12-52	Arithmetic.java	broughtToTop
+Part	2016-04-04-11-12-52	Test.java	deactivated
+CaretPosition	2016-04-04-11-12-52	Arithmetic.java	33
+Part	2016-04-04-11-12-52	Arithmetic.java	activated
+CaretPosition	2016-04-04-11-12-54	Arithmetic.java	59
+FileChange	2016-04-04-11-12-55	/Users/xiezhenyu/mooctest/projects/363/12473/Arithmetic/src/Arithmetic.java	[ChangeDelta, position: 32, lines: [		switch(commandLine3){, 		case sign[0]:, 			result = commandLine1 + commandLine2;, 			System.out.println(commandLine1+"+"+commandLine2+"="+result);, 			break;, 		case sign[1]:, 			result = commandLine1 - commandLine2;, 			System.out.println(commandLine1+"-"+commandLine2+"="+result);, 			break;, 		case sign[2]:, 			result = commandLine1 * commandLine2;, 			System.out.println(commandLine1+"*"+commandLine2+"="+result);, 			break;, 		case sign[3]:, 			if(commandLine2 == 0){, 				System.out.println("除数不能为0")；] to [			switch(commandLine3){, 			case "+":, 				result = commandLine1 + commandLine2;, 				System.out.println(commandLine1+"+"+commandLine2+"="+result);, 				break;, 			case "-":, 				result = commandLine1 - commandLine2;, 				System.out.println(commandLine1+"-"+commandLine2+"="+result);, 				break;, 			case "*":, 				result = commandLine1 * commandLine2;, 				System.out.println(commandLine1+"*"+commandLine2+"="+result);, 				break;, 			case "/":, 				if(commandLine2 == 0){, 					System.out.println("除数不能为0");, 				}, 				else{, 					result = commandLine1 / commandLine2;, 					System.out.println(commandLine1+"/"+commandLine2+"="+result);, 				}, 				break;, 			default:, 				System.out.println("Wrong");, 				break;, 				]]	[DeleteDelta, position: 49, lines: [			else{, 				result = commandLine1 / commandLine2;, 				System.out.println(commandLine1+"/"+commandLine2+"="+result);, 			}, 			break;, 		default:, 			System.out.println("Wrong");, 			break;, 			, 		}]]	
+Part	2016-04-04-11-12-56	Test.java	broughtToTop
+Part	2016-04-04-11-12-56	Arithmetic.java	deactivated
+CaretPosition	2016-04-04-11-12-56	Test.java	24
+Part	2016-04-04-11-12-56	Test.java	activated
+CaretPosition	2016-04-04-11-12-58	Test.java	27
+CaretPosition	2016-04-04-11-13-02	Test.java	12
+CaretPosition	2016-04-04-11-13-05	Test.java	11
+Part	2016-04-04-11-13-08	Arithmetic.java	broughtToTop
+Part	2016-04-04-11-13-08	Test.java	deactivated
+CaretPosition	2016-04-04-11-13-08	Arithmetic.java	59
+Part	2016-04-04-11-13-08	Arithmetic.java	activated
+CaretPosition	2016-04-04-11-13-12	Arithmetic.java	18
+CaretPosition	2016-04-04-11-13-14	Arithmetic.java	17
+Part	2016-04-04-11-13-17	Test.java	broughtToTop
+Part	2016-04-04-11-13-17	Arithmetic.java	deactivated
+CaretPosition	2016-04-04-11-13-17	Test.java	11
+Part	2016-04-04-11-13-17	Test.java	activated
+FileChange	2016-04-04-11-13-19	/Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/Test.java	[DeleteDelta, position: 11, lines: [			String[] sign = {"+","-","*","/"};]]	
+Part	2016-04-04-11-13-28	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:13:25))	broughtToTop
+Part	2016-04-04-11-13-28	Test.java	deactivated
+CaretPosition	2016-04-04-11-13-28	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:13:25))	1
+Part	2016-04-04-11-13-28	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:13:25))	activated
+CaretPosition	2016-04-04-11-13-29	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:13:25))	1
+CaretPosition	2016-04-04-11-13-29	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:13:25))	1
+CaretPosition	2016-04-04-11-13-32	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:13:25))	1
+CaretPosition	2016-04-04-11-13-32	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:13:25))	1
+CaretPosition	2016-04-04-11-13-33	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:13:25))	1
+CaretPosition	2016-04-04-11-13-33	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:13:25))	1
+CaretPosition	2016-04-04-11-13-34	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:13:25))	1
+CaretPosition	2016-04-04-11-13-34	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:13:25))	1
+CaretPosition	2016-04-04-11-13-35	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:13:25))	2
+CaretPosition	2016-04-04-11-13-35	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:13:25))	2
+Part	2016-04-04-11-13-42	Arithmetic.java	broughtToTop
+Part	2016-04-04-11-13-42	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:13:25))	deactivated
+CaretPosition	2016-04-04-11-13-42	Arithmetic.java	17
+Part	2016-04-04-11-13-42	Arithmetic.java	activated
+Part	2016-04-04-11-13-51	Test.java	broughtToTop
+Part	2016-04-04-11-13-51	Arithmetic.java	deactivated
+CaretPosition	2016-04-04-11-13-51	Test.java	11
+Part	2016-04-04-11-13-51	Test.java	activated
+Part	2016-04-04-11-13-53	Test.java	deactivated
+CaretPosition	2016-04-04-11-13-53	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:13:53))	2
+CaretPosition	2016-04-04-11-13-53	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:13:53))	1
+Part	2016-04-04-11-13-53	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:13:53))	activated
+CaretPosition	2016-04-04-11-13-54	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:13:53))	1
+CaretPosition	2016-04-04-11-13-54	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:13:53))	1
+CaretPosition	2016-04-04-11-13-54	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:13:53))	1
+CaretPosition	2016-04-04-11-13-59	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:13:53))	1
+CaretPosition	2016-04-04-11-13-59	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:13:53))	1
+CaretPosition	2016-04-04-11-13-59	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:13:53))	1
+CaretPosition	2016-04-04-11-14-00	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:13:53))	1
+CaretPosition	2016-04-04-11-14-00	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:13:53))	1
+CaretPosition	2016-04-04-11-14-00	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:13:53))	1
+CaretPosition	2016-04-04-11-14-01	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:13:53))	2
+CaretPosition	2016-04-04-11-14-01	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:13:53))	2
+CaretPosition	2016-04-04-11-14-01	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:13:53))	2
+CaretPosition	2016-04-04-11-14-07	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	1
+CaretPosition	2016-04-04-11-14-07	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	1
+CaretPosition	2016-04-04-11-14-07	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	1
+CaretPosition	2016-04-04-11-14-10	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	1
+CaretPosition	2016-04-04-11-14-10	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	1
+CaretPosition	2016-04-04-11-14-10	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	1
+CaretPosition	2016-04-04-11-14-13	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	1
+CaretPosition	2016-04-04-11-14-13	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	1
+CaretPosition	2016-04-04-11-14-13	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	1
+CaretPosition	2016-04-04-11-14-15	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	1
+CaretPosition	2016-04-04-11-14-15	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	1
+CaretPosition	2016-04-04-11-14-15	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	1
+CaretPosition	2016-04-04-11-14-16	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	2
+CaretPosition	2016-04-04-11-14-16	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	2
+CaretPosition	2016-04-04-11-14-16	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	2
+CaretPosition	2016-04-04-11-14-23	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	2
+CaretPosition	2016-04-04-11-14-23	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	2
+CaretPosition	2016-04-04-11-14-23	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	2
+Part	2016-04-04-11-14-25	NumberFormatException.class	opened
+Part	2016-04-04-11-14-25	NumberFormatException.class	broughtToTop
+Part	2016-04-04-11-14-25	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	deactivated
+CaretPosition	2016-04-04-11-14-25	NumberFormatException.class	2
+Part	2016-04-04-11-14-25	NumberFormatException.class	activated
+CaretPosition	2016-04-04-11-14-26	NumberFormatException.class	65
+Part	2016-04-04-11-14-27	NumberFormatException.class	deactivated
+CaretPosition	2016-04-04-11-14-27	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	3
+CaretPosition	2016-04-04-11-14-27	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	3
+Part	2016-04-04-11-14-27	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	activated
+Part	2016-04-04-11-14-27	Integer.class	opened
+Part	2016-04-04-11-14-27	Integer.class	broughtToTop
+Part	2016-04-04-11-14-27	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	deactivated
+CaretPosition	2016-04-04-11-14-27	Integer.class	2
+Part	2016-04-04-11-14-27	Integer.class	activated
+CaretPosition	2016-04-04-11-14-28	Integer.class	572
+Part	2016-04-04-11-14-30	Integer.class	deactivated
+CaretPosition	2016-04-04-11-14-30	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	4
+CaretPosition	2016-04-04-11-14-30	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	4
+Part	2016-04-04-11-14-30	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	activated
+Part	2016-04-04-11-14-30	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	deactivated
+CaretPosition	2016-04-04-11-14-30	Integer.class	572
+Part	2016-04-04-11-14-30	Integer.class	activated
+CaretPosition	2016-04-04-11-14-30	Integer.class	615
+Part	2016-04-04-11-14-31	Integer.class	deactivated
+CaretPosition	2016-04-04-11-14-31	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	5
+CaretPosition	2016-04-04-11-14-31	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	5
+Part	2016-04-04-11-14-31	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	activated
+Part	2016-04-04-11-14-31	Test.java	broughtToTop
+Part	2016-04-04-11-14-31	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	deactivated
+CaretPosition	2016-04-04-11-14-31	Test.java	11
+Part	2016-04-04-11-14-31	Test.java	activated
+CaretPosition	2016-04-04-11-14-31	Test.java	14
+Part	2016-04-04-11-14-43	Test.java	deactivated
+CaretPosition	2016-04-04-11-14-43	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	6
+CaretPosition	2016-04-04-11-14-43	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	6
+Part	2016-04-04-11-14-43	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	activated
+Part	2016-04-04-11-14-43	NumberFormatException.class	broughtToTop
+Part	2016-04-04-11-14-43	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	deactivated
+CaretPosition	2016-04-04-11-14-43	NumberFormatException.class	65
+Part	2016-04-04-11-14-43	NumberFormatException.class	activated
+CaretPosition	2016-04-04-11-14-44	NumberFormatException.class	65
+Part	2016-04-04-11-14-47	NumberFormatException.class	deactivated
+CaretPosition	2016-04-04-11-14-47	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	3
+CaretPosition	2016-04-04-11-14-47	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	3
+Part	2016-04-04-11-14-47	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	activated
+CaretPosition	2016-04-04-11-14-48	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	2
+Breakpoint	2016-04-04-11-14-50	add	null	null	=Arithmetic/\/Library\/Java\/JavaVirtualMachines\/jdk1.8.0_65.jdk\/Contents\/Home\/jre\/lib\/rt.jar<java.lang(NumberFormatException.class[NumberFormatException	java.lang.NumberFormatException	
+Breakpoint	2016-04-04-11-14-50	change	Breakpoint:NumberFormatException: caught and uncaught	null	=Arithmetic/\/Library\/Java\/JavaVirtualMachines\/jdk1.8.0_65.jdk\/Contents\/Home\/jre\/lib\/rt.jar<java.lang(NumberFormatException.class[NumberFormatException	java.lang.NumberFormatException	
+Part	2016-04-04-11-14-52	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	deactivated
+CaretPosition	2016-04-04-11-14-52	NumberFormatException.class	65
+Part	2016-04-04-11-14-52	NumberFormatException.class	activated
+CaretPosition	2016-04-04-11-14-52	NumberFormatException.class	65
+Part	2016-04-04-11-15-10	Test.java	broughtToTop
+Part	2016-04-04-11-15-10	NumberFormatException.class	deactivated
+CaretPosition	2016-04-04-11-15-10	Test.java	14
+Part	2016-04-04-11-15-10	Test.java	activated
+CaretPosition	2016-04-04-11-15-17	Test.java	14
+CaretPosition	2016-04-04-11-15-22	Test.java	14
+CaretPosition	2016-04-04-11-15-24	Test.java	14
+CaretPosition	2016-04-04-11-15-27	Test.java	15
+CaretPosition	2016-04-04-11-15-31	Test.java	16
+CaretPosition	2016-04-04-11-15-33	Test.java	16
+CaretPosition	2016-04-04-11-15-36	Test.java	16
+Part	2016-04-04-11-15-38	Test.java	deactivated
+CaretPosition	2016-04-04-11-15-38	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	3
+CaretPosition	2016-04-04-11-15-38	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	3
+Part	2016-04-04-11-15-38	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	activated
+Part	2016-04-04-11-15-42	NumberFormatException.class	broughtToTop
+Part	2016-04-04-11-15-42	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:14:06))	deactivated
+CaretPosition	2016-04-04-11-15-42	NumberFormatException.class	65
+Part	2016-04-04-11-15-42	NumberFormatException.class	activated
+CaretPosition	2016-04-04-11-15-43	NumberFormatException.class	65
+CaretPosition	2016-04-04-11-15-47	NumberFormatException.class	65
+CaretPosition	2016-04-04-11-15-48	NumberFormatException.class	65
+CaretPosition	2016-04-04-11-15-49	NumberFormatException.class	65
+Part	2016-04-04-11-15-51	Test.java	broughtToTop
+Part	2016-04-04-11-15-51	NumberFormatException.class	deactivated
+CaretPosition	2016-04-04-11-15-51	Test.java	16
+Part	2016-04-04-11-15-51	Test.java	activated
+CaretPosition	2016-04-04-11-15-54	Test.java	16
+CaretPosition	2016-04-04-11-15-57	Test.java	16
+CaretPosition	2016-04-04-11-15-58	Test.java	16
+CaretPosition	2016-04-04-11-16-00	Test.java	17
+CaretPosition	2016-04-04-11-16-02	Test.java	17
+CaretPosition	2016-04-04-11-16-05	Test.java	17
+CaretPosition	2016-04-04-11-16-08	Test.java	17
+CaretPosition	2016-04-04-11-16-10	Test.java	17
+CaretPosition	2016-04-04-11-16-16	Test.java	14
+CaretPosition	2016-04-04-11-16-19	Test.java	19
+CaretPosition	2016-04-04-11-16-21	Test.java	19
+CaretPosition	2016-04-04-11-16-22	Test.java	19
+CaretPosition	2016-04-04-11-16-24	Test.java	23
+CaretPosition	2016-04-04-11-16-26	Test.java	20
+CaretPosition	2016-04-04-11-16-27	Test.java	20
+CaretPosition	2016-04-04-11-16-28	Test.java	20
+CaretPosition	2016-04-04-11-16-30	Test.java	20
+FileChange	2016-04-04-11-16-31	/Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/Test.java	[ChangeDelta, position: 13, lines: [				commandLine1 = Integer.parseInt(list[0]);, 				commandLine2 = Integer.parseInt(list[1]);] to [				try{, 					commandLine1 = Integer.parseInt(list[0]);, 				}catch(NumberFormatException e){, 					e.getStackTrace();, 				}, 				try{, 					commandLine2 = Integer.parseInt(list[1]);, 				}catch(NumberFormatException e){, 					e.getStackTrace();, 				}]]	
+Part	2016-04-04-11-16-37	Test.java	deactivated
+CaretPosition	2016-04-04-11-16-37	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:16:36))	3
+CaretPosition	2016-04-04-11-16-37	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:16:36))	1
+Part	2016-04-04-11-16-37	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:16:36))	activated
+CaretPosition	2016-04-04-11-16-38	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:16:36))	1
+CaretPosition	2016-04-04-11-16-39	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:16:36))	1
+CaretPosition	2016-04-04-11-16-40	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:16:36))	1
+CaretPosition	2016-04-04-11-16-41	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:16:36))	1
+CaretPosition	2016-04-04-11-16-41	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:16:36))	1
+CaretPosition	2016-04-04-11-16-42	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:16:36))	2
+Part	2016-04-04-11-16-52	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:16:36))	deactivated
+CaretPosition	2016-04-04-11-16-52	Test.java	20
+Part	2016-04-04-11-16-52	Test.java	activated
+CaretPosition	2016-04-04-11-16-53	Test.java	17
+CaretPosition	2016-04-04-11-16-54	Test.java	18
+CaretPosition	2016-04-04-11-16-55	Test.java	18
+CaretPosition	2016-04-04-11-16-56	Test.java	18
+CaretPosition	2016-04-04-11-16-58	Test.java	18
+CaretPosition	2016-04-04-11-17-00	Test.java	18
+CaretPosition	2016-04-04-11-17-01	Test.java	18
+CaretPosition	2016-04-04-11-17-02	Test.java	18
+CaretPosition	2016-04-04-11-17-05	Test.java	18
+CaretPosition	2016-04-04-11-17-06	Test.java	18
+CaretPosition	2016-04-04-11-17-11	Test.java	18
+CaretPosition	2016-04-04-11-17-14	Test.java	18
+CaretPosition	2016-04-04-11-17-18	Test.java	18
+CaretPosition	2016-04-04-11-17-19	Test.java	18
+CaretPosition	2016-04-04-11-17-22	Test.java	18
+CaretPosition	2016-04-04-11-17-23	Test.java	18
+CaretPosition	2016-04-04-11-17-25	Test.java	18
+CaretPosition	2016-04-04-11-17-27	Test.java	23
+CaretPosition	2016-04-04-11-17-28	Test.java	24
+FileChange	2016-04-04-11-17-29	/Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/Test.java	[InsertDelta, position: 17, lines: [					System.out.println("输入格式有误");]]	[InsertDelta, position: 22, lines: [					System.out.println("输入格式有误");]]	
+Part	2016-04-04-11-17-32	Test.java	deactivated
+CaretPosition	2016-04-04-11-17-32	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:17:31))	2
+CaretPosition	2016-04-04-11-17-32	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:17:31))	1
+Part	2016-04-04-11-17-32	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:17:31))	activated
+CaretPosition	2016-04-04-11-17-33	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:17:31))	1
+CaretPosition	2016-04-04-11-17-33	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:17:31))	1
+CaretPosition	2016-04-04-11-17-35	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:17:31))	1
+CaretPosition	2016-04-04-11-17-35	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:17:31))	1
+CaretPosition	2016-04-04-11-17-36	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:17:31))	1
+CaretPosition	2016-04-04-11-17-36	Console (Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:17:31))	1
+CaretPosition	2016-04-04-11-17-36	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:17:31))	2
+CaretPosition	2016-04-04-11-17-36	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:17:31))	2
+Part	2016-04-04-11-17-43	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:17:31))	deactivated
+CaretPosition	2016-04-04-11-17-43	Test.java	24
+Part	2016-04-04-11-17-43	Test.java	activated
+CaretPosition	2016-04-04-11-17-46	Test.java	14
+Part	2016-04-04-11-17-50	Arithmetic.java	broughtToTop
+Part	2016-04-04-11-17-50	Test.java	deactivated
+CaretPosition	2016-04-04-11-17-50	Arithmetic.java	17
+Part	2016-04-04-11-17-50	Arithmetic.java	activated
+CaretPosition	2016-04-04-11-17-56	Arithmetic.java	22
+CaretPosition	2016-04-04-11-17-58	Arithmetic.java	33
+FileChange	2016-04-04-11-17-59	/Users/xiezhenyu/mooctest/projects/363/12473/Arithmetic/src/Arithmetic.java	[DeleteDelta, position: 17, lines: [	String[] sign = {"+","-","*","/"};]]	[ChangeDelta, position: 22, lines: [		commandLine1 = Integer.parseInt(list[0]);, 		commandLine2 = Integer.parseInt(list[1]);] to [		try{, 			commandLine1 = Integer.parseInt(list[0]);, 		}catch(NumberFormatException e){, 			e.getStackTrace();, 			System.out.println("输入格式有误");, 		}, 		try{, 			commandLine2 = Integer.parseInt(list[1]);, 		}catch(NumberFormatException e){, 			e.getStackTrace();, 			System.out.println("输入格式有误");, 		}]]	
+Part	2016-04-04-11-18-04	Arithmetic.java	deactivated
+Part	2016-04-04-11-18-04	MoocTest	broughtToTop
+Part	2016-04-04-11-18-04	MoocTest	activated
+Part	2016-04-04-11-18-17	MoocTest	deactivated
+CaretPosition	2016-04-04-11-18-17	Arithmetic.java	33
+Part	2016-04-04-11-18-17	Arithmetic.java	activated
+CaretPosition	2016-04-04-11-18-18	Arithmetic.java	38
+CaretPosition	2016-04-04-11-18-19	Arithmetic.java	38
+CaretPosition	2016-04-04-11-18-20	Arithmetic.java	38
+CaretPosition	2016-04-04-11-18-21	Arithmetic.java	38
+CaretPosition	2016-04-04-11-18-22	Arithmetic.java	38
+CaretPosition	2016-04-04-11-18-25	Arithmetic.java	38
+CaretPosition	2016-04-04-11-18-26	Arithmetic.java	38
+CaretPosition	2016-04-04-11-18-27	Arithmetic.java	38
+CaretPosition	2016-04-04-11-18-29	Arithmetic.java	38
+CaretPosition	2016-04-04-11-18-30	Arithmetic.java	38
+CaretPosition	2016-04-04-11-18-31	Arithmetic.java	39
+CaretPosition	2016-04-04-11-18-32	Arithmetic.java	39
+CaretPosition	2016-04-04-11-18-33	Arithmetic.java	39
+CaretPosition	2016-04-04-11-18-36	Arithmetic.java	39
+CaretPosition	2016-04-04-11-18-37	Arithmetic.java	39
+FileChange	2016-04-04-11-18-37	/Users/xiezhenyu/mooctest/projects/363/12473/Arithmetic/src/Arithmetic.java	[ChangeDelta, position: 37, lines: [		if((commandLine1 >= -2^31)&&(commandLine1 <= (2^31-1), 				&&(commandLine2 >= -2^31)&&(commandLine2 <= (2^31-1)] to [		if((commandLine1 >= (-2^31))&&(commandLine1 <= (2^31-1), 				&&(commandLine2 >= (-2^31))&&(commandLine2 <= (2^31-1)]]	
+Part	2016-04-04-11-18-48	Test.java	broughtToTop
+Part	2016-04-04-11-18-48	Arithmetic.java	deactivated
+CaretPosition	2016-04-04-11-18-48	Test.java	14
+Part	2016-04-04-11-18-48	Test.java	activated
+CaretPosition	2016-04-04-11-18-50	Test.java	15
+Part	2016-04-04-11-19-02	Arithmetic.java	broughtToTop
+Part	2016-04-04-11-19-02	Test.java	deactivated
+CaretPosition	2016-04-04-11-19-02	Arithmetic.java	39
+Part	2016-04-04-11-19-02	Arithmetic.java	activated
+CaretPosition	2016-04-04-11-19-06	Arithmetic.java	74
+CaretPosition	2016-04-04-11-19-07	Arithmetic.java	74
+CaretPosition	2016-04-04-11-19-08	Arithmetic.java	74
+CaretPosition	2016-04-04-11-19-09	Arithmetic.java	74
+CaretPosition	2016-04-04-11-19-11	Arithmetic.java	74
+FileChange	2016-04-04-11-19-12	/Users/xiezhenyu/mooctest/projects/363/12473/Arithmetic/src/Arithmetic.java	[ChangeDelta, position: 73, lines: [		return "";] to [		return null;]]	
+Part	2016-04-04-11-19-18	Arithmetic.java	deactivated
+Part	2016-04-04-11-19-18	MoocTest	activated
+Part	2016-04-04-11-20-28	MoocTest	deactivated
+CaretPosition	2016-04-04-11-20-28	Arithmetic.java	74
+Part	2016-04-04-11-20-28	Arithmetic.java	activated
+CaretPosition	2016-04-04-11-20-30	Arithmetic.java	45
+CaretPosition	2016-04-04-11-20-34	Arithmetic.java	45
+CaretPosition	2016-04-04-11-20-40	Arithmetic.java	68
+CaretPosition	2016-04-04-11-20-45	Arithmetic.java	69
+CaretPosition	2016-04-04-11-20-49	Arithmetic.java	69
+CaretPosition	2016-04-04-11-20-54	Arithmetic.java	69
+CaretPosition	2016-04-04-11-21-03	Arithmetic.java	69
+CaretPosition	2016-04-04-11-21-04	Arithmetic.java	69
+CaretPosition	2016-04-04-11-21-04	Arithmetic.java	69
+CaretPosition	2016-04-04-11-21-06	Arithmetic.java	69
+CaretPosition	2016-04-04-11-21-08	Arithmetic.java	69
+CaretPosition	2016-04-04-11-21-09	Arithmetic.java	69
+CaretPosition	2016-04-04-11-21-18	Arithmetic.java	69
+CaretPosition	2016-04-04-11-21-20	Arithmetic.java	69
+CaretPosition	2016-04-04-11-21-21	Arithmetic.java	69
+CaretPosition	2016-04-04-11-21-29	Arithmetic.java	73
+CaretPosition	2016-04-04-11-21-30	Arithmetic.java	72
+CaretPosition	2016-04-04-11-21-31	Arithmetic.java	73
+CaretPosition	2016-04-04-11-21-32	Arithmetic.java	73
+CaretPosition	2016-04-04-11-21-34	Arithmetic.java	73
+CaretPosition	2016-04-04-11-21-38	Arithmetic.java	69
+CaretPosition	2016-04-04-11-21-41	Arithmetic.java	73
+CaretPosition	2016-04-04-11-21-46	Arithmetic.java	73
+CaretPosition	2016-04-04-11-21-48	Arithmetic.java	73
+CaretPosition	2016-04-04-11-21-51	Arithmetic.java	73
+CaretPosition	2016-04-04-11-21-53	Arithmetic.java	73
+CaretPosition	2016-04-04-11-21-53	Arithmetic.java	73
+CaretPosition	2016-04-04-11-21-57	Arithmetic.java	76
+CaretPosition	2016-04-04-11-21-58	Arithmetic.java	76
+CaretPosition	2016-04-04-11-21-59	Arithmetic.java	76
+CaretPosition	2016-04-04-11-22-01	Arithmetic.java	76
+CaretPosition	2016-04-04-11-22-02	Arithmetic.java	76
+CaretPosition	2016-04-04-11-22-04	Arithmetic.java	76
+CaretPosition	2016-04-04-11-22-05	Arithmetic.java	76
+CaretPosition	2016-04-04-11-22-07	Arithmetic.java	73
+CaretPosition	2016-04-04-11-22-08	Arithmetic.java	76
+CaretPosition	2016-04-04-11-22-09	Arithmetic.java	76
+FileChange	2016-04-04-11-22-10	/Users/xiezhenyu/mooctest/projects/363/12473/Arithmetic/src/Arithmetic.java	[InsertDelta, position: 68, lines: [			String output = commandLine1+"+"+commandLine2+"="+result]]	[InsertDelta, position: 71, lines: [			output = "Wrong";]]	[ChangeDelta, position: 73, lines: [		return null;] to [		return output;]]	
+CaretPosition	2016-04-04-11-22-10	Arithmetic.java	76
+Part	2016-04-04-11-22-15	Arithmetic.java	deactivated
+Part	2016-04-04-11-22-15	MoocTest	activated
+Part	2016-04-04-11-22-50	NumberFormatException.class	closed
+Part	2016-04-04-11-22-51	Integer.class	closed
+Part	2016-04-04-11-39-38	MoocTest	deactivated
+Part	2016-04-04-11-39-38	Package Explorer	activated
+Part	2016-04-04-11-39-42	CheckerBoard.java	opened
+Part	2016-04-04-11-39-42	CheckerBoard.java	broughtToTop
+Part	2016-04-04-11-39-42	Package Explorer	deactivated
+CaretPosition	2016-04-04-11-39-43	CheckerBoard.java	1
+Part	2016-04-04-11-39-43	CheckerBoard.java	activated
+CaretPosition	2016-04-04-11-42-24	CheckerBoard.java	16
+CaretPosition	2016-04-04-11-42-33	CheckerBoard.java	17
+CaretPosition	2016-04-04-11-42-35	CheckerBoard.java	19
+CaretPosition	2016-04-04-11-43-01	CheckerBoard.java	18
+CaretPosition	2016-04-04-11-43-22	CheckerBoard.java	18
+CaretPosition	2016-04-04-11-43-23	CheckerBoard.java	18
+CaretPosition	2016-04-04-11-43-24	CheckerBoard.java	18
+CaretPosition	2016-04-04-11-43-26	CheckerBoard.java	18
+CaretPosition	2016-04-04-11-43-29	CheckerBoard.java	18
+CaretPosition	2016-04-04-11-43-31	CheckerBoard.java	18
+CaretPosition	2016-04-04-11-43-32	CheckerBoard.java	18
+CaretPosition	2016-04-04-11-43-33	CheckerBoard.java	18
+CaretPosition	2016-04-04-11-43-35	CheckerBoard.java	18
+CaretPosition	2016-04-04-11-43-37	CheckerBoard.java	18
+CaretPosition	2016-04-04-11-43-38	CheckerBoard.java	18
+CaretPosition	2016-04-04-11-43-40	CheckerBoard.java	18
+CaretPosition	2016-04-04-11-43-42	CheckerBoard.java	18
+CaretPosition	2016-04-04-11-43-44	CheckerBoard.java	18
+CaretPosition	2016-04-04-11-43-45	CheckerBoard.java	18
+CaretPosition	2016-04-04-11-43-46	CheckerBoard.java	18
+CaretPosition	2016-04-04-11-43-47	CheckerBoard.java	18
+CaretPosition	2016-04-04-11-43-48	CheckerBoard.java	19
+CaretPosition	2016-04-04-11-43-51	CheckerBoard.java	18
+CaretPosition	2016-04-04-11-43-52	CheckerBoard.java	18
+CaretPosition	2016-04-04-11-43-53	CheckerBoard.java	18
+CaretPosition	2016-04-04-11-43-53	CheckerBoard.java	20
+CaretPosition	2016-04-04-11-43-54	CheckerBoard.java	19
+CaretPosition	2016-04-04-11-44-21	CheckerBoard.java	19
+CaretPosition	2016-04-04-11-44-22	CheckerBoard.java	19
+CaretPosition	2016-04-04-11-44-22	CheckerBoard.java	19
+CaretPosition	2016-04-04-11-44-24	CheckerBoard.java	19
+CaretPosition	2016-04-04-11-44-25	CheckerBoard.java	19
+CaretPosition	2016-04-04-11-44-28	CheckerBoard.java	19
+CaretPosition	2016-04-04-11-44-29	CheckerBoard.java	19
+CaretPosition	2016-04-04-11-44-32	CheckerBoard.java	19
+CaretPosition	2016-04-04-11-44-32	CheckerBoard.java	19
+CaretPosition	2016-04-04-11-44-34	CheckerBoard.java	19
+CaretPosition	2016-04-04-11-44-35	CheckerBoard.java	20
+CaretPosition	2016-04-04-11-44-37	CheckerBoard.java	20
+CaretPosition	2016-04-04-11-44-38	CheckerBoard.java	20
+CaretPosition	2016-04-04-11-45-11	CheckerBoard.java	20
+CaretPosition	2016-04-04-11-45-15	CheckerBoard.java	20
+CaretPosition	2016-04-04-11-45-17	CheckerBoard.java	20
+CaretPosition	2016-04-04-11-45-20	CheckerBoard.java	18
+CaretPosition	2016-04-04-11-45-22	CheckerBoard.java	18
+CaretPosition	2016-04-04-11-45-23	CheckerBoard.java	20
+CaretPosition	2016-04-04-11-45-24	CheckerBoard.java	20
+CaretPosition	2016-04-04-11-45-26	CheckerBoard.java	20
+CaretPosition	2016-04-04-11-45-27	CheckerBoard.java	21
+CaretPosition	2016-04-04-11-45-41	CheckerBoard.java	19
+CaretPosition	2016-04-04-11-45-44	CheckerBoard.java	19
+CaretPosition	2016-04-04-11-45-45	CheckerBoard.java	19
+CaretPosition	2016-04-04-11-45-47	CheckerBoard.java	22
+CaretPosition	2016-04-04-11-45-48	CheckerBoard.java	21
+CaretPosition	2016-04-04-11-45-49	CheckerBoard.java	21
+CaretPosition	2016-04-04-11-45-50	CheckerBoard.java	21
+CaretPosition	2016-04-04-11-45-52	CheckerBoard.java	21
+CaretPosition	2016-04-04-11-45-53	CheckerBoard.java	21
+CaretPosition	2016-04-04-11-45-55	CheckerBoard.java	21
+CaretPosition	2016-04-04-11-45-56	CheckerBoard.java	21
+CaretPosition	2016-04-04-11-46-00	CheckerBoard.java	17
+CaretPosition	2016-04-04-11-46-00	CheckerBoard.java	18
+CaretPosition	2016-04-04-11-46-02	CheckerBoard.java	18
+CaretPosition	2016-04-04-11-46-04	CheckerBoard.java	18
+CaretPosition	2016-04-04-11-46-06	CheckerBoard.java	18
+CaretPosition	2016-04-04-11-46-07	CheckerBoard.java	18
+CaretPosition	2016-04-04-11-46-10	CheckerBoard.java	18
+CaretPosition	2016-04-04-11-46-11	CheckerBoard.java	18
+CaretPosition	2016-04-04-11-46-12	CheckerBoard.java	18
+CaretPosition	2016-04-04-11-46-13	CheckerBoard.java	18
+CaretPosition	2016-04-04-11-46-15	CheckerBoard.java	18
+CaretPosition	2016-04-04-11-46-18	CheckerBoard.java	19
+CaretPosition	2016-04-04-11-46-24	CheckerBoard.java	18
+CaretPosition	2016-04-04-11-46-25	CheckerBoard.java	18
+CaretPosition	2016-04-04-11-46-26	CheckerBoard.java	19
+CaretPosition	2016-04-04-11-46-29	CheckerBoard.java	18
+CaretPosition	2016-04-04-11-46-30	CheckerBoard.java	18
+CaretPosition	2016-04-04-11-46-33	CheckerBoard.java	19
+CaretPosition	2016-04-04-11-46-35	CheckerBoard.java	21
+CaretPosition	2016-04-04-11-46-37	CheckerBoard.java	19
+CaretPosition	2016-04-04-11-46-39	CheckerBoard.java	19
+CaretPosition	2016-04-04-11-46-40	CheckerBoard.java	24
+CaretPosition	2016-04-04-11-46-43	CheckerBoard.java	26
+CaretPosition	2016-04-04-11-46-44	CheckerBoard.java	26
+CaretPosition	2016-04-04-11-46-47	CheckerBoard.java	25
+CaretPosition	2016-04-04-11-47-00	CheckerBoard.java	26
+CaretPosition	2016-04-04-11-47-02	CheckerBoard.java	26
+CaretPosition	2016-04-04-11-47-12	CheckerBoard.java	20
+CaretPosition	2016-04-04-11-47-53	CheckerBoard.java	15
+Part	2016-04-04-11-50-13	CheckerBoard.java	deactivated
+Part	2016-04-04-11-50-13	MoocTest	activated
+Part	2016-04-04-11-50-31	MoocTest	deactivated
+CaretPosition	2016-04-04-11-50-31	CheckerBoard.java	15
+Part	2016-04-04-11-50-31	CheckerBoard.java	activated
+CaretPosition	2016-04-04-11-50-32	CheckerBoard.java	20
+CaretPosition	2016-04-04-11-50-33	CheckerBoard.java	20
+CaretPosition	2016-04-04-11-50-34	CheckerBoard.java	20
+CaretPosition	2016-04-04-11-50-34	CheckerBoard.java	20
+CaretPosition	2016-04-04-11-50-37	CheckerBoard.java	22
+CaretPosition	2016-04-04-11-50-38	CheckerBoard.java	22
+FileChange	2016-04-04-11-50-38	/Users/xiezhenyu/mooctest/projects/363/12473/CheckerBoard/src/CheckerBoard.java	[ChangeDelta, position: 17, lines: [		, 		] to [		for(int i = 0;i<=size;i++){, 			for(int j = 0;i<=size;i++){, 				System.out.print("# ");, 				if(i = size){, 					System.out.print("\n");, 				}, 			}, 		}]]	
+CaretPosition	2016-04-04-11-50-48	CheckerBoard.java	21
+CaretPosition	2016-04-04-11-50-49	CheckerBoard.java	21
+FileChange	2016-04-04-11-50-49	/Users/xiezhenyu/mooctest/projects/363/12473/CheckerBoard/src/CheckerBoard.java	[ChangeDelta, position: 20, lines: [				if(i = size){] to [				if(i == size){]]	
+CaretPosition	2016-04-04-11-50-56	CheckerBoard.java	19
+CaretPosition	2016-04-04-11-50-57	CheckerBoard.java	19
+CaretPosition	2016-04-04-11-50-59	CheckerBoard.java	19
+CaretPosition	2016-04-04-11-51-00	CheckerBoard.java	19
+CaretPosition	2016-04-04-11-51-04	CheckerBoard.java	19
+CaretPosition	2016-04-04-11-51-05	CheckerBoard.java	18
+CaretPosition	2016-04-04-11-51-06	CheckerBoard.java	18
+CaretPosition	2016-04-04-11-51-08	CheckerBoard.java	21
+FileChange	2016-04-04-11-51-10	/Users/xiezhenyu/mooctest/projects/363/12473/CheckerBoard/src/CheckerBoard.java	[ChangeDelta, position: 17, lines: [		for(int i = 0;i<=size;i++){, 			for(int j = 0;i<=size;i++){] to [		for(int i = 0;i<size;i++){, 			for(int j = 0;j<=size;j++){]]	[ChangeDelta, position: 20, lines: [				if(i == size){] to [				if(j == size){]]	
+Part	2016-04-04-11-51-20	CheckerBoard.java	deactivated
+Part	2016-04-04-11-51-20	MoocTest	activated
+Part	2016-04-04-11-51-30	Package Explorer	closed
+Part	2016-04-04-11-51-30	Task List	closed
+Part	2016-04-04-11-51-30	Outline	closed
+Part	2016-04-04-11-51-30	Arithmetic.java	closed
+Part	2016-04-04-11-51-30	Bin2Dec.java	closed
+Part	2016-04-04-11-51-30	Test.java	closed
+Part	2016-04-04-11-51-30	CheckerBoard.java	closed
+Part	2016-04-04-11-51-30	Console (<terminated> Test [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月4日 上午11:17:31))	closed
+Part	2016-04-04-11-51-30	MoocTest	deactivated
+Part	2016-04-04-11-51-30	MoocTest	closed
+Part	2016-04-06-20-28-51	Demo04.java	deactivated
+Part	2016-04-06-20-28-51	MoocTest	opened
+Part	2016-04-06-20-28-51	MoocTest	broughtToTop
+Part	2016-04-06-20-28-51	MoocTest	activated
+Part	2016-04-06-20-34-38	MoocTest	deactivated
+Part	2016-04-06-20-34-38	Package Explorer	activated
+Part	2016-04-06-20-55-55	DigitsTest.java	deactivated
+Part	2016-04-06-20-55-55	MoocTest	activated
+Part	2016-04-06-20-56-36	Arithmetic.java	broughtToTop
+Part	2016-04-06-20-56-36	MoocTest	deactivated
+CaretPosition	2016-04-06-20-56-36	Arithmetic.java	17
+Part	2016-04-06-20-56-36	Arithmetic.java	activated
+Part	2016-04-06-20-57-15	Arithmetic.java	deactivated
+Part	2016-04-06-20-57-15	Package Explorer	activated
+Part	2016-04-06-20-57-42	Arithmetic.java	opened
+Part	2016-04-06-20-57-42	Arithmetic.java	broughtToTop
+Part	2016-04-06-20-57-42	Package Explorer	deactivated
+CaretPosition	2016-04-06-20-57-42	Arithmetic.java	76
+Part	2016-04-06-20-57-42	Arithmetic.java	activated
+CaretPosition	2016-04-06-20-57-42	Arithmetic.java	76
+CaretPosition	2016-04-06-20-57-52	Arithmetic.java	11
+CaretPosition	2016-04-06-20-57-53	Arithmetic.java	11
+CaretPosition	2016-04-06-20-57-54	Arithmetic.java	11
+FileChange	2016-04-06-20-57-55	Add /Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/Arithmetic.java
+Part	2016-04-06-20-58-01	Console (No consoles to display at this time.)	opened
+Part	2016-04-06-20-58-01	Console (<terminated> Arithmetic [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月6日 下午8:58:01))	broughtToTop
+CaretPosition	2016-04-06-20-58-09	Arithmetic.java	11
+CaretPosition	2016-04-06-20-58-10	Arithmetic.java	11
+CaretPosition	2016-04-06-20-58-11	Arithmetic.java	11
+CaretPosition	2016-04-06-20-58-12	Arithmetic.java	11
+FileChange	2016-04-06-20-58-14	/Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/Arithmetic.java	[ChangeDelta, position: 10, lines: [		String s = "3 2 *";] to [		String s = "4 5 *";]]	[InsertDelta, position: 75, lines: []]	
+Part	2016-04-06-20-58-21	Arithmetic.java	deactivated
+CaretPosition	2016-04-06-20-58-21	Arithmetic.java	17
+Part	2016-04-06-20-58-21	Arithmetic.java	activated
+Part	2016-04-06-20-58-21	Arithmetic.java	broughtToTop
+Part	2016-04-06-20-58-25	Arithmetic.java	deactivated
+CaretPosition	2016-04-06-20-58-25	Demo04.java	16
+Part	2016-04-06-20-58-25	Demo04.java	activated
+Part	2016-04-06-20-58-25	Demo04.java	broughtToTop
+Part	2016-04-06-20-58-26	Demo04.java	deactivated
+Part	2016-04-06-20-58-26	DigitsTest.java	broughtToTop
+CaretPosition	2016-04-06-20-58-26	DigitsTest.java	17
+Part	2016-04-06-20-58-26	DigitsTest.java	activated
+Part	2016-04-06-20-58-28	DigitsTest.java	deactivated
+CaretPosition	2016-04-06-20-58-28	Arithmetic.java	17
+Part	2016-04-06-20-58-28	Arithmetic.java	activated
+Part	2016-04-06-20-58-28	Arithmetic.java	broughtToTop
+Part	2016-04-06-20-58-37	Arithmetic.java	deactivated
+Part	2016-04-06-20-58-37	MoocTest	broughtToTop
+Part	2016-04-06-20-58-37	MoocTest	activated
+Part	2016-04-06-21-16-23	MoocTest	deactivated
+CaretPosition	2016-04-06-21-16-23	Arithmetic.java	17
+Part	2016-04-06-21-16-23	Arithmetic.java	activated
+CaretPosition	2016-04-06-21-16-23	Arithmetic.java	17
+CaretPosition	2016-04-06-21-16-26	Arithmetic.java	17
+CaretPosition	2016-04-06-21-16-26	Arithmetic.java	17
+CaretPosition	2016-04-06-21-16-27	Arithmetic.java	17
+CaretPosition	2016-04-06-21-16-29	Arithmetic.java	16
+CaretPosition	2016-04-06-21-16-30	Arithmetic.java	16
+CaretPosition	2016-04-06-21-16-31	Arithmetic.java	15
+CaretPosition	2016-04-06-21-16-32	Arithmetic.java	15
+CaretPosition	2016-04-06-21-16-34	Arithmetic.java	15
+CaretPosition	2016-04-06-21-16-36	Arithmetic.java	15
+CaretPosition	2016-04-06-21-16-40	Arithmetic.java	15
+CaretPosition	2016-04-06-21-16-42	Arithmetic.java	15
+CaretPosition	2016-04-06-21-16-43	Arithmetic.java	17
+CaretPosition	2016-04-06-21-16-44	Arithmetic.java	18
+CaretPosition	2016-04-06-21-16-45	Arithmetic.java	20
+FileChange	2016-04-06-21-16-45	/Users/xiezhenyu/mooctest/projects/363/12473/Arithmetic/src/Arithmetic.java	[DeleteDelta, position: 14, lines: [	int commandLine1 = 0;, 	int commandLine2 = 0;, 	String commandLine3 = null;]]	[InsertDelta, position: 18, lines: [	]]	[ChangeDelta, position: 19, lines: [		Scanner sc = new Scanner(System.in);, 		String[] list = sc.nextLine().split(" ");] to [		int commandLine1 = 0;, 		int commandLine2 = 0;, 		String commandLine3 = null;, 		String output = null;, 		String[] list = s.split(" ");]]	[ChangeDelta, position: 39, lines: [				){] to [				))){]]	[ChangeDelta, position: 68, lines: [			String output = commandLine1+"+"+commandLine2+"="+result] to [			output = commandLine1+"+"+commandLine2+"="+result;]]	[DeleteDelta, position: 73, lines: [			System.out.println("Wrong");]]	
+Part	2016-04-06-21-16-54	Arithmetic.java	deactivated
+Part	2016-04-06-21-16-54	MoocTest	activated
+Part	2016-04-06-21-20-07	MoocTest	deactivated
+CaretPosition	2016-04-06-21-20-07	Arithmetic.java	20
+Part	2016-04-06-21-20-07	Arithmetic.java	activated
+CaretPosition	2016-04-06-21-20-08	Arithmetic.java	33
+CaretPosition	2016-04-06-21-20-10	Arithmetic.java	33
+CaretPosition	2016-04-06-21-20-12	Arithmetic.java	27
+CaretPosition	2016-04-06-21-20-14	Arithmetic.java	27
+CaretPosition	2016-04-06-21-20-22	Arithmetic.java	74
+CaretPosition	2016-04-06-21-20-33	Arithmetic.java	27
+CaretPosition	2016-04-06-21-20-34	Arithmetic.java	27
+CaretPosition	2016-04-06-21-20-35	Arithmetic.java	33
+CaretPosition	2016-04-06-21-20-36	Arithmetic.java	33
+FileChange	2016-04-06-21-20-37	/Users/xiezhenyu/mooctest/projects/363/12473/Arithmetic/src/Arithmetic.java	[ChangeDelta, position: 26, lines: [			System.out.println("输入格式有误");] to [			output = "Wrong"]]	[ChangeDelta, position: 32, lines: [			System.out.println("输入格式有误");] to [			output = "Wrong"]]	
+CaretPosition	2016-04-06-21-20-44	Arithmetic.java	27
+CaretPosition	2016-04-06-21-20-45	Arithmetic.java	27
+CaretPosition	2016-04-06-21-20-47	Arithmetic.java	33
+FileChange	2016-04-06-21-20-48	/Users/xiezhenyu/mooctest/projects/363/12473/Arithmetic/src/Arithmetic.java	[ChangeDelta, position: 26, lines: [			output = "Wrong"] to [			output = "Wrong"；]]	[ChangeDelta, position: 32, lines: [			output = "Wrong"] to [			output = "Wrong"；]]	
+CaretPosition	2016-04-06-21-20-48	Arithmetic.java	33
+CaretPosition	2016-04-06-21-20-51	Arithmetic.java	27
+CaretPosition	2016-04-06-21-20-52	Arithmetic.java	27
+CaretPosition	2016-04-06-21-20-54	Arithmetic.java	27
+CaretPosition	2016-04-06-21-20-57	Arithmetic.java	27
+CaretPosition	2016-04-06-21-20-59	Arithmetic.java	27
+CaretPosition	2016-04-06-21-21-00	Arithmetic.java	33
+FileChange	2016-04-06-21-21-01	/Users/xiezhenyu/mooctest/projects/363/12473/Arithmetic/src/Arithmetic.java	[ChangeDelta, position: 26, lines: [			output = "Wrong"；] to [			output = "Wrong";]]	[ChangeDelta, position: 32, lines: [			output = "Wrong"；] to [			output = "Wrong";]]	
+Part	2016-04-06-21-21-08	Arithmetic.java	deactivated
+Part	2016-04-06-21-21-08	MoocTest	activated
+Part	2016-04-06-21-21-29	MoocTest	deactivated
+Part	2016-04-06-21-21-29	Package Explorer	activated
+Part	2016-04-06-21-21-35	FileScanner.java	opened
+Part	2016-04-06-21-21-35	FileScanner.java	broughtToTop
+Part	2016-04-06-21-21-35	Package Explorer	deactivated
+CaretPosition	2016-04-06-21-21-35	FileScanner.java	1
+Part	2016-04-06-21-21-35	FileScanner.java	activated
+Part	2016-04-06-21-22-25	FileScanner.java	deactivated
+Part	2016-04-06-21-22-25	Package Explorer	activated
+Part	2016-04-06-21-22-28	FileScannerTest.java	opened
+Part	2016-04-06-21-22-28	FileScannerTest.java	broughtToTop
+Part	2016-04-06-21-22-28	Package Explorer	deactivated
+CaretPosition	2016-04-06-21-22-28	FileScannerTest.java	1
+Part	2016-04-06-21-22-28	FileScannerTest.java	activated
+Part	2016-04-06-21-23-16	FileScannerTest.java	deactivated
+CaretPosition	2016-04-06-21-23-16	FileScanner.java	1
+Part	2016-04-06-21-23-16	FileScanner.java	activated
+Part	2016-04-06-21-23-16	FileScanner.java	broughtToTop
+Part	2016-04-06-21-23-18	FileScanner.java	deactivated
+CaretPosition	2016-04-06-21-23-18	FileScannerTest.java	1
+Part	2016-04-06-21-23-18	FileScannerTest.java	activated
+Part	2016-04-06-21-23-18	FileScannerTest.java	broughtToTop
+Part	2016-04-06-21-23-26	FileScannerTest.java	deactivated
+CaretPosition	2016-04-06-21-23-26	FileScanner.java	1
+Part	2016-04-06-21-23-26	FileScanner.java	activated
+Part	2016-04-06-21-23-26	FileScanner.java	broughtToTop
+Part	2016-04-06-21-23-28	FileScanner.java	deactivated
+CaretPosition	2016-04-06-21-23-28	FileScannerTest.java	1
+Part	2016-04-06-21-23-28	FileScannerTest.java	activated
+Part	2016-04-06-21-23-28	FileScannerTest.java	broughtToTop
+Part	2016-04-06-21-23-46	FileScannerTest.java	deactivated
+CaretPosition	2016-04-06-21-23-46	FileScanner.java	1
+Part	2016-04-06-21-23-46	FileScanner.java	activated
+Part	2016-04-06-21-23-46	FileScanner.java	broughtToTop
+Part	2016-04-06-21-23-49	FileScanner.java	deactivated
+CaretPosition	2016-04-06-21-23-49	FileScannerTest.java	1
+Part	2016-04-06-21-23-49	FileScannerTest.java	activated
+Part	2016-04-06-21-23-49	FileScannerTest.java	broughtToTop
+Part	2016-04-06-21-24-07	FileScannerTest.java	deactivated
+CaretPosition	2016-04-06-21-24-07	FileScanner.java	1
+Part	2016-04-06-21-24-07	FileScanner.java	activated
+Part	2016-04-06-21-24-07	FileScanner.java	broughtToTop
+CaretPosition	2016-04-06-21-24-11	FileScanner.java	19
+CaretPosition	2016-04-06-21-24-13	FileScanner.java	20
+CaretPosition	2016-04-06-21-37-47	FileScanner.java	4
+Part	2016-04-06-21-37-47	FileScanner.java	deactivated
+CaretPosition	2016-04-06-21-37-47	FileScannerTest.java	1
+Part	2016-04-06-21-37-47	FileScannerTest.java	activated
+Part	2016-04-06-21-37-47	FileScannerTest.java	broughtToTop
+Part	2016-04-06-21-38-20	FileScannerTest.java	deactivated
+CaretPosition	2016-04-06-21-38-20	FileScanner.java	4
+Part	2016-04-06-21-38-20	FileScanner.java	activated
+Part	2016-04-06-21-38-20	FileScanner.java	broughtToTop
+Part	2016-04-06-21-38-32	FileScanner.java	deactivated
+CaretPosition	2016-04-06-21-38-32	FileScannerTest.java	1
+Part	2016-04-06-21-38-32	FileScannerTest.java	activated
+Part	2016-04-06-21-38-32	FileScannerTest.java	broughtToTop
+Part	2016-04-06-21-39-01	FileScannerTest.java	deactivated
+Part	2016-04-06-21-39-01	MoocTest	activated
+Part	2016-04-06-21-39-12	MoocTest	deactivated
+Part	2016-04-06-21-39-12	Package Explorer	activated
+Part	2016-04-06-21-39-17	CozaLozaWoza.java	opened
+Part	2016-04-06-21-39-17	CozaLozaWoza.java	broughtToTop
+Part	2016-04-06-21-39-17	Package Explorer	deactivated
+CaretPosition	2016-04-06-21-39-17	CozaLozaWoza.java	20
+Part	2016-04-06-21-39-17	CozaLozaWoza.java	activated
+CaretPosition	2016-04-06-21-39-18	CozaLozaWoza.java	20
+Part	2016-04-06-21-39-28	CozaLozaWoza.java	deactivated
+Part	2016-04-06-21-39-28	Package Explorer	activated
+Part	2016-04-06-21-39-31	CozaLozaWozaTest.java	opened
+Part	2016-04-06-21-39-31	CozaLozaWozaTest.java	broughtToTop
+Part	2016-04-06-21-39-31	Package Explorer	deactivated
+CaretPosition	2016-04-06-21-39-31	CozaLozaWozaTest.java	1
+Part	2016-04-06-21-39-31	CozaLozaWozaTest.java	activated
+Part	2016-04-06-21-39-40	Package Explorer	closed
+Part	2016-04-06-21-39-40	Outline	closed
+Part	2016-04-06-21-39-40	Task List	closed
+Part	2016-04-06-21-39-40	Console (<terminated> Arithmetic [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月6日 下午8:58:18))	closed
+Part	2016-04-06-21-39-40	MoocTest	closed
+Part	2016-04-06-21-39-40	Arithmetic.java	closed
+Part	2016-04-06-21-39-40	Bin2Dec.java	closed
+Part	2016-04-06-21-39-40	CozaLozaWoza.java	closed
+Part	2016-04-06-21-39-40	Digits.java	closed
+Part	2016-04-06-21-39-40	Arithmetic.java	closed
+Part	2016-04-06-21-39-40	Demo04.java	closed
+Part	2016-04-06-21-39-40	DigitsTest.java	closed
+Part	2016-04-06-21-39-40	FileScanner.java	closed
+Part	2016-04-06-21-39-40	FileScannerTest.java	closed
+Part	2016-04-06-21-39-40	CozaLozaWozaTest.java	deactivated
+Part	2016-04-06-21-39-40	CozaLozaWozaTest.java	closed
+Part	2016-04-07-20-19-33	CozaLozaWozaTest.java	deactivated
+Part	2016-04-07-20-19-33	MoocTest	activated
+Part	2016-04-07-20-19-44	MoocTest	deactivated
+Part	2016-04-07-20-19-44	Package Explorer	activated
+Part	2016-04-07-20-19-49	DigitsTest.java	opened
+Part	2016-04-07-20-19-49	DigitsTest.java	broughtToTop
+Part	2016-04-07-20-19-49	Package Explorer	deactivated
+CaretPosition	2016-04-07-20-19-50	DigitsTest.java	17
+Part	2016-04-07-20-19-50	DigitsTest.java	activated
+CaretPosition	2016-04-07-20-19-50	DigitsTest.java	17
+Part	2016-04-07-20-20-01	DigitsTest.java	deactivated
+Part	2016-04-07-20-20-01	Package Explorer	activated
+Part	2016-04-07-20-20-03	Digits.java	opened
+Part	2016-04-07-20-20-03	Digits.java	broughtToTop
+Part	2016-04-07-20-20-03	Package Explorer	deactivated
+CaretPosition	2016-04-07-20-20-03	Digits.java	22
+Part	2016-04-07-20-20-03	Digits.java	activated
+CaretPosition	2016-04-07-20-20-04	Digits.java	22
+CaretPosition	2016-04-07-20-20-48	Digits.java	17
+CaretPosition	2016-04-07-20-20-49	Digits.java	18
+Part	2016-04-07-20-21-09	Digits.java	deactivated
+Part	2016-04-07-20-21-09	Package Explorer	activated
+Part	2016-04-07-20-21-15	ArithmeticTest.java	opened
+Part	2016-04-07-20-21-15	ArithmeticTest.java	broughtToTop
+Part	2016-04-07-20-21-15	Package Explorer	deactivated
+CaretPosition	2016-04-07-20-21-15	ArithmeticTest.java	1
+Part	2016-04-07-20-21-15	ArithmeticTest.java	activated
+Part	2016-04-07-20-21-27	Arithmetic.java	opened
+Part	2016-04-07-20-21-27	ArithmeticTest.java	deactivated
+CaretPosition	2016-04-07-20-21-27	Arithmetic.java	33
+Part	2016-04-07-20-21-27	Arithmetic.java	activated
+Part	2016-04-07-20-21-27	Arithmetic.java	broughtToTop
+CaretPosition	2016-04-07-20-21-28	Arithmetic.java	33
+Part	2016-04-07-20-21-48	Arithmetic.java	deactivated
+CaretPosition	2016-04-07-20-21-48	ArithmeticTest.java	1
+Part	2016-04-07-20-21-48	ArithmeticTest.java	activated
+Part	2016-04-07-20-21-48	ArithmeticTest.java	broughtToTop
+Part	2016-04-07-20-22-00	ArithmeticTest.java	deactivated
+CaretPosition	2016-04-07-20-22-01	Arithmetic.java	33
+Part	2016-04-07-20-22-01	Arithmetic.java	activated
+Part	2016-04-07-20-22-01	Arithmetic.java	broughtToTop
+CaretPosition	2016-04-07-20-23-14	Arithmetic.java	70
+CaretPosition	2016-04-07-20-23-15	Arithmetic.java	70
+CaretPosition	2016-04-07-20-23-26	Arithmetic.java	76
+CaretPosition	2016-04-07-20-23-27	Arithmetic.java	76
+CaretPosition	2016-04-07-20-23-28	Arithmetic.java	76
+CaretPosition	2016-04-07-20-23-43	Arithmetic.java	70
+CaretPosition	2016-04-07-20-23-45	Arithmetic.java	70
+CaretPosition	2016-04-07-20-23-52	Arithmetic.java	35
+CaretPosition	2016-04-07-20-23-57	Arithmetic.java	70
+CaretPosition	2016-04-07-20-23-59	Arithmetic.java	70
+CaretPosition	2016-04-07-20-24-03	Arithmetic.java	70
+FileChange	2016-04-07-20-24-06	/Users/xiezhenyu/mooctest/projects/363/12473/Arithmetic/src/Arithmetic.java	[ChangeDelta, position: 69, lines: [			output = commandLine1+"+"+commandLine2+"="+result;] to [			output = commandLine1+commandLine3+commandLine2+"="+result;]]	
+Part	2016-04-07-20-24-15	Arithmetic.java	deactivated
+Part	2016-04-07-20-24-15	MoocTest	activated
+Part	2016-04-07-20-24-24	ArithmeticTest.java	broughtToTop
+Part	2016-04-07-20-24-24	MoocTest	deactivated
+CaretPosition	2016-04-07-20-24-24	ArithmeticTest.java	1
+Part	2016-04-07-20-24-24	ArithmeticTest.java	activated
+Part	2016-04-07-20-24-41	ArithmeticTest.java	deactivated
+CaretPosition	2016-04-07-20-24-41	Arithmetic.java	70
+Part	2016-04-07-20-24-41	Arithmetic.java	activated
+Part	2016-04-07-20-24-41	Arithmetic.java	broughtToTop
+Part	2016-04-07-20-24-44	Arithmetic.java	deactivated
+CaretPosition	2016-04-07-20-24-44	ArithmeticTest.java	1
+Part	2016-04-07-20-24-44	ArithmeticTest.java	activated
+Part	2016-04-07-20-24-44	ArithmeticTest.java	broughtToTop
+Part	2016-04-07-20-25-05	ArithmeticTest.java	deactivated
+CaretPosition	2016-04-07-20-25-05	Arithmetic.java	70
+Part	2016-04-07-20-25-05	Arithmetic.java	activated
+Part	2016-04-07-20-25-05	Arithmetic.java	broughtToTop
+CaretPosition	2016-04-07-20-25-48	Arithmetic.java	27
+CaretPosition	2016-04-07-20-25-50	Arithmetic.java	27
+CaretPosition	2016-04-07-20-25-51	Arithmetic.java	28
+CaretPosition	2016-04-07-20-25-55	Arithmetic.java	28
+CaretPosition	2016-04-07-20-25-57	Arithmetic.java	28
+CaretPosition	2016-04-07-20-25-59	Arithmetic.java	28
+CaretPosition	2016-04-07-20-26-00	Arithmetic.java	28
+CaretPosition	2016-04-07-20-26-02	Arithmetic.java	28
+CaretPosition	2016-04-07-20-26-05	Arithmetic.java	34
+CaretPosition	2016-04-07-20-26-06	Arithmetic.java	35
+CaretPosition	2016-04-07-20-26-08	Arithmetic.java	34
+CaretPosition	2016-04-07-20-26-09	Arithmetic.java	35
+CaretPosition	2016-04-07-20-26-10	Arithmetic.java	35
+FileChange	2016-04-07-20-26-13	/Users/xiezhenyu/mooctest/projects/363/12473/Arithmetic/src/Arithmetic.java	[InsertDelta, position: 27, lines: [			return output;]]	[InsertDelta, position: 33, lines: [			return output;]]	
+Part	2016-04-07-20-26-19	Arithmetic.java	deactivated
+Part	2016-04-07-20-26-19	MoocTest	activated
+Part	2016-04-07-20-26-42	MoocTest	deactivated
+CaretPosition	2016-04-07-20-26-42	Arithmetic.java	35
+Part	2016-04-07-20-26-42	Arithmetic.java	activated
+CaretPosition	2016-04-07-20-26-43	Arithmetic.java	22
+CaretPosition	2016-04-07-20-26-44	Arithmetic.java	23
+CaretPosition	2016-04-07-20-26-46	Arithmetic.java	23
+CaretPosition	2016-04-07-20-26-48	Arithmetic.java	23
+CaretPosition	2016-04-07-20-26-55	Arithmetic.java	28
+CaretPosition	2016-04-07-20-26-59	Arithmetic.java	22
+CaretPosition	2016-04-07-20-27-02	Arithmetic.java	21
+CaretPosition	2016-04-07-20-27-03	Arithmetic.java	21
+CaretPosition	2016-04-07-20-27-04	Arithmetic.java	21
+CaretPosition	2016-04-07-20-27-07	Arithmetic.java	21
+CaretPosition	2016-04-07-20-27-07	Arithmetic.java	21
+CaretPosition	2016-04-07-20-27-08	Arithmetic.java	21
+CaretPosition	2016-04-07-20-27-09	Arithmetic.java	21
+CaretPosition	2016-04-07-20-27-11	Arithmetic.java	23
+CaretPosition	2016-04-07-20-27-17	Arithmetic.java	23
+CaretPosition	2016-04-07-20-27-22	Arithmetic.java	23
+CaretPosition	2016-04-07-20-27-24	Arithmetic.java	23
+CaretPosition	2016-04-07-20-27-25	Arithmetic.java	23
+CaretPosition	2016-04-07-20-27-29	Arithmetic.java	23
+CaretPosition	2016-04-07-20-27-35	Arithmetic.java	23
+CaretPosition	2016-04-07-20-27-36	Arithmetic.java	23
+CaretPosition	2016-04-07-20-27-38	Arithmetic.java	23
+CaretPosition	2016-04-07-20-27-39	Arithmetic.java	24
+CaretPosition	2016-04-07-20-27-44	Arithmetic.java	24
+CaretPosition	2016-04-07-20-27-47	Arithmetic.java	24
+CaretPosition	2016-04-07-20-27-50	Arithmetic.java	24
+CaretPosition	2016-04-07-20-27-53	Arithmetic.java	24
+CaretPosition	2016-04-07-20-27-54	Arithmetic.java	24
+CaretPosition	2016-04-07-20-27-56	Arithmetic.java	24
+FileChange	2016-04-07-20-27-56	/Users/xiezhenyu/mooctest/projects/363/12473/Arithmetic/src/Arithmetic.java	[ChangeDelta, position: 20, lines: [		String output = null;] to [		String output = "Wrong";;]]	[InsertDelta, position: 22, lines: [		if(list.length>3){, 			return output;, 		}]]	
+Part	2016-04-07-20-28-01	Arithmetic.java	deactivated
+Part	2016-04-07-20-28-01	MoocTest	activated
+Part	2016-04-07-20-28-13	ArithmeticTest.java	broughtToTop
+Part	2016-04-07-20-28-13	MoocTest	deactivated
+CaretPosition	2016-04-07-20-28-13	ArithmeticTest.java	1
+Part	2016-04-07-20-28-13	ArithmeticTest.java	activated
+Part	2016-04-07-20-28-22	ArithmeticTest.java	deactivated
+CaretPosition	2016-04-07-20-28-22	Arithmetic.java	24
+Part	2016-04-07-20-28-22	Arithmetic.java	activated
+Part	2016-04-07-20-28-22	Arithmetic.java	broughtToTop
+CaretPosition	2016-04-07-20-28-24	Arithmetic.java	21
+CaretPosition	2016-04-07-20-28-25	Arithmetic.java	21
+CaretPosition	2016-04-07-20-28-25	Arithmetic.java	21
+FileChange	2016-04-07-20-28-26	/Users/xiezhenyu/mooctest/projects/363/12473/Arithmetic/src/Arithmetic.java	[ChangeDelta, position: 20, lines: [		String output = "Wrong";;] to [		String output = "wrong";;]]	
+Part	2016-04-07-20-28-30	Arithmetic.java	deactivated
+Part	2016-04-07-20-28-30	MoocTest	activated
+Part	2016-04-07-20-28-43	MoocTest	deactivated
+CaretPosition	2016-04-07-20-28-43	Arithmetic.java	21
+Part	2016-04-07-20-28-43	Arithmetic.java	activated
+CaretPosition	2016-04-07-20-28-46	Arithmetic.java	63
+CaretPosition	2016-04-07-20-28-49	Arithmetic.java	63
+CaretPosition	2016-04-07-20-28-51	Arithmetic.java	63
+CaretPosition	2016-04-07-20-28-52	Arithmetic.java	63
+CaretPosition	2016-04-07-20-28-54	Arithmetic.java	63
+CaretPosition	2016-04-07-20-28-57	Arithmetic.java	63
+CaretPosition	2016-04-07-20-28-59	Arithmetic.java	63
+CaretPosition	2016-04-07-20-28-59	Arithmetic.java	63
+CaretPosition	2016-04-07-20-29-01	Arithmetic.java	63
+FileChange	2016-04-07-20-29-02	/Users/xiezhenyu/mooctest/projects/363/12473/Arithmetic/src/Arithmetic.java	[ChangeDelta, position: 62, lines: [					System.out.println("除数不能为0");] to [					return output;]]	
+CaretPosition	2016-04-07-20-29-02	Arithmetic.java	63
+Part	2016-04-07-20-29-07	Arithmetic.java	deactivated
+Part	2016-04-07-20-29-07	MoocTest	activated
+Part	2016-04-07-20-29-46	MoocTest	deactivated
+CaretPosition	2016-04-07-20-29-46	Arithmetic.java	63
+Part	2016-04-07-20-29-46	Arithmetic.java	activated
+CaretPosition	2016-04-07-20-29-48	Arithmetic.java	37
+CaretPosition	2016-04-07-20-29-50	Arithmetic.java	36
+CaretPosition	2016-04-07-20-29-53	Arithmetic.java	30
+CaretPosition	2016-04-07-20-29-54	Arithmetic.java	30
+CaretPosition	2016-04-07-20-29-55	Arithmetic.java	29
+CaretPosition	2016-04-07-20-30-03	Arithmetic.java	69
+CaretPosition	2016-04-07-20-30-10	Arithmetic.java	77
+FileChange	2016-04-07-20-30-11	/Users/xiezhenyu/mooctest/projects/363/12473/Arithmetic/src/Arithmetic.java	[DeleteDelta, position: 29, lines: [			output = "Wrong";]]	[DeleteDelta, position: 36, lines: [			output = "Wrong";]]	[ChangeDelta, position: 70, lines: [				System.out.println("Wrong");] to [				System.out.println("wrong");]]	[ChangeDelta, position: 78, lines: [			output = "Wrong";] to [			output = "wrong";]]	
+Part	2016-04-07-20-30-21	Arithmetic.java	deactivated
+CaretPosition	2016-04-07-20-30-21	ArithmeticTest.java	1
+Part	2016-04-07-20-30-21	ArithmeticTest.java	activated
+Part	2016-04-07-20-30-21	ArithmeticTest.java	broughtToTop
+Part	2016-04-07-20-30-27	ArithmeticTest.java	deactivated
+Part	2016-04-07-20-30-27	MoocTest	activated
+Part	2016-04-07-20-30-32	MoocTest	deactivated
+CaretPosition	2016-04-07-20-30-32	ArithmeticTest.java	1
+Part	2016-04-07-20-30-32	ArithmeticTest.java	activated
+CaretPosition	2016-04-07-20-30-32	ArithmeticTest.java	36
+Part	2016-04-07-20-30-41	ArithmeticTest.java	deactivated
+Part	2016-04-07-20-30-41	MoocTest	activated
+Part	2016-04-07-20-30-47	MoocTest	deactivated
+Part	2016-04-07-20-30-47	Package Explorer	activated
+Part	2016-04-07-20-31-00	FileScanner.java	opened
+Part	2016-04-07-20-31-00	FileScanner.java	broughtToTop
+Part	2016-04-07-20-31-00	Package Explorer	deactivated
+CaretPosition	2016-04-07-20-31-00	FileScanner.java	4
+Part	2016-04-07-20-31-00	FileScanner.java	activated
+CaretPosition	2016-04-07-20-31-01	FileScanner.java	4
+Part	2016-04-07-20-31-02	Arithmetic.java	closed
+Part	2016-04-07-20-31-03	CheckerBoard.java	opened
+Part	2016-04-07-20-31-03	FileScanner.java	deactivated
+CaretPosition	2016-04-07-20-31-03	CheckerBoard.java	26
+Part	2016-04-07-20-31-03	CheckerBoard.java	activated
+Part	2016-04-07-20-31-04	CheckerBoard.java	broughtToTop
+CaretPosition	2016-04-07-20-31-04	CheckerBoard.java	26
+Part	2016-04-07-20-31-04	CheckerBoard.java	deactivated
+CaretPosition	2016-04-07-20-31-04	FileScanner.java	4
+Part	2016-04-07-20-31-04	FileScanner.java	activated
+Part	2016-04-07-20-31-04	FileScanner.java	broughtToTop
+Part	2016-04-07-20-31-04	CheckerBoard.java	closed
+Part	2016-04-07-20-31-08	Digits.java	closed
+Part	2016-04-07-20-31-14	DigitsTest.java	closed
+CaretPosition	2016-04-07-20-31-47	FileScanner.java	19
+CaretPosition	2016-04-07-20-31-47	FileScanner.java	20
+CaretPosition	2016-04-07-20-31-51	FileScanner.java	20
+CaretPosition	2016-04-07-20-31-52	FileScanner.java	20
+CaretPosition	2016-04-07-20-31-53	FileScanner.java	20
+CaretPosition	2016-04-07-20-31-56	FileScanner.java	20
+CaretPosition	2016-04-07-20-31-58	FileScanner.java	20
+CaretPosition	2016-04-07-20-32-01	FileScanner.java	20
+CaretPosition	2016-04-07-20-32-02	FileScanner.java	20
+CaretPosition	2016-04-07-20-32-05	FileScanner.java	20
+CaretPosition	2016-04-07-20-32-06	FileScanner.java	20
+CaretPosition	2016-04-07-20-32-08	FileScanner.java	21
+CaretPosition	2016-04-07-20-32-09	FileScanner.java	21
+CaretPosition	2016-04-07-20-32-10	FileScanner.java	21
+CaretPosition	2016-04-07-20-32-13	FileScanner.java	21
+CaretPosition	2016-04-07-20-32-14	FileScanner.java	21
+CaretPosition	2016-04-07-20-32-17	FileScanner.java	21
+CaretPosition	2016-04-07-20-32-18	FileScanner.java	21
+CaretPosition	2016-04-07-20-32-19	FileScanner.java	23
+CaretPosition	2016-04-07-20-32-22	FileScanner.java	23
+CaretPosition	2016-04-07-20-32-24	FileScanner.java	23
+CaretPosition	2016-04-07-20-32-31	FileScanner.java	23
+CaretPosition	2016-04-07-20-32-35	FileScanner.java	23
+CaretPosition	2016-04-07-20-32-36	FileScanner.java	23
+CaretPosition	2016-04-07-20-32-38	FileScanner.java	23
+CaretPosition	2016-04-07-20-32-41	FileScanner.java	24
+CaretPosition	2016-04-07-20-32-44	FileScanner.java	24
+CaretPosition	2016-04-07-20-32-45	FileScanner.java	24
+CaretPosition	2016-04-07-20-32-46	FileScanner.java	24
+CaretPosition	2016-04-07-20-32-48	FileScanner.java	24
+CaretPosition	2016-04-07-20-32-49	FileScanner.java	24
+CaretPosition	2016-04-07-20-32-50	FileScanner.java	24
+CaretPosition	2016-04-07-20-32-52	FileScanner.java	24
+CaretPosition	2016-04-07-20-32-54	FileScanner.java	25
+CaretPosition	2016-04-07-20-33-00	FileScanner.java	25
+CaretPosition	2016-04-07-20-33-02	FileScanner.java	25
+CaretPosition	2016-04-07-20-33-03	FileScanner.java	25
+CaretPosition	2016-04-07-20-33-05	FileScanner.java	25
+CaretPosition	2016-04-07-20-33-07	FileScanner.java	25
+CaretPosition	2016-04-07-20-33-10	FileScanner.java	25
+CaretPosition	2016-04-07-20-33-11	FileScanner.java	25
+CaretPosition	2016-04-07-20-33-26	FileScanner.java	9
+CaretPosition	2016-04-07-20-33-28	FileScanner.java	25
+CaretPosition	2016-04-07-20-33-29	FileScanner.java	26
+CaretPosition	2016-04-07-20-33-30	FileScanner.java	26
+CaretPosition	2016-04-07-20-33-31	FileScanner.java	26
+CaretPosition	2016-04-07-20-33-34	FileScanner.java	26
+CaretPosition	2016-04-07-20-33-36	FileScanner.java	26
+CaretPosition	2016-04-07-20-33-38	FileScanner.java	26
+CaretPosition	2016-04-07-20-33-39	FileScanner.java	26
+CaretPosition	2016-04-07-20-33-41	FileScanner.java	26
+CaretPosition	2016-04-07-20-33-44	FileScanner.java	26
+CaretPosition	2016-04-07-20-33-45	FileScanner.java	26
+CaretPosition	2016-04-07-20-33-46	FileScanner.java	26
+CaretPosition	2016-04-07-20-33-49	FileScanner.java	26
+CaretPosition	2016-04-07-20-33-50	FileScanner.java	26
+CaretPosition	2016-04-07-20-33-52	FileScanner.java	26
+CaretPosition	2016-04-07-20-33-56	FileScanner.java	26
+CaretPosition	2016-04-07-20-33-57	FileScanner.java	26
+CaretPosition	2016-04-07-20-33-58	FileScanner.java	26
+CaretPosition	2016-04-07-20-34-00	FileScanner.java	26
+CaretPosition	2016-04-07-20-34-01	FileScanner.java	27
+CaretPosition	2016-04-07-20-34-01	FileScanner.java	27
+CaretPosition	2016-04-07-20-34-09	FileScanner.java	10
+CaretPosition	2016-04-07-20-34-13	FileScanner.java	26
+CaretPosition	2016-04-07-20-34-14	FileScanner.java	27
+CaretPosition	2016-04-07-20-34-18	FileScanner.java	27
+CaretPosition	2016-04-07-20-34-19	FileScanner.java	27
+CaretPosition	2016-04-07-20-34-20	FileScanner.java	27
+CaretPosition	2016-04-07-20-34-21	FileScanner.java	27
+CaretPosition	2016-04-07-20-34-23	FileScanner.java	27
+CaretPosition	2016-04-07-20-34-24	FileScanner.java	27
+CaretPosition	2016-04-07-20-34-25	FileScanner.java	27
+CaretPosition	2016-04-07-20-34-26	FileScanner.java	27
+CaretPosition	2016-04-07-20-34-39	FileScanner.java	16
+CaretPosition	2016-04-07-20-34-40	FileScanner.java	16
+CaretPosition	2016-04-07-20-34-44	FileScanner.java	24
+CaretPosition	2016-04-07-20-34-45	FileScanner.java	25
+CaretPosition	2016-04-07-20-34-48	FileScanner.java	24
+CaretPosition	2016-04-07-20-34-49	FileScanner.java	25
+CaretPosition	2016-04-07-20-34-50	FileScanner.java	28
+CaretPosition	2016-04-07-20-34-50	FileScanner.java	27
+CaretPosition	2016-04-07-20-34-52	FileScanner.java	27
+CaretPosition	2016-04-07-20-35-06	FileScanner.java	27
+CaretPosition	2016-04-07-20-35-07	FileScanner.java	27
+CaretPosition	2016-04-07-20-35-09	FileScanner.java	27
+CaretPosition	2016-04-07-20-35-17	FileScanner.java	27
+CaretPosition	2016-04-07-20-35-21	FileScanner.java	27
+CaretPosition	2016-04-07-20-35-30	FileScanner.java	17
+CaretPosition	2016-04-07-20-35-34	FileScanner.java	28
+CaretPosition	2016-04-07-20-35-36	FileScanner.java	28
+CaretPosition	2016-04-07-20-35-39	FileScanner.java	28
+CaretPosition	2016-04-07-20-35-43	FileScanner.java	28
+CaretPosition	2016-04-07-20-35-44	FileScanner.java	28
+CaretPosition	2016-04-07-20-35-45	FileScanner.java	28
+CaretPosition	2016-04-07-20-35-48	FileScanner.java	28
+CaretPosition	2016-04-07-20-35-58	FileScanner.java	29
+CaretPosition	2016-04-07-20-36-02	FileScanner.java	28
+CaretPosition	2016-04-07-20-36-04	FileScanner.java	31
+CaretPosition	2016-04-07-20-36-05	FileScanner.java	31
+CaretPosition	2016-04-07-20-36-06	FileScanner.java	31
+CaretPosition	2016-04-07-20-36-09	FileScanner.java	31
+CaretPosition	2016-04-07-20-36-10	FileScanner.java	32
+CaretPosition	2016-04-07-20-36-13	FileScanner.java	30
+CaretPosition	2016-04-07-20-36-16	FileScanner.java	32
+CaretPosition	2016-04-07-20-36-16	FileScanner.java	32
+CaretPosition	2016-04-07-20-36-20	FileScanner.java	32
+CaretPosition	2016-04-07-20-36-21	FileScanner.java	32
+CaretPosition	2016-04-07-20-36-26	FileScanner.java	11
+CaretPosition	2016-04-07-20-36-27	FileScanner.java	11
+CaretPosition	2016-04-07-20-36-30	FileScanner.java	11
+CaretPosition	2016-04-07-20-36-35	FileScanner.java	32
+CaretPosition	2016-04-07-20-36-39	FileScanner.java	32
+CaretPosition	2016-04-07-20-36-40	FileScanner.java	32
+CaretPosition	2016-04-07-20-36-43	FileScanner.java	32
+CaretPosition	2016-04-07-20-36-46	FileScanner.java	32
+CaretPosition	2016-04-07-20-36-47	FileScanner.java	32
+CaretPosition	2016-04-07-20-36-48	FileScanner.java	32
+CaretPosition	2016-04-07-20-36-50	FileScanner.java	32
+CaretPosition	2016-04-07-20-36-50	FileScanner.java	32
+CaretPosition	2016-04-07-20-36-51	FileScanner.java	32
+CaretPosition	2016-04-07-20-36-56	FileScanner.java	32
+CaretPosition	2016-04-07-20-37-07	FileScanner.java	32
+CaretPosition	2016-04-07-20-37-08	FileScanner.java	32
+FileChange	2016-04-07-20-37-15	/Users/xiezhenyu/mooctest/projects/363/12473/FileScanner/src/FileScanner.java	[InsertDelta, position: 0, lines: [import java.util.Scanner;, ]]	[InsertDelta, position: 19, lines: [		Scanner sc = new Scanner(System.in);, 		int a = sc.nextInt();, 		double b = sc.nextDouble();, 		String c = sc.nextLine();]]	[InsertDelta, position: 20, lines: [		DecimalFormat b1 = new DecimalFormat("0.00");, 		String numStr = df.format(b);, 		, 		System.out.println("The integer read is "+a);, 		System.out.println("The floating point number read is "+ numStr);, 		System.out.println("The String read is "+ c);]]	
+CaretPosition	2016-04-07-20-37-19	FileScanner.java	33
+FileChange	2016-04-07-20-37-19	/Users/xiezhenyu/mooctest/projects/363/12473/FileScanner/src/FileScanner.java	[InsertDelta, position: 0, lines: [import java.text.DecimalFormat;]]	
+CaretPosition	2016-04-07-20-37-24	FileScanner.java	29
+CaretPosition	2016-04-07-20-37-25	FileScanner.java	29
+CaretPosition	2016-04-07-20-37-26	FileScanner.java	29
+FileChange	2016-04-07-20-37-26	/Users/xiezhenyu/mooctest/projects/363/12473/FileScanner/src/FileScanner.java	[ChangeDelta, position: 28, lines: [		String numStr = df.format(b);] to [		String numStr = b1.format(b);]]	
+Part	2016-04-07-20-37-43	Console (No consoles to display at this time.)	opened
+Part	2016-04-07-20-37-43	Console (No consoles to display at this time.)	broughtToTop
+Part	2016-04-07-20-37-43	FileScanner.java	deactivated
+Part	2016-04-07-20-37-43	Console (No consoles to display at this time.)	activated
+Part	2016-04-07-20-37-44	MoocTest	broughtToTop
+Part	2016-04-07-20-37-44	Console (No consoles to display at this time.)	deactivated
+Part	2016-04-07-20-37-44	MoocTest	activated
+Part	2016-04-07-20-37-48	MoocTest	activated
+Part	2016-04-07-20-38-03	MoocTest	deactivated
+Part	2016-04-07-20-38-03	Package Explorer	activated
+Part	2016-04-07-20-38-05	FileScannerTest.java	opened
+Part	2016-04-07-20-38-05	FileScannerTest.java	broughtToTop
+Part	2016-04-07-20-38-05	Package Explorer	deactivated
+CaretPosition	2016-04-07-20-38-05	FileScannerTest.java	1
+Part	2016-04-07-20-38-05	FileScannerTest.java	activated
+CaretPosition	2016-04-07-20-38-06	FileScannerTest.java	1
+Part	2016-04-07-20-40-11	ArithmeticTest.java	broughtToTop
+Part	2016-04-07-20-40-11	FileScannerTest.java	deactivated
+CaretPosition	2016-04-07-20-40-11	ArithmeticTest.java	36
+Part	2016-04-07-20-40-11	ArithmeticTest.java	activated
+Part	2016-04-07-20-40-14	FileScanner.java	broughtToTop
+Part	2016-04-07-20-40-14	ArithmeticTest.java	deactivated
+CaretPosition	2016-04-07-20-40-14	FileScanner.java	29
+Part	2016-04-07-20-40-14	FileScanner.java	activated
+CaretPosition	2016-04-07-20-40-27	FileScanner.java	23
+Part	2016-04-07-20-40-31	FileScanner.java	deactivated
+Part	2016-04-07-20-40-31	Package Explorer	activated
+Part	2016-04-07-20-40-37	Test.java	opened
+Part	2016-04-07-20-40-37	Test.java	broughtToTop
+Part	2016-04-07-20-40-37	Package Explorer	deactivated
+CaretPosition	2016-04-07-20-40-37	Test.java	1
+Part	2016-04-07-20-40-37	Test.java	activated
+CaretPosition	2016-04-07-20-40-40	Test.java	68
+CaretPosition	2016-04-07-20-40-41	Test.java	70
+CaretPosition	2016-04-07-20-40-42	Test.java	81
+Part	2016-04-07-20-40-45	FileScanner.java	broughtToTop
+Part	2016-04-07-20-40-45	Test.java	deactivated
+CaretPosition	2016-04-07-20-40-46	FileScanner.java	23
+Part	2016-04-07-20-40-46	FileScanner.java	activated
+CaretPosition	2016-04-07-20-40-49	FileScanner.java	23
+Part	2016-04-07-20-41-19	FileScannerTest.java	broughtToTop
+Part	2016-04-07-20-41-19	FileScanner.java	deactivated
+CaretPosition	2016-04-07-20-41-19	FileScannerTest.java	1
+Part	2016-04-07-20-41-19	FileScannerTest.java	activated
+Part	2016-04-07-20-41-29	FileScanner.java	broughtToTop
+Part	2016-04-07-20-41-29	FileScannerTest.java	deactivated
+CaretPosition	2016-04-07-20-41-29	FileScanner.java	23
+Part	2016-04-07-20-41-29	FileScanner.java	activated
+CaretPosition	2016-04-07-20-41-34	FileScanner.java	23
+CaretPosition	2016-04-07-20-41-36	FileScanner.java	23
+CaretPosition	2016-04-07-20-41-39	FileScanner.java	23
+CaretPosition	2016-04-07-20-41-44	FileScanner.java	23
+CaretPosition	2016-04-07-20-41-45	FileScanner.java	23
+CaretPosition	2016-04-07-20-41-47	FileScanner.java	23
+CaretPosition	2016-04-07-20-41-49	FileScanner.java	23
+CaretPosition	2016-04-07-20-41-50	FileScanner.java	23
+CaretPosition	2016-04-07-20-41-54	FileScanner.java	23
+Part	2016-04-07-20-42-48	FileScanner.java	deactivated
+Part	2016-04-07-20-42-48	Package Explorer	activated
+Part	2016-04-07-20-59-47	Arithmetic.java	opened
+Part	2016-04-07-20-59-47	Arithmetic.java	broughtToTop
+Part	2016-04-07-20-59-47	Package Explorer	deactivated
+CaretPosition	2016-04-07-20-59-47	Arithmetic.java	1
+Part	2016-04-07-20-59-47	Arithmetic.java	activated
+Part	2016-04-07-21-07-13	Arithmetic.java	deactivated
+Part	2016-04-07-21-07-13	Package Explorer	activated
+Part	2016-04-07-21-07-23	Bin2Dec.java	opened
+Part	2016-04-07-21-07-23	Bin2Dec.java	broughtToTop
+Part	2016-04-07-21-07-23	Package Explorer	deactivated
+CaretPosition	2016-04-07-21-07-23	Bin2Dec.java	1
+Part	2016-04-07-21-07-23	Bin2Dec.java	activated
+Part	2016-04-07-21-07-28	Bin2Dec.java	deactivated
+Part	2016-04-07-21-07-28	Package Explorer	activated
+Part	2016-04-07-21-07-30	Bin2DecTest.java	opened
+Part	2016-04-07-21-07-30	Bin2DecTest.java	broughtToTop
+Part	2016-04-07-21-07-30	Package Explorer	deactivated
+CaretPosition	2016-04-07-21-07-30	Bin2DecTest.java	1
+Part	2016-04-07-21-07-30	Bin2DecTest.java	activated
+Part	2016-04-07-21-07-59	Bin2DecTest.java	deactivated
+CaretPosition	2016-04-07-21-08-00	Bin2Dec.java	1
+Part	2016-04-07-21-08-00	Bin2Dec.java	activated
+Part	2016-04-07-21-08-00	Bin2Dec.java	broughtToTop
+Part	2016-04-07-21-08-33	Bin2Dec.java	deactivated
+Part	2016-04-07-21-08-33	MoocTest	activated
+Part	2016-04-07-21-09-22	MoocTest	deactivated
+CaretPosition	2016-04-07-21-09-22	Bin2Dec.java	1
+Part	2016-04-07-21-09-22	Bin2Dec.java	activated
+CaretPosition	2016-04-07-21-09-23	Bin2Dec.java	18
+CaretPosition	2016-04-07-21-09-24	Bin2Dec.java	18
+CaretPosition	2016-04-07-21-09-28	Bin2Dec.java	18
+CaretPosition	2016-04-07-21-09-30	Bin2Dec.java	18
+CaretPosition	2016-04-07-21-09-31	Bin2Dec.java	18
+CaretPosition	2016-04-07-21-09-33	Bin2Dec.java	18
+FileChange	2016-04-07-21-09-37	/Users/xiezhenyu/mooctest/projects/363/12473/Bin2Dec/src/Bin2Dec.java	[ChangeDelta, position: 11, lines: [		return 0;] to [		int result = 0;, 		int length = binStr.length();, 		char[] binary = binStr.toCharArray();, 		, 		for(int i = 0;i < length;i++){, 			int temp = binary[i] - '0';, 			result = result +temp *(int) Math.pow((int)2, (int)(length - (i+1));, 		}, 		return result;]]	
+CaretPosition	2016-04-07-21-09-40	Bin2Dec.java	18
+CaretPosition	2016-04-07-21-09-41	Bin2Dec.java	18
+FileChange	2016-04-07-21-09-42	/Users/xiezhenyu/mooctest/projects/363/12473/Bin2Dec/src/Bin2Dec.java	[ChangeDelta, position: 17, lines: [			result = result +temp *(int) Math.pow((int)2, (int)(length - (i+1));] to [			result = result +temp *(int) Math.pow((int)2, (int)(length - (i+1)));]]	
+Part	2016-04-07-21-09-53	Bin2Dec.java	deactivated
+Part	2016-04-07-21-09-53	MoocTest	activated
+Part	2016-04-07-21-12-55	MoocTest	deactivated
+Part	2016-04-07-21-12-55	Package Explorer	activated
+Part	2016-04-07-21-13-03	ComputePI.java	opened
+Part	2016-04-07-21-13-03	ComputePI.java	broughtToTop
+Part	2016-04-07-21-13-03	Package Explorer	deactivated
+CaretPosition	2016-04-07-21-13-03	ComputePI.java	1
+Part	2016-04-07-21-13-03	ComputePI.java	activated
+CaretPosition	2016-04-07-21-13-15	ComputePI.java	1
+Part	2016-04-07-21-15-40	ComputePI.java	deactivated
+Part	2016-04-07-21-15-40	Package Explorer	activated
+Part	2016-04-07-21-15-42	Package Explorer	deactivated
+CaretPosition	2016-04-07-21-15-42	ComputePI.java	1
+Part	2016-04-07-21-15-42	ComputePI.java	activated
+CaretPosition	2016-04-07-21-15-43	ComputePI.java	7
+CaretPosition	2016-04-07-21-15-50	ComputePI.java	8
+CaretPosition	2016-04-07-21-16-36	ComputePI.java	8
+CaretPosition	2016-04-07-21-16-38	ComputePI.java	8
+CaretPosition	2016-04-07-21-16-39	ComputePI.java	8
+CaretPosition	2016-04-07-21-16-47	ComputePI.java	8
+CaretPosition	2016-04-07-21-16-52	ComputePI.java	8
+CaretPosition	2016-04-07-21-17-15	ComputePI.java	7
+CaretPosition	2016-04-07-21-17-16	ComputePI.java	7
+CaretPosition	2016-04-07-21-17-19	ComputePI.java	8
+CaretPosition	2016-04-07-21-17-22	ComputePI.java	8
+CaretPosition	2016-04-07-21-17-26	ComputePI.java	8
+CaretPosition	2016-04-07-21-17-28	ComputePI.java	8
+CaretPosition	2016-04-07-21-17-31	ComputePI.java	8
+CaretPosition	2016-04-07-21-17-33	ComputePI.java	8
+CaretPosition	2016-04-07-21-17-34	ComputePI.java	8
+CaretPosition	2016-04-07-21-17-36	ComputePI.java	9
+CaretPosition	2016-04-07-21-17-39	ComputePI.java	9
+CaretPosition	2016-04-07-21-17-40	ComputePI.java	9
+CaretPosition	2016-04-07-21-17-41	ComputePI.java	9
+CaretPosition	2016-04-07-21-18-56	ComputePI.java	9
+CaretPosition	2016-04-07-21-18-57	ComputePI.java	8
+CaretPosition	2016-04-07-21-18-58	ComputePI.java	9
+CaretPosition	2016-04-07-21-19-00	ComputePI.java	9
+CaretPosition	2016-04-07-21-19-01	ComputePI.java	9
+CaretPosition	2016-04-07-21-19-02	ComputePI.java	9
+CaretPosition	2016-04-07-21-19-03	ComputePI.java	9
+CaretPosition	2016-04-07-21-19-10	ComputePI.java	9
+CaretPosition	2016-04-07-21-19-11	ComputePI.java	9
+CaretPosition	2016-04-07-21-19-13	ComputePI.java	9
+CaretPosition	2016-04-07-21-19-15	ComputePI.java	9
+CaretPosition	2016-04-07-21-19-19	ComputePI.java	9
+CaretPosition	2016-04-07-21-19-19	ComputePI.java	9
+CaretPosition	2016-04-07-21-19-20	ComputePI.java	9
+CaretPosition	2016-04-07-21-19-21	ComputePI.java	9
+CaretPosition	2016-04-07-21-19-22	ComputePI.java	9
+CaretPosition	2016-04-07-21-19-23	ComputePI.java	10
+CaretPosition	2016-04-07-21-19-28	ComputePI.java	12
+CaretPosition	2016-04-07-21-19-29	ComputePI.java	12
+CaretPosition	2016-04-07-21-19-30	ComputePI.java	10
+CaretPosition	2016-04-07-21-19-37	ComputePI.java	8
+CaretPosition	2016-04-07-21-19-38	ComputePI.java	9
+CaretPosition	2016-04-07-21-19-40	ComputePI.java	9
+CaretPosition	2016-04-07-21-19-42	ComputePI.java	9
+CaretPosition	2016-04-07-21-19-43	ComputePI.java	9
+CaretPosition	2016-04-07-21-19-44	ComputePI.java	11
+CaretPosition	2016-04-07-21-19-46	ComputePI.java	11
+CaretPosition	2016-04-07-21-19-47	ComputePI.java	11
+CaretPosition	2016-04-07-21-21-07	ComputePI.java	11
+CaretPosition	2016-04-07-21-21-09	ComputePI.java	11
+CaretPosition	2016-04-07-21-21-09	ComputePI.java	11
+CaretPosition	2016-04-07-21-21-26	ComputePI.java	11
+CaretPosition	2016-04-07-21-24-18	ComputePI.java	8
+CaretPosition	2016-04-07-21-24-22	ComputePI.java	7
+CaretPosition	2016-04-07-21-24-24	ComputePI.java	9
+CaretPosition	2016-04-07-21-24-26	ComputePI.java	10
+CaretPosition	2016-04-07-21-24-28	ComputePI.java	10
+CaretPosition	2016-04-07-21-24-29	ComputePI.java	10
+CaretPosition	2016-04-07-21-24-31	ComputePI.java	10
+CaretPosition	2016-04-07-21-24-32	ComputePI.java	10
+CaretPosition	2016-04-07-21-24-33	ComputePI.java	10
+CaretPosition	2016-04-07-21-24-34	ComputePI.java	10
+CaretPosition	2016-04-07-21-24-41	ComputePI.java	10
+CaretPosition	2016-04-07-21-24-45	ComputePI.java	10
+CaretPosition	2016-04-07-21-25-33	ComputePI.java	10
+CaretPosition	2016-04-07-21-25-34	ComputePI.java	12
+CaretPosition	2016-04-07-21-25-35	ComputePI.java	11
+CaretPosition	2016-04-07-21-26-01	ComputePI.java	11
+CaretPosition	2016-04-07-21-26-03	ComputePI.java	11
+CaretPosition	2016-04-07-21-26-06	ComputePI.java	11
+CaretPosition	2016-04-07-21-26-07	ComputePI.java	11
+CaretPosition	2016-04-07-21-26-08	ComputePI.java	11
+CaretPosition	2016-04-07-21-26-11	ComputePI.java	11
+CaretPosition	2016-04-07-21-35-31	ComputePI.java	10
+CaretPosition	2016-04-07-21-35-42	ComputePI.java	10
+CaretPosition	2016-04-07-21-35-43	ComputePI.java	9
+CaretPosition	2016-04-07-21-35-45	ComputePI.java	9
+CaretPosition	2016-04-07-21-35-47	ComputePI.java	10
+CaretPosition	2016-04-07-21-36-00	ComputePI.java	10
+CaretPosition	2016-04-07-21-36-02	ComputePI.java	10
+CaretPosition	2016-04-07-21-36-03	ComputePI.java	10
+CaretPosition	2016-04-07-21-36-04	ComputePI.java	10
+CaretPosition	2016-04-07-21-36-08	ComputePI.java	10
+CaretPosition	2016-04-07-21-36-11	ComputePI.java	10
+CaretPosition	2016-04-07-21-36-12	ComputePI.java	10
+CaretPosition	2016-04-07-21-36-14	ComputePI.java	10
+CaretPosition	2016-04-07-21-36-23	ComputePI.java	10
+CaretPosition	2016-04-07-21-36-25	ComputePI.java	10
+CaretPosition	2016-04-07-21-36-26	ComputePI.java	10
+CaretPosition	2016-04-07-21-36-31	ComputePI.java	10
+CaretPosition	2016-04-07-21-36-32	ComputePI.java	10
+CaretPosition	2016-04-07-21-36-35	ComputePI.java	10
+CaretPosition	2016-04-07-21-36-37	ComputePI.java	10
+CaretPosition	2016-04-07-21-36-38	ComputePI.java	10
+CaretPosition	2016-04-07-21-36-39	ComputePI.java	10
+CaretPosition	2016-04-07-21-36-40	ComputePI.java	10
+CaretPosition	2016-04-07-21-36-42	ComputePI.java	10
+CaretPosition	2016-04-07-21-36-43	ComputePI.java	10
+CaretPosition	2016-04-07-21-36-46	ComputePI.java	10
+CaretPosition	2016-04-07-21-36-49	ComputePI.java	13
+CaretPosition	2016-04-07-21-36-50	ComputePI.java	13
+CaretPosition	2016-04-07-21-36-53	ComputePI.java	13
+FileChange	2016-04-07-21-36-53	/Users/xiezhenyu/mooctest/projects/363/12473/ComputePI/src/ComputePI.java	[InsertDelta, position: 7, lines: [		double PI = 0.0;, 		for(int i = 1;i<100;i++){, 			PI = PI + 4*(1/(2 * i - 1));, 		}]]	[ChangeDelta, position: 8, lines: [		return -1;] to [		return PI;]]	
+CaretPosition	2016-04-07-21-36-56	ComputePI.java	11
+Part	2016-04-07-21-37-09	ComputePI.java	deactivated
+Part	2016-04-07-21-37-09	Package Explorer	activated
+Part	2016-04-07-21-37-15	Package Explorer	deactivated
+CaretPosition	2016-04-07-21-37-15	ComputePI.java	11
+Part	2016-04-07-21-37-15	ComputePI.java	activated
+CaretPosition	2016-04-07-21-37-16	ComputePI.java	10
+CaretPosition	2016-04-07-21-37-18	ComputePI.java	10
+CaretPosition	2016-04-07-21-37-20	ComputePI.java	10
+CaretPosition	2016-04-07-21-37-21	ComputePI.java	10
+CaretPosition	2016-04-07-21-37-22	ComputePI.java	10
+CaretPosition	2016-04-07-21-37-28	ComputePI.java	10
+CaretPosition	2016-04-07-21-37-39	ComputePI.java	10
+CaretPosition	2016-04-07-21-37-40	ComputePI.java	10
+CaretPosition	2016-04-07-21-37-42	ComputePI.java	10
+CaretPosition	2016-04-07-21-37-42	ComputePI.java	10
+CaretPosition	2016-04-07-21-37-43	ComputePI.java	10
+CaretPosition	2016-04-07-21-37-44	ComputePI.java	10
+CaretPosition	2016-04-07-21-37-45	ComputePI.java	10
+CaretPosition	2016-04-07-21-37-46	ComputePI.java	10
+FileChange	2016-04-07-21-37-47	/Users/xiezhenyu/mooctest/projects/363/12473/ComputePI/src/ComputePI.java	[ChangeDelta, position: 9, lines: [			PI = PI + 4*(1/(2 * i - 1));] to [			PI = PI + 4*(-1)^(i-1)*(1/(2 * i - 1));]]	
+CaretPosition	2016-04-07-21-38-10	ComputePI.java	10
+CaretPosition	2016-04-07-21-38-12	ComputePI.java	10
+CaretPosition	2016-04-07-21-38-20	ComputePI.java	10
+CaretPosition	2016-04-07-21-38-25	ComputePI.java	10
+CaretPosition	2016-04-07-21-38-26	ComputePI.java	10
+CaretPosition	2016-04-07-21-38-28	ComputePI.java	10
+CaretPosition	2016-04-07-21-38-29	ComputePI.java	10
+CaretPosition	2016-04-07-21-38-31	ComputePI.java	10
+CaretPosition	2016-04-07-21-38-33	ComputePI.java	10
+CaretPosition	2016-04-07-21-38-34	ComputePI.java	10
+CaretPosition	2016-04-07-21-38-38	ComputePI.java	10
+CaretPosition	2016-04-07-21-38-41	ComputePI.java	10
+CaretPosition	2016-04-07-21-38-49	ComputePI.java	10
+CaretPosition	2016-04-07-21-38-52	ComputePI.java	10
+CaretPosition	2016-04-07-21-38-56	ComputePI.java	10
+CaretPosition	2016-04-07-21-38-59	ComputePI.java	10
+CaretPosition	2016-04-07-21-39-00	ComputePI.java	10
+CaretPosition	2016-04-07-21-39-03	ComputePI.java	10
+CaretPosition	2016-04-07-21-39-05	ComputePI.java	10
+CaretPosition	2016-04-07-21-39-06	ComputePI.java	10
+CaretPosition	2016-04-07-21-39-07	ComputePI.java	10
+CaretPosition	2016-04-07-21-39-08	ComputePI.java	10
+FileChange	2016-04-07-21-39-09	/Users/xiezhenyu/mooctest/projects/363/12473/ComputePI/src/ComputePI.java	[ChangeDelta, position: 9, lines: [			PI = PI + 4*(-1)^(i-1)*(1/(2 * i - 1));] to [			PI = PI + 4*(int)Math.pow(-1, i-1)*(1/(2 * i - 1));]]	
+CaretPosition	2016-04-07-21-39-12	ComputePI.java	10
+Part	2016-04-07-21-39-17	ComputePI.java	deactivated
+Part	2016-04-07-21-39-17	MoocTest	activated
+Part	2016-04-07-21-39-55	MoocTest	deactivated
+CaretPosition	2016-04-07-21-39-55	ComputePI.java	10
+Part	2016-04-07-21-39-55	ComputePI.java	activated
+CaretPosition	2016-04-07-21-39-58	ComputePI.java	11
+CaretPosition	2016-04-07-21-39-59	ComputePI.java	11
+CaretPosition	2016-04-07-21-40-01	ComputePI.java	11
+CaretPosition	2016-04-07-21-40-02	ComputePI.java	11
+CaretPosition	2016-04-07-21-40-04	ComputePI.java	11
+CaretPosition	2016-04-07-21-40-06	ComputePI.java	11
+CaretPosition	2016-04-07-21-40-08	ComputePI.java	11
+CaretPosition	2016-04-07-21-40-09	ComputePI.java	11
+CaretPosition	2016-04-07-21-40-10	ComputePI.java	11
+CaretPosition	2016-04-07-21-40-11	ComputePI.java	11
+CaretPosition	2016-04-07-21-40-14	ComputePI.java	11
+CaretPosition	2016-04-07-21-40-15	ComputePI.java	12
+CaretPosition	2016-04-07-21-40-17	ComputePI.java	12
+CaretPosition	2016-04-07-21-40-19	ComputePI.java	12
+FileChange	2016-04-07-21-40-25	/Users/xiezhenyu/mooctest/projects/363/12473/ComputePI/src/ComputePI.java	[InsertDelta, position: 10, lines: [			if(PI == 3.1414926){, 				break;, 			}]]	
+Part	2016-04-07-21-40-31	ComputePI.java	deactivated
+Part	2016-04-07-21-40-31	MoocTest	activated
+Part	2016-04-07-21-41-01	MoocTest	deactivated
+Part	2016-04-07-21-41-01	Package Explorer	activated
+Part	2016-04-07-21-41-03	ComputePITest.java	opened
+Part	2016-04-07-21-41-03	ComputePITest.java	broughtToTop
+Part	2016-04-07-21-41-03	Package Explorer	deactivated
+CaretPosition	2016-04-07-21-41-03	ComputePITest.java	1
+Part	2016-04-07-21-41-03	ComputePITest.java	activated
+CaretPosition	2016-04-07-21-41-12	ComputePITest.java	11
+Part	2016-04-07-21-41-17	ComputePITest.java	deactivated
+CaretPosition	2016-04-07-21-41-17	ComputePI.java	12
+Part	2016-04-07-21-41-17	ComputePI.java	activated
+Part	2016-04-07-21-41-17	ComputePI.java	broughtToTop
+Part	2016-04-07-21-41-24	ComputePI.java	deactivated
+Part	2016-04-07-21-41-24	MoocTest	activated
+Part	2016-04-07-21-41-45	MoocTest	deactivated
+CaretPosition	2016-04-07-21-41-45	ComputePI.java	12
+Part	2016-04-07-21-41-45	ComputePI.java	activated
+CaretPosition	2016-04-07-21-41-46	ComputePI.java	10
+CaretPosition	2016-04-07-21-41-48	ComputePI.java	10
+CaretPosition	2016-04-07-21-41-51	ComputePI.java	10
+CaretPosition	2016-04-07-21-41-52	ComputePI.java	10
+FileChange	2016-04-07-21-41-53	/Users/xiezhenyu/mooctest/projects/363/12473/ComputePI/src/ComputePI.java	[ChangeDelta, position: 9, lines: [			PI = PI + 4*(int)Math.pow(-1, i-1)*(1/(2 * i - 1));] to [			PI = PI + 4*((int)Math.pow(-1, i-1))*(1/(2 * i - 1));]]	
+Part	2016-04-07-21-42-01	ComputePI.java	deactivated
+Part	2016-04-07-21-42-01	MoocTest	activated
+Part	2016-04-07-21-42-29	MoocTest	deactivated
+CaretPosition	2016-04-07-21-42-29	ComputePI.java	10
+Part	2016-04-07-21-42-29	ComputePI.java	activated
+CaretPosition	2016-04-07-21-42-29	ComputePI.java	19
+CaretPosition	2016-04-07-21-42-57	ComputePI.java	11
+CaretPosition	2016-04-07-21-43-00	ComputePI.java	11
+Part	2016-04-07-21-43-22	ComputePI.java	deactivated
+Part	2016-04-07-21-43-22	MoocTest	activated
+Part	2016-04-07-21-44-08	MoocTest	deactivated
+CaretPosition	2016-04-07-21-44-08	ComputePI.java	11
+Part	2016-04-07-21-44-08	ComputePI.java	activated
+CaretPosition	2016-04-07-21-44-09	ComputePI.java	8
+Part	2016-04-07-21-44-12	ComputePI.java	deactivated
+CaretPosition	2016-04-07-21-44-12	ComputePITest.java	11
+Part	2016-04-07-21-44-12	ComputePITest.java	activated
+Part	2016-04-07-21-44-12	ComputePITest.java	broughtToTop
+CaretPosition	2016-04-07-21-44-14	ComputePITest.java	11
+CaretPosition	2016-04-07-21-44-16	ComputePITest.java	11
+CaretPosition	2016-04-07-21-44-17	ComputePITest.java	11
+CaretPosition	2016-04-07-21-44-19	ComputePITest.java	11
+Part	2016-04-07-21-44-23	ComputePITest.java	deactivated
+CaretPosition	2016-04-07-21-44-23	ComputePI.java	8
+Part	2016-04-07-21-44-23	ComputePI.java	activated
+Part	2016-04-07-21-44-23	ComputePI.java	broughtToTop
+CaretPosition	2016-04-07-21-44-28	ComputePI.java	8
+FileChange	2016-04-07-21-44-29	/Users/xiezhenyu/mooctest/projects/363/12473/ComputePI/src/ComputePI.java	[ChangeDelta, position: 7, lines: [		double PI = 0.0;] to [		double PI = 0.0000000;]]	[ChangeDelta, position: 10, lines: [			if(PI == 3.1414926){] to [			if(PI == 3.1415926){]]	
+Part	2016-04-07-21-44-33	ComputePI.java	deactivated
+Part	2016-04-07-21-44-33	MoocTest	activated
+Part	2016-04-07-21-44-40	MoocTest	deactivated
+CaretPosition	2016-04-07-21-44-40	ComputePI.java	8
+Part	2016-04-07-21-44-40	ComputePI.java	activated
+CaretPosition	2016-04-07-21-44-41	ComputePI.java	19
+Part	2016-04-07-21-44-44	ComputePI.java	deactivated
+Part	2016-04-07-21-44-44	MoocTest	activated
+Part	2016-04-07-21-44-50	MoocTest	deactivated
+CaretPosition	2016-04-07-21-44-50	ComputePI.java	19
+Part	2016-04-07-21-44-50	ComputePI.java	activated
+Part	2016-04-07-21-44-56	ComputePI.java	deactivated
+Part	2016-04-07-21-44-56	MoocTest	activated
+Part	2016-04-07-21-45-17	MoocTest	deactivated
+CaretPosition	2016-04-07-21-45-17	ComputePI.java	19
+Part	2016-04-07-21-45-17	ComputePI.java	activated
+CaretPosition	2016-04-07-21-45-18	ComputePI.java	10
+CaretPosition	2016-04-07-21-45-20	ComputePI.java	10
+CaretPosition	2016-04-07-21-45-21	ComputePI.java	10
+CaretPosition	2016-04-07-21-45-22	ComputePI.java	10
+CaretPosition	2016-04-07-21-45-24	ComputePI.java	10
+CaretPosition	2016-04-07-21-45-26	ComputePI.java	10
+CaretPosition	2016-04-07-21-45-27	ComputePI.java	10
+CaretPosition	2016-04-07-21-45-28	ComputePI.java	10
+CaretPosition	2016-04-07-21-45-34	ComputePI.java	10
+FileChange	2016-04-07-21-45-35	/Users/xiezhenyu/mooctest/projects/363/12473/ComputePI/src/ComputePI.java	[ChangeDelta, position: 9, lines: [			PI = PI + 4*((int)Math.pow(-1, i-1))*(1/(2 * i - 1));] to [			PI = PI + 4*((int)Math.pow((-1), (i-1)))*(1/(2 * i - 1));]]	
+Part	2016-04-07-21-46-09	ComputePI.java	deactivated
+Part	2016-04-07-21-46-09	MoocTest	activated
+Part	2016-04-07-21-46-19	MoocTest	deactivated
+CaretPosition	2016-04-07-21-46-19	ComputePI.java	10
+Part	2016-04-07-21-46-19	ComputePI.java	activated
+CaretPosition	2016-04-07-21-46-20	ComputePI.java	19
+Part	2016-04-07-21-46-24	ComputePI.java	deactivated
+Part	2016-04-07-21-46-24	MoocTest	activated
+Part	2016-04-07-21-47-02	MoocTest	deactivated
+CaretPosition	2016-04-07-21-47-02	ComputePI.java	19
+Part	2016-04-07-21-47-02	ComputePI.java	activated
+CaretPosition	2016-04-07-21-47-04	ComputePI.java	10
+CaretPosition	2016-04-07-21-47-17	ComputePI.java	10
+CaretPosition	2016-04-07-21-47-19	ComputePI.java	10
+CaretPosition	2016-04-07-21-47-21	ComputePI.java	10
+CaretPosition	2016-04-07-21-47-24	ComputePI.java	10
+CaretPosition	2016-04-07-21-47-25	ComputePI.java	10
+CaretPosition	2016-04-07-21-47-27	ComputePI.java	10
+CaretPosition	2016-04-07-21-47-29	ComputePI.java	10
+CaretPosition	2016-04-07-21-47-31	ComputePI.java	10
+CaretPosition	2016-04-07-21-47-32	ComputePI.java	11
+CaretPosition	2016-04-07-21-47-34	ComputePI.java	10
+CaretPosition	2016-04-07-21-47-35	ComputePI.java	10
+CaretPosition	2016-04-07-21-47-36	ComputePI.java	11
+CaretPosition	2016-04-07-21-47-36	ComputePI.java	10
+CaretPosition	2016-04-07-21-47-38	ComputePI.java	10
+CaretPosition	2016-04-07-21-47-40	ComputePI.java	10
+CaretPosition	2016-04-07-21-47-42	ComputePI.java	10
+CaretPosition	2016-04-07-21-47-43	ComputePI.java	10
+CaretPosition	2016-04-07-21-47-45	ComputePI.java	10
+FileChange	2016-04-07-21-47-46	/Users/xiezhenyu/mooctest/projects/363/12473/ComputePI/src/ComputePI.java	[ChangeDelta, position: 9, lines: [			PI = PI + 4*((int)Math.pow((-1), (i-1)))*(1/(2 * i - 1));] to [			PI = 4*(PI + ((int)Math.pow((-1), (i-1)))*(1/(2 * i - 1)));]]	
+Part	2016-04-07-21-47-51	ComputePI.java	deactivated
+Part	2016-04-07-21-47-51	MoocTest	activated
+Part	2016-04-07-21-48-30	MoocTest	deactivated
+CaretPosition	2016-04-07-21-48-30	ComputePI.java	10
+Part	2016-04-07-21-48-30	ComputePI.java	activated
+CaretPosition	2016-04-07-21-48-31	ComputePI.java	10
+CaretPosition	2016-04-07-21-48-32	ComputePI.java	10
+CaretPosition	2016-04-07-21-48-34	ComputePI.java	10
+CaretPosition	2016-04-07-21-48-34	ComputePI.java	10
+CaretPosition	2016-04-07-21-48-36	ComputePI.java	10
+CaretPosition	2016-04-07-21-48-37	ComputePI.java	10
+CaretPosition	2016-04-07-21-48-38	ComputePI.java	10
+CaretPosition	2016-04-07-21-48-51	ComputePI.java	10
+CaretPosition	2016-04-07-21-48-53	ComputePI.java	10
+CaretPosition	2016-04-07-21-48-55	ComputePI.java	10
+CaretPosition	2016-04-07-21-48-56	ComputePI.java	10
+CaretPosition	2016-04-07-21-48-57	ComputePI.java	10
+CaretPosition	2016-04-07-21-48-59	ComputePI.java	10
+CaretPosition	2016-04-07-21-49-00	ComputePI.java	10
+CaretPosition	2016-04-07-21-49-01	ComputePI.java	10
+CaretPosition	2016-04-07-21-49-02	ComputePI.java	10
+FileChange	2016-04-07-21-49-02	/Users/xiezhenyu/mooctest/projects/363/12473/ComputePI/src/ComputePI.java	[ChangeDelta, position: 9, lines: [			PI = 4*(PI + ((int)Math.pow((-1), (i-1)))*(1/(2 * i - 1)));] to [			PI = PI + ((int)Math.pow((int)(-1),(int)(i-1)))*(1/(2 * i - 1));]]	
+Part	2016-04-07-21-49-07	ComputePI.java	deactivated
+Part	2016-04-07-21-49-07	MoocTest	activated
+Part	2016-04-07-21-53-36	MoocTest	deactivated
+CaretPosition	2016-04-07-21-53-36	ComputePI.java	10
+Part	2016-04-07-21-53-36	ComputePI.java	activated
+CaretPosition	2016-04-07-21-53-37	ComputePI.java	10
+CaretPosition	2016-04-07-21-53-39	ComputePI.java	10
+CaretPosition	2016-04-07-21-53-40	ComputePI.java	10
+FileChange	2016-04-07-21-53-40	/Users/xiezhenyu/mooctest/projects/363/12473/ComputePI/src/ComputePI.java	[ChangeDelta, position: 9, lines: [			PI = PI + ((int)Math.pow((int)(-1),(int)(i-1)))*(1/(2 * i - 1));] to [			PI = PI + ((int)Math.pow((int)(-1),(int)(i-1)))*(1/(2 * i - 1))*4;]]	
+Part	2016-04-07-21-53-45	ComputePI.java	deactivated
+Part	2016-04-07-21-53-45	MoocTest	activated
+Part	2016-04-07-21-54-03	Debug	opened
+Part	2016-04-07-21-54-03	Breakpoints	opened
+Part	2016-04-07-21-54-03	MoocTest	deactivated
+CaretPosition	2016-04-07-21-54-03	ComputePI.java	10
+Part	2016-04-07-21-54-03	ComputePI.java	activated
+CaretPosition	2016-04-07-21-54-12	ComputePI.java	5
+Part	2016-04-07-21-54-13	ComputePI.java	deactivated
+CaretPosition	2016-04-07-21-54-13	ComputePITest.java	11
+Part	2016-04-07-21-54-13	ComputePITest.java	activated
+Part	2016-04-07-21-54-13	ComputePITest.java	broughtToTop
+CaretPosition	2016-04-07-21-54-18	ComputePITest.java	4
+CaretPosition	2016-04-07-21-54-21	ComputePITest.java	5
+Part	2016-04-07-21-54-22	ComputePITest.java	deactivated
+CaretPosition	2016-04-07-21-54-22	ComputePI.java	5
+Part	2016-04-07-21-54-22	ComputePI.java	activated
+Part	2016-04-07-21-54-22	ComputePI.java	broughtToTop
+CaretPosition	2016-04-07-21-54-29	ComputePI.java	7
+CaretPosition	2016-04-07-21-54-32	ComputePI.java	17
+CaretPosition	2016-04-07-21-54-34	ComputePI.java	7
+CaretPosition	2016-04-07-21-54-39	ComputePI.java	17
+Part	2016-04-07-21-54-42	ComputePI.java	deactivated
+Part	2016-04-07-21-54-42	Package Explorer	activated
+FileChange	2016-04-07-21-54-54	Add /Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/Test2.java
+Part	2016-04-07-21-54-54	Test2.java	opened
+Part	2016-04-07-21-54-54	Test2.java	broughtToTop
+Part	2016-04-07-21-54-54	Package Explorer	deactivated
+CaretPosition	2016-04-07-21-54-54	Test2.java	1
+Part	2016-04-07-21-54-54	Test2.java	activated
+CaretPosition	2016-04-07-21-54-56	Test2.java	6
+CaretPosition	2016-04-07-21-55-00	Test2.java	6
+CaretPosition	2016-04-07-21-55-01	Test2.java	6
+CaretPosition	2016-04-07-21-55-03	Test2.java	16
+CaretPosition	2016-04-07-21-55-08	Test2.java	6
+CaretPosition	2016-04-07-21-55-10	Test2.java	6
+CaretPosition	2016-04-07-21-55-11	Test2.java	7
+CaretPosition	2016-04-07-21-55-11	Test2.java	6
+CaretPosition	2016-04-07-21-55-13	Test2.java	8
+CaretPosition	2016-04-07-21-55-14	Test2.java	8
+CaretPosition	2016-04-07-21-55-16	Test2.java	18
+CaretPosition	2016-04-07-21-55-24	Test2.java	6
+CaretPosition	2016-04-07-21-55-26	Test2.java	6
+CaretPosition	2016-04-07-21-55-27	Test2.java	6
+CaretPosition	2016-04-07-21-55-31	Test2.java	6
+CaretPosition	2016-04-07-21-55-33	Test2.java	6
+CaretPosition	2016-04-07-21-55-34	Test2.java	6
+CaretPosition	2016-04-07-21-55-35	Test2.java	6
+CaretPosition	2016-04-07-21-55-36	Test2.java	6
+CaretPosition	2016-04-07-21-55-37	Test2.java	6
+CaretPosition	2016-04-07-21-55-41	Test2.java	6
+CaretPosition	2016-04-07-21-55-42	Test2.java	6
+CaretPosition	2016-04-07-21-55-43	Test2.java	6
+CaretPosition	2016-04-07-21-55-44	Test2.java	7
+CaretPosition	2016-04-07-21-55-45	Test2.java	7
+CaretPosition	2016-04-07-21-55-47	Test2.java	7
+CaretPosition	2016-04-07-21-55-50	Test2.java	7
+CaretPosition	2016-04-07-21-55-53	Test2.java	7
+CaretPosition	2016-04-07-21-55-56	Test2.java	7
+CaretPosition	2016-04-07-21-55-56	Test2.java	7
+CaretPosition	2016-04-07-21-55-57	Test2.java	7
+CaretPosition	2016-04-07-21-55-59	Test2.java	7
+CaretPosition	2016-04-07-21-56-02	Test2.java	7
+CaretPosition	2016-04-07-21-56-03	Test2.java	7
+CaretPosition	2016-04-07-21-56-03	Test2.java	8
+CaretPosition	2016-04-07-21-56-05	Test2.java	8
+CaretPosition	2016-04-07-21-56-05	Test2.java	8
+CaretPosition	2016-04-07-21-56-07	Test2.java	8
+CaretPosition	2016-04-07-21-56-10	Test2.java	8
+CaretPosition	2016-04-07-21-56-11	Test2.java	8
+CaretPosition	2016-04-07-21-56-12	Test2.java	8
+CaretPosition	2016-04-07-21-56-14	Test2.java	8
+CaretPosition	2016-04-07-21-56-18	Test2.java	8
+CaretPosition	2016-04-07-21-56-19	Test2.java	8
+CaretPosition	2016-04-07-21-56-20	Test2.java	8
+FileChange	2016-04-07-21-56-20	/Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/Test2.java	[ChangeDelta, position: 5, lines: [		// TODO Auto-generated method stub, ] to [		Test2 a = new Test2();, 		double b = a.compute();, 		System.out.println(b);]]	[ChangeDelta, position: 8, lines: [] to [	public static double compute(){, 		double PI = 0.0000000;, 		for(int i = 1;i<100;i++){, 			PI = PI + ((int)Math.pow((int)(-1),(int)(i-1)))*(1/(2 * i - 1))*4;, 			if(PI == 3.1415926){, 				break;, 			}, 		}, 		, 		return PI;, 	}]]	
+FileChange	2016-04-07-21-56-54	/Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/Test.java	[InsertDelta, position: 2, lines: [import java.text.DecimalFormat;]]	[InsertDelta, position: 69, lines: [Scanner sc = new Scanner(System.in);, int a = sc.nextInt();, double b = sc.nextDouble();, String c = sc.nextLine();, , DecimalFormat b1 = new DecimalFormat("0.00");, String numStr = b1.format(b);, , System.out.println("The integer read is "+a);, System.out.println("The floating point number read is "+ numStr);, System.out.println("The String read is "+ c);]]	
+Part	2016-04-07-21-56-54	Console (<terminated> Test2 [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月7日 下午9:56:54))	broughtToTop
+CaretPosition	2016-04-07-21-57-07	Test2.java	5
+CaretPosition	2016-04-07-21-57-08	Test2.java	5
+Breakpoint	2016-04-07-21-57-12	change	Breakpoint:NullPointerException: caught and uncaught	null	=File/\/Library\/Java\/JavaVirtualMachines\/jdk1.8.0_65.jdk\/Contents\/Home\/jre\/lib\/rt.jar<java.lang(NullPointerException.class[NullPointerException	java.lang.NullPointerException	
+Breakpoint	2016-04-07-21-57-30	change	Breakpoint:NullPointerException: caught and uncaught	null	=File/\/Library\/Java\/JavaVirtualMachines\/jdk1.8.0_65.jdk\/Contents\/Home\/jre\/lib\/rt.jar<java.lang(NullPointerException.class[NullPointerException	java.lang.NullPointerException	
+Part	2016-04-07-21-57-33	Test2.java	deactivated
+Part	2016-04-07-21-57-33	Debug	activated
+Part	2016-04-07-21-58-06	Debug	deactivated
+CaretPosition	2016-04-07-21-58-06	Test2.java	5
+Part	2016-04-07-21-58-06	Test2.java	activated
+Breakpoint	2016-04-07-21-58-11	change	Breakpoint:NullPointerException: caught and uncaught	null	=File/\/Library\/Java\/JavaVirtualMachines\/jdk1.8.0_65.jdk\/Contents\/Home\/jre\/lib\/rt.jar<java.lang(NullPointerException.class[NullPointerException	java.lang.NullPointerException	
+FileChange	2016-04-07-21-58-32	/Users/xiezhenyu/mooctest/projects/363/12473/FileScanner/src/FileScanner.java	[ChangeDelta, position: 22, lines: [		Scanner sc = new Scanner(System.in);, 		int a = sc.nextInt();, 		double b = sc.nextDouble();, 		String c = sc.nextLine();, 		, 		DecimalFormat b1 = new DecimalFormat("0.00");, 		String numStr = b1.format(b);, 		, 		System.out.println("The integer read is "+a);, 		System.out.println("The floating point number read is "+ numStr);, 		System.out.println("The String read is "+ c);] to [		String[] in = ]]	
+Part	2016-04-07-21-58-32	Package Explorer	closed
+Part	2016-04-07-21-58-32	Task List	closed
+Part	2016-04-07-21-58-32	MoocTest	closed
+Part	2016-04-07-21-58-32	Breakpoints	closed
+Part	2016-04-07-21-58-32	Debug	closed
+Part	2016-04-07-21-58-33	Outline	closed
+Part	2016-04-07-21-58-33	FileScanner.java	closed
+Part	2016-04-07-21-58-33	FileScannerTest.java	closed
+Part	2016-04-07-21-58-33	CozaLozaWozaTest.java	closed
+Part	2016-04-07-21-58-33	ArithmeticTest.java	closed
+Part	2016-04-07-21-58-33	Test.java	closed
+Part	2016-04-07-21-58-33	Arithmetic.java	closed
+Part	2016-04-07-21-58-33	Bin2Dec.java	closed
+Part	2016-04-07-21-58-33	Bin2DecTest.java	closed
+Part	2016-04-07-21-58-33	ComputePI.java	closed
+Part	2016-04-07-21-58-33	ComputePITest.java	closed
+Part	2016-04-07-21-58-33	Test2.java	deactivated
+Part	2016-04-07-21-58-33	Test2.java	closed
+Part	2016-04-07-21-58-33	Console (<terminated> Test2 [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月7日 下午9:58:10))	closed
+Part	2016-04-07-22-10-03	Test2.java	deactivated
+Part	2016-04-07-22-10-03	MoocTest	opened
+Part	2016-04-07-22-10-03	MoocTest	broughtToTop
+Part	2016-04-07-22-10-03	MoocTest	activated
+Part	2016-04-07-22-10-21	MoocTest	deactivated
+Part	2016-04-07-22-10-21	Task List	activated
+Part	2016-04-07-22-10-50	Task List	deactivated
+CaretPosition	2016-04-07-22-10-50	Test2.java	12
+Part	2016-04-07-22-10-50	Test2.java	activated
+Part	2016-04-07-22-10-52	Test2.java	deactivated
+Part	2016-04-07-22-10-53	Test2.java	broughtToTop
+CaretPosition	2016-04-07-22-10-53	Test2.java	12
+Part	2016-04-07-22-10-53	Test2.java	activated
+Part	2016-04-07-22-10-53	ComputePI.java	opened
+Part	2016-04-07-22-10-53	ComputePI.java	broughtToTop
+Part	2016-04-07-22-10-53	Test2.java	deactivated
+Part	2016-04-07-22-10-53	ComputePI.java	broughtToTop
+CaretPosition	2016-04-07-22-10-53	ComputePI.java	17
+Part	2016-04-07-22-10-53	ComputePI.java	activated
+CaretPosition	2016-04-07-22-10-53	ComputePI.java	17
+Part	2016-04-07-22-10-53	ComputePI.java	activated
+CaretPosition	2016-04-07-22-10-53	ComputePI.java	17
+CaretPosition	2016-04-07-22-10-56	ComputePI.java	10
+CaretPosition	2016-04-07-22-10-59	ComputePI.java	10
+CaretPosition	2016-04-07-22-11-02	ComputePI.java	8
+CaretPosition	2016-04-07-22-11-03	ComputePI.java	8
+CaretPosition	2016-04-07-22-11-03	ComputePI.java	8
+CaretPosition	2016-04-07-22-11-04	ComputePI.java	8
+CaretPosition	2016-04-07-22-11-05	ComputePI.java	8
+CaretPosition	2016-04-07-22-11-07	ComputePI.java	11
+CaretPosition	2016-04-07-22-11-10	ComputePI.java	16
+FileChange	2016-04-07-22-11-12	/Users/xiezhenyu/mooctest/projects/363/12473/ComputePI/src/ComputePI.java	[ChangeDelta, position: 7, lines: [		double PI = 0.0000000;] to [		double pi = 0.0000000;]]	[ChangeDelta, position: 9, lines: [			PI = PI + ((int)Math.pow((int)(-1),(int)(i-1)))*(1/(2 * i - 1))*4;, 			if(PI == 3.1415926){] to [			pi = pi + ((int)Math.pow((int)(-1),(int)(i-1)))*(1/(2 * i - 1))*4;, 			if(pi == 3.1415926){]]	[ChangeDelta, position: 15, lines: [		return PI;] to [		return pi;]]	
+Part	2016-04-07-22-11-19	ComputePI.java	deactivated
+Part	2016-04-07-22-11-19	MoocTest	activated
+Part	2016-04-07-22-11-31	Test2.java	broughtToTop
+Part	2016-04-07-22-11-31	MoocTest	deactivated
+CaretPosition	2016-04-07-22-11-31	Test2.java	12
+Part	2016-04-07-22-11-31	Test2.java	activated
+Part	2016-04-07-22-11-36	Console (<terminated> Test2 [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月7日 下午10:11:35))	broughtToTop
+CaretPosition	2016-04-07-22-11-55	Test2.java	12
+CaretPosition	2016-04-07-22-11-58	Test2.java	12
+CaretPosition	2016-04-07-22-11-59	Test2.java	12
+FileChange	2016-04-07-22-11-59	/Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/Test2.java	[ChangeDelta, position: 5, lines: [		Test2 a = new Test2();, 		double b = a.compute();] to [		double b = Test2.compute();]]	[ChangeDelta, position: 10, lines: [		double PI = 0.0000000;, 		for(int i = 1;i<100;i++){, 			PI = PI + ((int)Math.pow((int)(-1),(int)(i-1)))*(1/(2 * i - 1))*4;, 			if(PI == 3.1415926){] to [		double pi = 0.0000000;, 		for(int i = 1;i<10000;i++){, 			pi = pi + ((int)Math.pow((int)(-1),(int)(i-1)))*(double)(4/(2 * i - 1));, 			if(pi == 3.1415926){]]	[ChangeDelta, position: 18, lines: [		return PI;] to [		return pi;]]	[InsertDelta, position: 21, lines: [//((int)Math.pow((int)(-1),(int)(i-1)))*(double)]]	
+Breakpoint	2016-04-07-22-12-00	change	Line breakpoint:Test2 [line: 6] - main(String[])	6	=homework/src<software.edu.nju.cn{Test2.java[Test2	software.edu.nju.cn.Test2	
+Part	2016-04-07-22-12-04	Test2.java	deactivated
+Part	2016-04-07-22-12-04	MoocTest	broughtToTop
+Part	2016-04-07-22-12-04	MoocTest	activated
+Part	2016-04-07-22-12-07	MoocTest	deactivated
+CaretPosition	2016-04-07-22-12-07	Test2.java	12
+Part	2016-04-07-22-12-07	Test2.java	activated
+CaretPosition	2016-04-07-22-12-08	Test2.java	6
+Part	2016-04-07-22-12-11	Console (<terminated> Test2 [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月7日 下午10:12:11))	broughtToTop
+Part	2016-04-07-22-12-12	Test2.java	deactivated
+CaretPosition	2016-04-07-22-12-12	Console (<terminated> Test2 [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月7日 下午10:12:11))	1
+Part	2016-04-07-22-12-12	Console (<terminated> Test2 [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月7日 下午10:12:11))	activated
+CaretPosition	2016-04-07-22-12-13	Console (<terminated> Test2 [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月7日 下午10:12:11))	1
+Part	2016-04-07-22-12-39	Console (<terminated> Test2 [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月7日 下午10:12:11))	deactivated
+CaretPosition	2016-04-07-22-12-39	Test2.java	6
+Part	2016-04-07-22-12-39	Test2.java	activated
+CaretPosition	2016-04-07-22-12-40	Test2.java	12
+CaretPosition	2016-04-07-22-12-41	Test2.java	12
+CaretPosition	2016-04-07-22-12-43	Test2.java	12
+CaretPosition	2016-04-07-22-12-43	Test2.java	12
+CaretPosition	2016-04-07-22-12-44	Test2.java	12
+CaretPosition	2016-04-07-22-12-45	Test2.java	12
+CaretPosition	2016-04-07-22-12-46	Test2.java	12
+CaretPosition	2016-04-07-22-12-47	Test2.java	12
+CaretPosition	2016-04-07-22-12-48	Test2.java	12
+CaretPosition	2016-04-07-22-12-51	Test2.java	13
+CaretPosition	2016-04-07-22-12-53	Test2.java	14
+CaretPosition	2016-04-07-22-12-54	Test2.java	13
+CaretPosition	2016-04-07-22-13-24	Test2.java	10
+CaretPosition	2016-04-07-22-13-25	Test2.java	10
+CaretPosition	2016-04-07-22-13-26	Test2.java	10
+FileChange	2016-04-07-22-13-26	/Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/Test2.java	[ChangeDelta, position: 9, lines: [		double pi = 0.0000000;] to [		double pi = 0.0d;]]	[ChangeDelta, position: 11, lines: [			pi = pi + ((int)Math.pow((int)(-1),(int)(i-1)))*(double)(4/(2 * i - 1));] to [			pi = pi + ((int)Math.pow((int)(-1),(int)(i-1)))*(double)(4/(2*i-1));]]	
+Breakpoint	2016-04-07-22-13-26	change	Line breakpoint:Test2 [line: 6] - main(String[])	6	=homework/src<software.edu.nju.cn{Test2.java[Test2	software.edu.nju.cn.Test2	
+CaretPosition	2016-04-07-22-15-08	Test2.java	12
+CaretPosition	2016-04-07-22-15-09	Test2.java	12
+CaretPosition	2016-04-07-22-15-12	Test2.java	12
+CaretPosition	2016-04-07-22-15-12	Test2.java	12
+CaretPosition	2016-04-07-22-15-14	Test2.java	12
+FileChange	2016-04-07-22-15-22	/Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/Test2.java	[ChangeDelta, position: 11, lines: [			pi = pi + ((int)Math.pow((int)(-1),(int)(i-1)))*(double)(4/(2*i-1));] to [			pi = pi + ((int)Math.pow((int)(-1),(int)(i-1)))*((double)4/(2*i-1));]]	
+Breakpoint	2016-04-07-22-15-22	change	Line breakpoint:Test2 [line: 6] - main(String[])	6	=homework/src<software.edu.nju.cn{Test2.java[Test2	software.edu.nju.cn.Test2	
+Part	2016-04-07-22-15-41	Test2.java	deactivated
+Part	2016-04-07-22-15-41	ComputePI.java	broughtToTop
+CaretPosition	2016-04-07-22-15-41	ComputePI.java	16
+Part	2016-04-07-22-15-41	ComputePI.java	activated
+CaretPosition	2016-04-07-22-15-45	ComputePI.java	10
+CaretPosition	2016-04-07-22-15-46	ComputePI.java	10
+Part	2016-04-07-22-15-51	ComputePI.java	deactivated
+Part	2016-04-07-22-15-51	MoocTest	broughtToTop
+Part	2016-04-07-22-15-51	MoocTest	activated
+Part	2016-04-07-22-16-02	MoocTest	deactivated
+CaretPosition	2016-04-07-22-16-03	ComputePI.java	10
+Part	2016-04-07-22-16-03	ComputePI.java	activated
+CaretPosition	2016-04-07-22-16-03	ComputePI.java	8
+CaretPosition	2016-04-07-22-16-05	ComputePI.java	8
+CaretPosition	2016-04-07-22-16-06	ComputePI.java	8
+CaretPosition	2016-04-07-22-16-09	ComputePI.java	10
+CaretPosition	2016-04-07-22-16-10	ComputePI.java	10
+CaretPosition	2016-04-07-22-16-11	ComputePI.java	10
+CaretPosition	2016-04-07-22-16-12	ComputePI.java	10
+CaretPosition	2016-04-07-22-16-15	ComputePI.java	10
+CaretPosition	2016-04-07-22-16-21	ComputePI.java	1
+Part	2016-04-07-22-16-21	Test2.java	broughtToTop
+Part	2016-04-07-22-16-21	ComputePI.java	deactivated
+CaretPosition	2016-04-07-22-16-22	Test2.java	12
+Part	2016-04-07-22-16-22	Test2.java	activated
+Part	2016-04-07-22-16-34	Test2.java	deactivated
+Part	2016-04-07-22-16-34	ComputePI.java	broughtToTop
+CaretPosition	2016-04-07-22-16-34	ComputePI.java	1
+Part	2016-04-07-22-16-34	ComputePI.java	activated
+Part	2016-04-07-22-16-50	ComputePI.java	deactivated
+Part	2016-04-07-22-16-50	MoocTest	activated
+Part	2016-04-07-22-17-02	MoocTest	deactivated
+CaretPosition	2016-04-07-22-17-02	ComputePI.java	1
+Part	2016-04-07-22-17-02	ComputePI.java	activated
+CaretPosition	2016-04-07-22-17-03	ComputePI.java	9
+CaretPosition	2016-04-07-22-17-04	ComputePI.java	9
+FileChange	2016-04-07-22-17-09	/Users/xiezhenyu/mooctest/projects/363/12473/ComputePI/src/ComputePI.java	[ChangeDelta, position: 7, lines: [		double pi = 0.0000000;, 		for(int i = 1;i<100;i++){, 			pi = pi + ((int)Math.pow((int)(-1),(int)(i-1)))*(1/(2 * i - 1))*4;] to [		double pi = 0.0d;, 		for(int i = 1;i<10000;i++){, 			pi = pi + ((int)Math.pow((int)(-1),(int)(i-1)))*((double)1/(2*i-1))*4;]]	
+Part	2016-04-07-22-17-12	ComputePI.java	deactivated
+Part	2016-04-07-22-17-12	MoocTest	activated
+Part	2016-04-07-22-18-05	Test2.java	broughtToTop
+Part	2016-04-07-22-18-05	MoocTest	deactivated
+CaretPosition	2016-04-07-22-18-05	Test2.java	12
+Part	2016-04-07-22-18-05	Test2.java	activated
+Part	2016-04-07-22-18-14	Console (<terminated> Test2 [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月7日 下午10:18:14))	broughtToTop
+CaretPosition	2016-04-07-22-18-22	Test2.java	1
+Part	2016-04-07-22-18-22	Test2.java	deactivated
+Part	2016-04-07-22-18-22	ComputePI.java	broughtToTop
+CaretPosition	2016-04-07-22-18-22	ComputePI.java	9
+Part	2016-04-07-22-18-22	ComputePI.java	activated
+Part	2016-04-07-22-18-24	Test2.java	broughtToTop
+Part	2016-04-07-22-18-24	ComputePI.java	deactivated
+CaretPosition	2016-04-07-22-18-24	Test2.java	1
+Part	2016-04-07-22-18-24	Test2.java	activated
+CaretPosition	2016-04-07-22-18-35	Test2.java	12
+CaretPosition	2016-04-07-22-18-36	Test2.java	12
+CaretPosition	2016-04-07-22-18-38	Test2.java	12
+CaretPosition	2016-04-07-22-18-39	Test2.java	12
+CaretPosition	2016-04-07-22-18-41	Test2.java	12
+CaretPosition	2016-04-07-22-18-41	Test2.java	12
+CaretPosition	2016-04-07-22-18-43	Test2.java	12
+CaretPosition	2016-04-07-22-18-44	Test2.java	12
+CaretPosition	2016-04-07-22-18-48	Test2.java	12
+Part	2016-04-07-22-19-01	Test2.java	deactivated
+Part	2016-04-07-22-19-01	MoocTest	broughtToTop
+Part	2016-04-07-22-19-01	MoocTest	activated
+FileChange	2016-04-07-22-20-01	/Users/xiezhenyu/Documents/workspace/homework/src/software/edu/nju/cn/Test2.java	[ChangeDelta, position: 11, lines: [			pi = pi + ((int)Math.pow((int)(-1),(int)(i-1)))*((double)4/(2*i-1));] to [			pi = pi + ((int)Math.pow(-1,(i-1)))*((double)4/(2*i-1));]]	
+Breakpoint	2016-04-07-22-20-02	change	Line breakpoint:Test2 [line: 6] - main(String[])	6	=homework/src<software.edu.nju.cn{Test2.java[Test2	software.edu.nju.cn.Test2	
+Part	2016-04-07-22-20-02	MoocTest	deactivated
+Part	2016-04-07-22-20-02	Console (<terminated> Test2 [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月7日 下午10:20:02))	broughtToTop
+CaretPosition	2016-04-07-22-20-02	Console (<terminated> Test2 [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月7日 下午10:20:02))	1
+CaretPosition	2016-04-07-22-20-02	Console (<terminated> Test2 [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月7日 下午10:20:02))	1
+Part	2016-04-07-22-20-02	Console (<terminated> Test2 [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月7日 下午10:20:02))	activated
+CaretPosition	2016-04-07-22-20-05	Console (<terminated> Test2 [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月7日 下午10:20:02))	1
+CaretPosition	2016-04-07-22-20-05	Console (<terminated> Test2 [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月7日 下午10:20:02))	1
+Part	2016-04-07-22-20-17	ComputePI.java	broughtToTop
+Part	2016-04-07-22-20-17	Console (<terminated> Test2 [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月7日 下午10:20:02))	deactivated
+CaretPosition	2016-04-07-22-20-17	ComputePI.java	9
+Part	2016-04-07-22-20-17	ComputePI.java	activated
+Part	2016-04-07-22-20-21	Test2.java	broughtToTop
+Part	2016-04-07-22-20-21	ComputePI.java	deactivated
+CaretPosition	2016-04-07-22-20-21	Test2.java	12
+Part	2016-04-07-22-20-21	Test2.java	activated
+Part	2016-04-07-22-20-23	Test2.java	deactivated
+Part	2016-04-07-22-20-23	ComputePI.java	broughtToTop
+CaretPosition	2016-04-07-22-20-23	ComputePI.java	9
+Part	2016-04-07-22-20-23	ComputePI.java	activated
+CaretPosition	2016-04-07-22-20-52	ComputePI.java	9
+CaretPosition	2016-04-07-22-21-09	ComputePI.java	11
+Part	2016-04-07-22-21-19	Test2.java	broughtToTop
+Part	2016-04-07-22-21-19	ComputePI.java	deactivated
+CaretPosition	2016-04-07-22-21-19	Test2.java	12
+Part	2016-04-07-22-21-19	Test2.java	activated
+Part	2016-04-07-22-21-29	Test2.java	deactivated
+Part	2016-04-07-22-21-29	Package Explorer	activated
+Part	2016-04-07-22-21-31	Breakpoints	closed
+Part	2016-04-07-22-21-31	Debug	closed
+Part	2016-04-07-22-21-31	Outline	closed
+Part	2016-04-07-22-21-31	Task List	closed
+Part	2016-04-07-22-21-32	ComputePI.java	closed
+Part	2016-04-07-22-21-32	Test2.java	closed
+Part	2016-04-07-22-21-32	MoocTest	closed
+Part	2016-04-07-22-21-32	Console (<terminated> Test2 [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年4月7日 下午10:21:25))	closed
+Part	2016-04-07-22-21-32	Package Explorer	deactivated
+Part	2016-04-07-22-21-32	Package Explorer	closed
+Part	2016-04-07-23-42-11	Test2.java	deactivated
+Part	2016-04-07-23-42-11	MoocTest	opened
+Part	2016-04-07-23-42-11	MoocTest	broughtToTop
+Part	2016-04-07-23-42-11	MoocTest	activated
+Part	2016-04-07-23-42-22	Package Explorer	closed
+Part	2016-04-07-23-42-22	Outline	closed
+Part	2016-04-07-23-42-22	Task List	closed
+Part	2016-04-07-23-42-22	Test2.java	closed
+Part	2016-04-07-23-42-22	Console (No consoles to display at this time.)	closed
+Part	2016-04-07-23-42-22	MoocTest	deactivated
+Part	2016-04-07-23-42-22	MoocTest	closed

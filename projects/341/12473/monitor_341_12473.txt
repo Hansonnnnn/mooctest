@@ -1,0 +1,124 @@
+Part	2016-03-18-21-57-03	Navigator	opened
+Part	2016-03-18-21-57-03	Navigator	broughtToTop
+Part	2016-03-18-21-57-03	Console (No consoles to display at this time.)	deactivated
+Part	2016-03-18-21-57-03	Navigator	activated
+Part	2016-03-18-21-57-04	Package Explorer	broughtToTop
+Part	2016-03-18-21-57-04	Navigator	deactivated
+Part	2016-03-18-21-57-04	Package Explorer	activated
+Part	2016-03-18-21-57-09	Package Explorer	deactivated
+Part	2016-03-18-21-57-09	History	opened
+Part	2016-03-18-21-57-09	History	broughtToTop
+Part	2016-03-18-21-57-09	History	activated
+Part	2016-03-18-21-57-12	Console (No consoles to display at this time.)	broughtToTop
+Part	2016-03-18-21-57-12	History	deactivated
+Part	2016-03-18-21-57-12	Package Explorer	activated
+Part	2016-03-18-21-57-12	History	closed
+Part	2016-03-18-21-57-12	Package Explorer	deactivated
+Part	2016-03-18-21-57-12	Console (No consoles to display at this time.)	activated
+Part	2016-03-18-21-57-14	Console (No consoles to display at this time.)	deactivated
+Part	2016-03-18-21-57-14	Package Explorer	activated
+Part	2016-03-18-21-57-45	Package Explorer	deactivated
+Part	2016-03-18-21-57-45	LoginFrame.java	activated
+Part	2016-03-18-21-58-23	LoginFrame.java	deactivated
+Part	2016-03-18-21-58-23	Package Explorer	activated
+Part	2016-03-18-21-59-44	CheckOddEven.java	opened
+Part	2016-03-18-21-59-44	CheckOddEven.java	broughtToTop
+Part	2016-03-18-21-59-44	Package Explorer	deactivated
+CaretPosition	2016-03-18-21-59-44	CheckOddEven.java	1
+Part	2016-03-18-21-59-44	CheckOddEven.java	activated
+CaretPosition	2016-03-18-22-00-50	CheckOddEven.java	10
+CaretPosition	2016-03-18-22-00-53	CheckOddEven.java	10
+CaretPosition	2016-03-18-22-01-00	CheckOddEven.java	10
+CaretPosition	2016-03-18-22-01-02	CheckOddEven.java	10
+CaretPosition	2016-03-18-22-01-04	CheckOddEven.java	10
+CaretPosition	2016-03-18-22-01-13	CheckOddEven.java	10
+CaretPosition	2016-03-18-22-01-16	CheckOddEven.java	10
+CaretPosition	2016-03-18-22-01-17	CheckOddEven.java	10
+CaretPosition	2016-03-18-22-01-20	CheckOddEven.java	10
+CaretPosition	2016-03-18-22-01-21	CheckOddEven.java	10
+CaretPosition	2016-03-18-22-01-22	CheckOddEven.java	10
+CaretPosition	2016-03-18-22-01-24	CheckOddEven.java	10
+CaretPosition	2016-03-18-22-01-26	CheckOddEven.java	10
+CaretPosition	2016-03-18-22-01-27	CheckOddEven.java	10
+CaretPosition	2016-03-18-22-01-37	CheckOddEven.java	2
+CaretPosition	2016-03-18-22-01-41	CheckOddEven.java	11
+CaretPosition	2016-03-18-22-01-42	CheckOddEven.java	11
+CaretPosition	2016-03-18-22-01-44	CheckOddEven.java	11
+CaretPosition	2016-03-18-22-01-45	CheckOddEven.java	11
+CaretPosition	2016-03-18-22-01-47	CheckOddEven.java	11
+CaretPosition	2016-03-18-22-01-47	CheckOddEven.java	11
+CaretPosition	2016-03-18-22-01-53	CheckOddEven.java	14
+CaretPosition	2016-03-18-22-01-54	CheckOddEven.java	14
+CaretPosition	2016-03-18-22-01-56	CheckOddEven.java	14
+CaretPosition	2016-03-18-22-01-56	CheckOddEven.java	14
+CaretPosition	2016-03-18-22-01-57	CheckOddEven.java	14
+CaretPosition	2016-03-18-22-02-01	CheckOddEven.java	14
+CaretPosition	2016-03-18-22-02-07	CheckOddEven.java	13
+CaretPosition	2016-03-18-22-02-13	CheckOddEven.java	19
+CaretPosition	2016-03-18-22-02-17	CheckOddEven.java	13
+CaretPosition	2016-03-18-22-02-18	CheckOddEven.java	14
+CaretPosition	2016-03-18-22-02-21	CheckOddEven.java	15
+CaretPosition	2016-03-18-22-02-27	CheckOddEven.java	14
+CaretPosition	2016-03-18-22-02-31	CheckOddEven.java	20
+Part	2016-03-18-22-02-44	CheckOddEven.java	deactivated
+Part	2016-03-18-22-02-44	Package Explorer	activated
+FileChange	2016-03-18-22-03-21	/Users/xiezhenyu/mooctest/projects/341/12473/CheckOddEven/src/CheckOddEven.java	[ChangeDelta, position: 9, lines: [		if(true){, 			System.out.println();] to [		if((num%2)==1){, 			System.out.println("Odd Number");]]	[ChangeDelta, position: 12, lines: [		}else{, 			System.out.println();] to [		}, 		else{, 			System.out.println("Not Odd Number");]]	
+Part	2016-03-18-22-03-23	Package Explorer	deactivated
+CaretPosition	2016-03-18-22-03-23	Console (<terminated> JUnitCore [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年3月18日 下午10:03:21))	1
+Part	2016-03-18-22-03-23	Console (<terminated> JUnitCore [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年3月18日 下午10:03:21))	activated
+CaretPosition	2016-03-18-22-03-24	Console (<terminated> JUnitCore [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年3月18日 下午10:03:21))	5
+CaretPosition	2016-03-18-22-03-24	Console (<terminated> JUnitCore [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年3月18日 下午10:03:21))	5
+Part	2016-03-18-22-03-34	Console (<terminated> JUnitCore [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年3月18日 下午10:03:21))	deactivated
+Part	2016-03-18-22-03-34	MoocTest	opened
+Part	2016-03-18-22-03-34	MoocTest	broughtToTop
+Part	2016-03-18-22-03-34	MoocTest	activated
+Part	2016-03-18-22-03-58	MoocTest	deactivated
+CaretPosition	2016-03-18-22-03-58	CheckOddEven.java	20
+Part	2016-03-18-22-03-58	CheckOddEven.java	activated
+CaretPosition	2016-03-18-22-03-59	CheckOddEven.java	12
+Part	2016-03-18-22-04-04	CheckOddEven.java	deactivated
+Part	2016-03-18-22-04-04	MoocTest	activated
+Part	2016-03-18-22-04-54	MoocTest	deactivated
+CaretPosition	2016-03-18-22-04-54	CheckOddEven.java	12
+Part	2016-03-18-22-04-54	CheckOddEven.java	activated
+CaretPosition	2016-03-18-22-05-07	CheckOddEven.java	12
+CaretPosition	2016-03-18-22-05-08	CheckOddEven.java	12
+CaretPosition	2016-03-18-22-05-10	CheckOddEven.java	12
+CaretPosition	2016-03-18-22-05-11	CheckOddEven.java	16
+CaretPosition	2016-03-18-22-05-13	CheckOddEven.java	16
+CaretPosition	2016-03-18-22-05-15	CheckOddEven.java	16
+FileChange	2016-03-18-22-05-17	/Users/xiezhenyu/mooctest/projects/341/12473/CheckOddEven/src/CheckOddEven.java	[ChangeDelta, position: 11, lines: [			return null;] to [			return true;]]	[ChangeDelta, position: 15, lines: [			return null;] to [			return false;]]	
+Part	2016-03-18-22-05-17	Console (JUnitCore [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年3月18日 下午10:05:17))	broughtToTop
+Part	2016-03-18-22-05-22	CheckOddEven.java	deactivated
+Part	2016-03-18-22-05-22	MoocTest	broughtToTop
+Part	2016-03-18-22-05-22	MoocTest	activated
+Part	2016-03-18-22-05-34	Navigator	closed
+Part	2016-03-18-22-05-34	Package Explorer	closed
+Part	2016-03-18-22-05-34	Outline	closed
+Part	2016-03-18-22-05-34	LoginFrame.java	closed
+Part	2016-03-18-22-05-34	CheckOddEven.java	closed
+Part	2016-03-18-22-05-34	Console (<terminated> JUnitCore [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年3月18日 下午10:05:17))	closed
+Part	2016-03-18-22-05-34	MoocTest	deactivated
+Part	2016-03-18-22-05-34	MoocTest	closed
+Part	2016-03-23-23-15-32	HelloWorld.java	deactivated
+CaretPosition	2016-03-23-23-15-32	Console (<terminated> JUnitCore [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年3月23日 下午11:15:26))	1
+Part	2016-03-23-23-15-32	Console (<terminated> JUnitCore [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年3月23日 下午11:15:26))	activated
+CaretPosition	2016-03-23-23-15-58	Console (Java Stack Trace Console)	1
+CaretPosition	2016-03-23-23-15-59	Console (Java Stack Trace Console)	1
+CaretPosition	2016-03-23-23-16-00	Console (Java Stack Trace Console)	2
+Part	2016-03-23-23-17-16	Console (<terminated> JUnitCore [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年3月23日 下午11:16:12))	deactivated
+Part	2016-03-23-23-17-16	MoocTest	opened
+Part	2016-03-23-23-17-16	MoocTest	broughtToTop
+Part	2016-03-23-23-17-16	MoocTest	activated
+Part	2016-03-23-23-17-31	MoocTest	deactivated
+Part	2016-03-23-23-17-31	Console (JUnitCore [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年3月23日 下午11:17:31))	broughtToTop
+CaretPosition	2016-03-23-23-17-31	Console (JUnitCore [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年3月23日 下午11:17:31))	2
+CaretPosition	2016-03-23-23-17-31	Console (JUnitCore [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年3月23日 下午11:17:31))	1
+Part	2016-03-23-23-17-31	Console (JUnitCore [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年3月23日 下午11:17:31))	activated
+Part	2016-03-23-23-17-51	Package Explorer	closed
+Part	2016-03-23-23-17-51	Outline	closed
+Part	2016-03-23-23-17-51	mYMouseAdapter.java	closed
+Part	2016-03-23-23-17-51	HelloWorld.java	closed
+Part	2016-03-23-23-17-51	MoocTest	closed
+Part	2016-03-23-23-17-51	Console (<terminated> JUnitCore [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年3月23日 下午11:17:31))	deactivated
+Part	2016-03-23-23-17-51	Console (<terminated> JUnitCore [Java Application] /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/bin/java (2016年3月23日 下午11:17:31))	closed

@@ -1,0 +1,1 @@
+{"totalNum":3,"failureNum":0,"successNum":3,"classes":[{"testCases":[{"success":"1","methodName":"testHex2Dec2"},{"success":"1","methodName":"testHex2Dec3"},{"success":"1","methodName":"testHex2Dec1"}],"className":"Hex2DecTest"}],"proName":"Hex2Dec"}
